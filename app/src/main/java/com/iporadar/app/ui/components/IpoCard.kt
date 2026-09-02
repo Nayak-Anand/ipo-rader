@@ -109,19 +109,10 @@ fun IpoCard(
                 )
                 LabeledValue(
                     label = if (ipo.stage() == Stage.LISTED) "Listing gain" else "GMP",
-                    value = when {
-                        ipo.stage() == Stage.LISTED && ipo.listingGainPct != null ->
-                            Fmt.pct(ipo.listingGainPct)
-                        ipo.gmp != null -> Fmt.rupeesSigned(ipo.gmp.premium)
-                        else -> "—"
-                    },
+                    // Rupees and percent read as one figure, so keep them on one line.
+                    value = gmpLabel(ipo),
                     valueColor = gainColor,
-                    // The premium alone means little without the % it implies.
-                    sub = ipo.gmp?.estimatedGainPct(ipo.priceMax)
-                        ?.takeIf { ipo.stage() != Stage.LISTED }
-                        ?.let { Fmt.pct(it, 1) },
-                    subColor = gainColor,
-                    modifier = Modifier.weight(1f)
+                    modifier = Modifier.weight(1.15f)
                 )
                 LabeledValue(
                     label = "Min. invest",
@@ -185,6 +176,17 @@ fun IpoCard(
             }
         }
     }
+}
+
+/** "+₹32 (+18.1%)" — the premium with the gain it works out to, on one line. */
+private fun gmpLabel(ipo: Ipo): String {
+    if (ipo.stage() == Stage.LISTED) {
+        return ipo.listingGainPct?.let { Fmt.pct(it) } ?: "—"
+    }
+    val gmp = ipo.gmp ?: return "—"
+    val rupees = Fmt.rupeesSigned(gmp.premium)
+    val pct = gmp.estimatedGainPct(ipo.priceMax) ?: return rupees
+    return "$rupees (${Fmt.pct(pct, 1)})"
 }
 
 /** The bidding window, always visible — this is what people scan the list for. */
