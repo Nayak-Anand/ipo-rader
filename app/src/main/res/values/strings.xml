@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IPO Radar</string>
+    <string name="tab_open">Open</string>
+    <string name="tab_upcoming">Upcoming</string>
+    <string name="tab_closed">Closed</string>
+    <string name="tab_listed">Listed</string>
+</resources>

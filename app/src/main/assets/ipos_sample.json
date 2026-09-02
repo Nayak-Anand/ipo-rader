@@ -1,0 +1,270 @@
+{
+  "updatedAt": "2026-09-01T09:30:00+05:30",
+  "_comment": "Bundled fallback so the app is never blank on first launch. Replace with your live feed at FEED_BASE_URL — same schema. See server/README.md.",
+  "ipos": [
+    {
+      "id": "vanta-mobility-2026",
+      "name": "Vanta Mobility Ltd",
+      "symbol": "VANTAMOB",
+      "board": "MAINBOARD",
+      "status": "OPEN",
+      "priceMin": 246,
+      "priceMax": 259,
+      "lotSize": 57,
+      "issueSizeCr": 1240.5,
+      "freshIssueCr": 900,
+      "ofsCr": 340.5,
+      "openDate": "2026-08-31",
+      "closeDate": "2026-09-02",
+      "allotmentDate": "2026-09-03",
+      "refundDate": "2026-09-04",
+      "listingDate": "2026-09-05",
+      "registrar": "Link Intime India Pvt Ltd",
+      "exchange": "BSE, NSE",
+      "about": "Electric two-wheeler manufacturer with 14 assembly lines across Maharashtra and Tamil Nadu. Fresh issue of ₹900 Cr plus an offer for sale by promoters.",
+      "strengths": [
+        "Third-largest electric two-wheeler maker by FY26 volumes, with 11.4% market share.",
+        "In-house battery pack assembly keeps gross margin ~7 points above peers.",
+        "Dealer network of 640 outlets across 22 states, 71% in tier-2 and tier-3 cities."
+      ],
+      "risks": [
+        "Roughly 38% of FY26 revenue depended on FAME-II style subsidies that expire in 2027.",
+        "Top five suppliers account for 61% of raw material purchases — cell supply is concentrated in China.",
+        "Two product recalls in FY25 over battery thermal issues; further recalls would hit the brand."
+      ],
+      "financials": [
+        { "period": "FY24", "revenueCr": 1842, "patCr": -61, "netWorthCr": 720, "borrowingsCr": 540 },
+        { "period": "FY25", "revenueCr": 2610, "patCr": 84, "netWorthCr": 812, "borrowingsCr": 498 },
+        { "period": "FY26", "revenueCr": 3455, "patCr": 196, "netWorthCr": 1024, "borrowingsCr": 431 }
+      ],
+      "valuation": {
+        "peRatio": 34.2,
+        "industryPe": 41.8,
+        "eps": 7.57,
+        "ronwPct": 19.1,
+        "marketCapCr": 6702
+      },
+      "gmp": {
+        "premium": 62,
+        "kostak": 850,
+        "subjectToSauda": 5200,
+        "updatedAt": "1 Sep, 9:15 AM",
+        "history": [
+          { "date": "22 Aug", "premium": 18 },
+          { "date": "24 Aug", "premium": 25 },
+          { "date": "26 Aug", "premium": 31 },
+          { "date": "28 Aug", "premium": 44 },
+          { "date": "30 Aug", "premium": 51 },
+          { "date": "31 Aug", "premium": 58 },
+          { "date": "1 Sep", "premium": 62 }
+        ]
+      },
+      "subscription": {
+        "qib": 3.42,
+        "niiBig": 11.24,
+        "niiSmall": 6.58,
+        "retail": 5.16,
+        "employee": 2.03,
+        "total": 5.28,
+        "updatedAt": "1 Sep, 5:00 PM"
+      }
+    },
+    {
+      "id": "shakti-agritech-2026",
+      "name": "Shakti Agritech Ltd",
+      "symbol": "SHAKTIAG",
+      "board": "SME",
+      "status": "OPEN",
+      "priceMin": 88,
+      "priceMax": 93,
+      "lotSize": 1600,
+      "issueSizeCr": 42.8,
+      "freshIssueCr": 42.8,
+      "ofsCr": 0,
+      "openDate": "2026-09-01",
+      "closeDate": "2026-09-03",
+      "allotmentDate": "2026-09-04",
+      "refundDate": "2026-09-05",
+      "listingDate": "2026-09-08",
+      "registrar": "Bigshare Services Pvt Ltd",
+      "exchange": "NSE SME",
+      "about": "Micro-irrigation systems and agri inputs distributor operating across five states.",
+      "strengths": [
+        "Entire issue is fresh capital — no promoter selling out.",
+        "Order book of ₹78 Cr from state government drip-irrigation tenders."
+      ],
+      "risks": [
+        "Revenue is seasonal and monsoon-dependent; Q2 is loss-making most years.",
+        "Government tenders are 66% of revenue, with 120+ day receivable cycles."
+      ],
+      "financials": [
+        { "period": "FY25", "revenueCr": 118, "patCr": 7.4, "netWorthCr": 41, "borrowingsCr": 29 },
+        { "period": "FY26", "revenueCr": 164, "patCr": 12.1, "netWorthCr": 53, "borrowingsCr": 26 }
+      ],
+      "valuation": {
+        "peRatio": 22.6,
+        "industryPe": 18.4,
+        "eps": 4.11,
+        "ronwPct": 22.8
+      },
+      "gmp": {
+        "premium": 11,
+        "kostak": 300,
+        "updatedAt": "1 Sep, 9:15 AM",
+        "history": [
+          { "date": "27 Aug", "premium": 6 },
+          { "date": "29 Aug", "premium": 9 },
+          { "date": "31 Aug", "premium": 13 },
+          { "date": "1 Sep", "premium": 11 }
+        ]
+      },
+      "subscription": {
+        "retail": 2.11,
+        "nii": 1.44,
+        "total": 1.87,
+        "updatedAt": "1 Sep, 5:00 PM"
+      }
+    },
+    {
+      "id": "northline-logistics-2026",
+      "name": "Northline Logistics Ltd",
+      "symbol": "NORTHLINE",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": 412,
+      "priceMax": 434,
+      "lotSize": 34,
+      "issueSizeCr": 2150.0,
+      "freshIssueCr": 750,
+      "ofsCr": 1400,
+      "openDate": "2026-09-04",
+      "closeDate": "2026-09-08",
+      "allotmentDate": "2026-09-09",
+      "refundDate": "2026-09-10",
+      "listingDate": "2026-09-11",
+      "registrar": "KFin Technologies Ltd",
+      "exchange": "BSE, NSE",
+      "about": "Third-party logistics operator with 41 warehouses and a 2,300-vehicle fleet.",
+      "strengths": [
+        "Contracts with 8 of India's top 10 FMCG companies, average tenure 6 years.",
+        "Warehouse utilisation of 91% versus an industry average near 78%."
+      ],
+      "risks": [
+        "65% of the issue is an offer for sale — most of the money goes to existing investors, not the company.",
+        "Diesel is 31% of operating cost with no fuel-escalation clause in older contracts."
+      ],
+      "financials": [
+        { "period": "FY24", "revenueCr": 3120, "patCr": 141, "netWorthCr": 980, "borrowingsCr": 1120 },
+        { "period": "FY25", "revenueCr": 3760, "patCr": 188, "netWorthCr": 1148, "borrowingsCr": 1064 },
+        { "period": "FY26", "revenueCr": 4390, "patCr": 254, "netWorthCr": 1382, "borrowingsCr": 990 }
+      ],
+      "valuation": {
+        "peRatio": 38.9,
+        "industryPe": 32.1,
+        "eps": 11.16,
+        "ronwPct": 18.4,
+        "marketCapCr": 9880
+      },
+      "gmp": {
+        "premium": 38,
+        "kostak": 700,
+        "subjectToSauda": 4100,
+        "updatedAt": "1 Sep, 9:15 AM",
+        "history": [
+          { "date": "28 Aug", "premium": 20 },
+          { "date": "30 Aug", "premium": 29 },
+          { "date": "1 Sep", "premium": 38 }
+        ]
+      }
+    },
+    {
+      "id": "arvind-speciality-2026",
+      "name": "Arvind Speciality Chemicals Ltd",
+      "symbol": "ARVSPEC",
+      "board": "MAINBOARD",
+      "status": "CLOSED",
+      "priceMin": 305,
+      "priceMax": 321,
+      "lotSize": 46,
+      "issueSizeCr": 860.0,
+      "freshIssueCr": 500,
+      "ofsCr": 360,
+      "openDate": "2026-08-26",
+      "closeDate": "2026-08-28",
+      "allotmentDate": "2026-09-01",
+      "refundDate": "2026-09-02",
+      "listingDate": "2026-09-03",
+      "registrar": "MUFG Intime India",
+      "exchange": "BSE, NSE",
+      "about": "Manufacturer of performance chemicals for textiles, paints and personal care.",
+      "financials": [
+        { "period": "FY25", "revenueCr": 1420, "patCr": 132, "netWorthCr": 690, "borrowingsCr": 310 },
+        { "period": "FY26", "revenueCr": 1735, "patCr": 178, "netWorthCr": 848, "borrowingsCr": 288 }
+      ],
+      "valuation": {
+        "peRatio": 27.4,
+        "industryPe": 30.2,
+        "eps": 11.71,
+        "ronwPct": 21.0
+      },
+      "gmp": {
+        "premium": 47,
+        "updatedAt": "1 Sep, 9:15 AM",
+        "history": [
+          { "date": "24 Aug", "premium": 30 },
+          { "date": "26 Aug", "premium": 41 },
+          { "date": "28 Aug", "premium": 52 },
+          { "date": "1 Sep", "premium": 47 }
+        ]
+      },
+      "subscription": {
+        "qib": 61.2,
+        "niiBig": 52.7,
+        "niiSmall": 36.9,
+        "retail": 12.6,
+        "total": 38.4,
+        "updatedAt": "28 Aug, 7:00 PM"
+      }
+    },
+    {
+      "id": "meghna-power-2026",
+      "name": "Meghna Power Systems Ltd",
+      "symbol": "MEGHPOWER",
+      "board": "MAINBOARD",
+      "status": "LISTED",
+      "priceMin": 178,
+      "priceMax": 187,
+      "lotSize": 80,
+      "issueSizeCr": 640.0,
+      "freshIssueCr": 400,
+      "ofsCr": 240,
+      "openDate": "2026-08-18",
+      "closeDate": "2026-08-20",
+      "allotmentDate": "2026-08-21",
+      "refundDate": "2026-08-22",
+      "listingDate": "2026-08-25",
+      "listingPrice": 244,
+      "registrar": "KFin Technologies Ltd",
+      "exchange": "BSE, NSE",
+      "about": "Transformer and switchgear maker supplying state discoms and private EPC contractors.",
+      "financials": [
+        { "period": "FY25", "revenueCr": 890, "patCr": 61, "netWorthCr": 340, "borrowingsCr": 205 },
+        { "period": "FY26", "revenueCr": 1105, "patCr": 92, "netWorthCr": 428, "borrowingsCr": 188 }
+      ],
+      "valuation": {
+        "peRatio": 24.1,
+        "industryPe": 28.6,
+        "eps": 7.76,
+        "ronwPct": 21.5
+      },
+      "subscription": {
+        "qib": 88.4,
+        "niiBig": 84.1,
+        "niiSmall": 59.2,
+        "retail": 19.3,
+        "total": 54.7,
+        "updatedAt": "20 Aug, 7:00 PM"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ipo-radar-feed",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Free IPO + GMP JSON feed builder for the IPO Radar Android app",
+  "scripts": {
+    "build": "node scrape.mjs",
+    "dry": "node scrape.mjs --dry-run"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

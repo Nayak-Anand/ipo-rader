@@ -1,0 +1,34 @@
+{
+  "_comment": "GMP sources, tried in the order listed. Each runs independently — one being down never blocks the others. For a company reported by several sources, the first one listed wins and the rest only fill gaps.",
+
+  "sources": [
+    {
+      "name": "investorgain",
+      "type": "report-json",
+      "enabled": true,
+      "url": "https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/{month}/{year}/{fy}/0/all?search=&v=10-49",
+      "referer": "https://www.investorgain.com/report/ipo-gmp-live/331/",
+      "origin": "https://www.investorgain.com",
+      "_note": "{month}/{year}/{fy} are substituted per run so the URL does not go stale. If it ever starts returning 'API not found', open the GMP page in Chrome, DevTools > Network > Fetch/XHR, and copy the new Request URL here."
+    },
+    {
+      "name": "chittorgarh",
+      "type": "report-json",
+      "enabled": false,
+      "url": "",
+      "referer": "https://www.chittorgarh.com/",
+      "origin": "https://www.chittorgarh.com",
+      "_note": "Same reporting platform as investorgain, so the same adapter works. Capture the URL the same way (DevTools > Network > Fetch/XHR on their GMP page), paste it here and set enabled:true. Having a second source means a single site being down no longer costs you GMP."
+    },
+    {
+      "name": "custom",
+      "type": "html-table",
+      "enabled": false,
+      "url": "",
+      "rowSelector": "table tbody tr",
+      "nameCell": 0,
+      "premiumCell": 2,
+      "_note": "Generic HTML table reader for any other source you are permitted to read. Check the site's robots.txt and terms first."
+    }
+  ]
+}

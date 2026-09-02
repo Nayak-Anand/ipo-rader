@@ -1,0 +1,49 @@
+{
+  "_comment": "Manual fill-ins, keyed by IPO id (symbol lowercased and hyphenated — the same id you see in public/ipos.json). NSE publishes none of this: registrar, allotment/refund dates, prospectus content, financials or valuation. Anything set here wins over the scraped value. Delete the example block below.",
+
+  "example-symbol": {
+    "registrar": "Link Intime India Pvt Ltd",
+    "allotmentDate": "2026-09-03",
+    "refundDate": "2026-09-04",
+    "about": "One-paragraph description of the company.",
+
+    "freshIssueCr": 900,
+    "ofsCr": 340.5,
+
+    "gmp": 62,
+    "kostak": 850,
+    "subjectToSauda": 5200,
+
+    "strengths": [
+      "Each string becomes one bullet on the detail screen.",
+      "Pull these from the 'Our Strengths' section of the RHP."
+    ],
+    "risks": [
+      "Pull these from 'Risk Factors' in the RHP — pick the 3-4 that actually matter.",
+      "Keep them factual; the app shows them verbatim."
+    ],
+
+    "financials": [
+      { "period": "FY24", "revenueCr": 1842, "patCr": -61, "netWorthCr": 720, "borrowingsCr": 540 },
+      { "period": "FY25", "revenueCr": 2610, "patCr": 84, "netWorthCr": 812, "borrowingsCr": 498 },
+      { "period": "FY26", "revenueCr": 3455, "patCr": 196, "netWorthCr": 1024, "borrowingsCr": 431 }
+    ],
+
+    "valuation": {
+      "peRatio": 34.2,
+      "industryPe": 41.8,
+      "eps": 7.57,
+      "ronwPct": 19.1,
+      "marketCapCr": 6702
+    },
+
+    "subscription": {
+      "qib": 3.42,
+      "niiBig": 11.24,
+      "niiSmall": 6.58,
+      "retail": 5.16,
+      "employee": 2.03,
+      "total": 5.28
+    }
+  }
+}

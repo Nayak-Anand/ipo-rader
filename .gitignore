@@ -1,0 +1,28 @@
+# Build output
+build/
+.gradle/
+.cxx/
+.kotlin/
+captures/
+.externalNativeBuild/
+
+# IDE
+*.iml
+.idea/
+.DS_Store
+
+# Local machine config — SDK path differs per machine
+local.properties
+
+# Signing — NEVER commit these. Losing the keystore means the app can never be
+# updated on Play Store again, and committing it lets anyone ship as you.
+keystore.properties
+*.jks
+*.keystore
+
+# Node
+node_modules/
+
+# APKs are build artefacts, not source
+*.apk
+*.aab
