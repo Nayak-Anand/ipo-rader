@@ -145,9 +145,26 @@ async function main() {
   // so carry over any row it reported that NSE never mentioned — otherwise a whole
   // segment of the market (and the registrars that serve it) is invisible.
   const matchedNames = new Set(issues.map((i) => normaliseName(i.name)))
+
+  // NSE uses the full legal name, the GMP report a short one, so an exact key misses
+  // pairs like "Rays of Belief" / "Rays of Belief Limited- For Profit Social
+  // Enterprise (FPSE)". Compare on a shared head long enough not to collide.
+  const MIN_PREFIX = 12
+  const alreadyCovered = (key) => {
+    if (matchedNames.has(key)) return true
+    if (key.length < MIN_PREFIX) return false
+    for (const known of matchedNames) {
+      if (known.length < MIN_PREFIX) continue
+      if (known.startsWith(key.slice(0, MIN_PREFIX)) || key.startsWith(known.slice(0, MIN_PREFIX))) {
+        return true
+      }
+    }
+    return false
+  }
+
   for (const row of gmpRows) {
     const key = normaliseName(row.name)
-    if (!key || matchedNames.has(key)) continue
+    if (!key || alreadyCovered(key)) continue
     matchedNames.add(key)
 
     const override = overrides[key] ?? {}
@@ -189,12 +206,20 @@ async function main() {
   }
 
   // Keep recently-listed issues around for the "Listed" tab even after NSE drops them.
+  // Dedupe by name, not id: an entry carried over from an older run may have been
+  // keyed on the short name while this run keyed the same company on its symbol.
   const liveKeys = new Set(ipos.map((i) => i.id))
   const cutoff = Date.now() - 45 * 24 * 60 * 60 * 1000
   for (const old of previous.ipos ?? []) {
     if (liveKeys.has(old.id)) continue
+    const key = normaliseName(old.name)
+    if (alreadyCovered(key)) continue
+
     const listed = old.listingDate ? Date.parse(old.listingDate) : null
-    if (listed && listed > cutoff) ipos.push({ ...old, status: 'LISTED' })
+    if (listed && listed > cutoff) {
+      matchedNames.add(key)
+      ipos.push({ ...old, status: 'LISTED' })
+    }
   }
 
   const envelope = {

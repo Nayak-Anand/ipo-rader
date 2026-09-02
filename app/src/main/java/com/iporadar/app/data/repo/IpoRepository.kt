@@ -199,8 +199,10 @@ class IpoRepository(
 
         val enriched = feed.map { base ->
             val key = matchKey(base)
-            val live = nseByKey[key] ?: return@map base
-            used += key
+            val (matchedKey, live) = nseByKey[key]?.let { key to it }
+                ?: prefixMatch(key, nseByKey)
+                ?: return@map base
+            used += matchedKey
             base.copy(
                 status = if (live.status == IpoStatus.OPEN) IpoStatus.OPEN else base.status,
                 priceMin = base.priceMin ?: live.priceMin,
@@ -249,6 +251,20 @@ class IpoRepository(
      * company through twice, once per source. The name, with its suffixes stripped,
      * is the one field both sources always carry.
      */
+    /**
+     * The two sources spell long names differently — NSE carries the full legal name
+     * ("Rays of Belief Limited- For Profit Social Enterprise (FPSE)") while the GMP
+     * report uses the short one ("Rays of Belief"). Exact keys miss those, so fall
+     * back to a prefix match once the shared head is long enough to be unambiguous.
+     */
+    private fun prefixMatch(key: String, candidates: Map<String, Ipo>): Pair<String, Ipo>? {
+        if (key.length < MIN_PREFIX) return null
+        return candidates.entries.firstOrNull { (other, _) ->
+            other.length >= MIN_PREFIX &&
+                (other.startsWith(key.take(MIN_PREFIX)) || key.startsWith(other.take(MIN_PREFIX)))
+        }?.let { it.key to it.value }
+    }
+
     private fun matchKey(ipo: Ipo): String {
         val byName = ipo.name
             .lowercase()
@@ -276,6 +292,8 @@ class IpoRepository(
         const val PAST_ISSUE_WINDOW_DAYS = 75L
         const val MAX_PAST_ISSUES = 40
         const val MAX_DETAIL_REQUESTS = 18
+        /** Shared head long enough that two different companies will not collide. */
+        const val MIN_PREFIX = 12
         const val RECENT_CLOSED_TO_ENRICH = 8
 
         /** Open first, then upcoming by nearest open date, then most recent closed/listed. */
