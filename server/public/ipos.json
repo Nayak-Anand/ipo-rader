@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T11:32:47.049Z",
+  "updatedAt": "2026-09-03T16:37:15.080Z",
   "ipos": [
     {
       "id": "deepa",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 20,
+        "premium": 18,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -38,7 +38,7 @@
           },
           {
             "date": "3 Sept",
-            "premium": 20
+            "premium": 18
           }
         ]
       },
@@ -72,10 +72,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 13,
+        "premium": 12,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -83,13 +83,52 @@
           },
           {
             "date": "3 Sept",
-            "premium": 13
+            "premium": 12
           }
         ]
       },
       "subscription": {
-        "total": 77.14
+        "total": 77.15
       }
+    },
+    {
+      "id": "glasswall",
+      "name": "Glass Wall Systems (India) Limited",
+      "symbol": "GLASSWALL",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": 172,
+      "priceMax": 182,
+      "lotSize": 82,
+      "issueSizeCr": 431.38,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-08",
+      "closeDate": "2026-09-10",
+      "allotmentDate": "2026-09-11",
+      "refundDate": null,
+      "listingDate": "2026-09-16",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 20,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "3/9/2026, 10:07:15 pm",
+        "history": [
+          {
+            "date": "3 Sept",
+            "premium": 20
+          }
+        ]
+      },
+      "subscription": null
     },
     {
       "id": "kanohar",
@@ -117,14 +156,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 160,
+        "premium": 200,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "3 Sept",
-            "premium": 160
+            "premium": 200
           }
         ]
       },
@@ -159,7 +198,7 @@
         "premium": 30,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "3 Sept",
@@ -178,7 +217,7 @@
       "priceMin": 120,
       "priceMax": 127,
       "lotSize": 1000,
-      "issueSizeCr": 45.11,
+      "issueSizeCr": 32.3,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-09-04",
@@ -198,7 +237,7 @@
         "premium": 55,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -241,7 +280,7 @@
         "premium": 18,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -312,45 +351,6 @@
       "subscription": null
     },
     {
-      "id": "glasswallsystems",
-      "name": "Glass Wall Systems",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 182,
-      "lotSize": 82,
-      "issueSizeCr": 427.89,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-08",
-      "closeDate": "2026-09-10",
-      "allotmentDate": "2026-09-11",
-      "refundDate": null,
-      "listingDate": "2026-09-16",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 20,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
-        "history": [
-          {
-            "date": "3 Sept",
-            "premium": 20
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
       "id": "prasolchemicals",
       "name": "Prasol Chemicals",
       "symbol": "",
@@ -379,7 +379,7 @@
         "premium": 14,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "3 Sept",
@@ -442,9 +442,20 @@
       "financials": [],
       "valuation": null,
       "listingPrice": null,
-      "gmp": null,
+      "gmp": {
+        "premium": 3,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "3/9/2026, 10:07:15 pm",
+        "history": [
+          {
+            "date": "3 Sept",
+            "premium": 3
+          }
+        ]
+      },
       "subscription": {
-        "total": 1.13
+        "total": 1.16
       }
     },
     {
@@ -476,7 +487,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -489,7 +500,7 @@
         ]
       },
       "subscription": {
-        "total": 2.1
+        "total": 2.12
       }
     },
     {
@@ -518,14 +529,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 13,
+        "premium": 20,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "3 Sept",
-            "premium": 13
+            "premium": 20
           }
         ]
       },
@@ -562,7 +573,7 @@
         "premium": 2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "3 Sept",
@@ -603,7 +614,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -648,7 +659,7 @@
         "premium": 33,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "3 Sept",
@@ -686,14 +697,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 30,
+        "premium": 28,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "3 Sept",
-            "premium": 30
+            "premium": 28
           }
         ]
       },
@@ -730,7 +741,7 @@
         "premium": 9,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -802,14 +813,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 213,
+        "premium": 247,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "3 Sept",
-            "premium": 213
+            "premium": 247
           }
         ]
       },
@@ -876,7 +887,7 @@
         "premium": 78,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -921,7 +932,7 @@
         "premium": 38,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -966,7 +977,7 @@
         "premium": 22,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -1011,7 +1022,7 @@
         "premium": -7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -1056,7 +1067,7 @@
         "premium": 33,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -1101,7 +1112,7 @@
         "premium": 185,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -1146,7 +1157,7 @@
         "premium": 39,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -1191,7 +1202,7 @@
         "premium": 2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "updatedAt": "3/9/2026, 10:07:15 pm",
         "history": [
           {
             "date": "2 Sept",
