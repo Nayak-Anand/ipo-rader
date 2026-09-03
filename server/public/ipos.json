@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T04:52:38.894Z",
+  "updatedAt": "2026-09-03T11:32:47.049Z",
   "ipos": [
     {
       "id": "deepa",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 28,
+        "premium": 20,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -38,12 +38,12 @@
           },
           {
             "date": "3 Sept",
-            "premium": 28
+            "premium": 20
           }
         ]
       },
       "subscription": {
-        "total": 3.04
+        "total": 33.34
       }
     },
     {
@@ -72,10 +72,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 47,
+        "premium": 13,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -83,31 +83,31 @@
           },
           {
             "date": "3 Sept",
-            "premium": 47
+            "premium": 13
           }
         ]
       },
       "subscription": {
-        "total": 3.55
+        "total": 77.14
       }
     },
     {
-      "id": "perniaspop",
-      "name": "Purple Style Labs Limited",
-      "symbol": "PERNIASPOP",
+      "id": "kanohar",
+      "name": "Kanohar Electricals Limited",
+      "symbol": "KANOHAR",
       "board": "MAINBOARD",
-      "status": "CLOSED",
-      "priceMin": 546,
-      "priceMax": 575,
-      "lotSize": 26,
-      "issueSizeCr": 393.86,
+      "status": "UPCOMING",
+      "priceMin": 601,
+      "priceMax": 632,
+      "lotSize": 23,
+      "issueSizeCr": 1071.21,
       "freshIssueCr": null,
       "ofsCr": null,
-      "openDate": "2026-08-31",
-      "closeDate": "2026-09-02",
-      "allotmentDate": "2026-09-03",
+      "openDate": "2026-09-08",
+      "closeDate": "2026-09-10",
+      "allotmentDate": "2026-09-11",
       "refundDate": null,
-      "listingDate": "2026-09-07",
+      "listingDate": "2026-09-16",
       "registrar": null,
       "exchange": "NSE",
       "about": null,
@@ -117,24 +117,57 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 1.5,
+        "premium": 160,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
-            "date": "2 Sept",
-            "premium": 1.5
-          },
-          {
             "date": "3 Sept",
-            "premium": 1.5
+            "premium": 160
           }
         ]
       },
-      "subscription": {
-        "total": 1.36
-      }
+      "subscription": null
+    },
+    {
+      "id": "pranav",
+      "name": "Pranav Constructions Limited",
+      "symbol": "PRANAV",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": 118,
+      "priceMax": 124,
+      "lotSize": 120,
+      "issueSizeCr": 367.07,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-07",
+      "closeDate": "2026-09-09",
+      "allotmentDate": "2026-09-10",
+      "refundDate": null,
+      "listingDate": "2026-09-15",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 30,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "history": [
+          {
+            "date": "3 Sept",
+            "premium": 30
+          }
+        ]
+      },
+      "subscription": null
     },
     {
       "id": "qualiance",
@@ -165,7 +198,7 @@
         "premium": 55,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -208,7 +241,7 @@
         "premium": 18,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -223,15 +256,15 @@
       "subscription": null
     },
     {
-      "id": "assetreconstruction",
-      "name": "Asset Reconstruction",
+      "id": "amtechesters",
+      "name": "Amtech Esters",
       "symbol": "",
-      "board": "MAINBOARD",
+      "board": "SME",
       "status": "UPCOMING",
       "priceMin": null,
-      "priceMax": 139,
-      "lotSize": 107,
-      "issueSizeCr": 732.97,
+      "priceMax": 75,
+      "lotSize": 1600,
+      "issueSizeCr": 17.88,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-09-09",
@@ -251,15 +284,15 @@
       "subscription": null
     },
     {
-      "id": "amtechesters",
-      "name": "Amtech Esters",
+      "id": "assetreconstruction",
+      "name": "Asset Reconstruction",
       "symbol": "",
-      "board": "SME",
+      "board": "MAINBOARD",
       "status": "UPCOMING",
       "priceMin": null,
-      "priceMax": null,
-      "lotSize": null,
-      "issueSizeCr": null,
+      "priceMax": 139,
+      "lotSize": 107,
+      "issueSizeCr": 732.97,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-09-09",
@@ -303,7 +336,18 @@
       "financials": [],
       "valuation": null,
       "listingPrice": null,
-      "gmp": null,
+      "gmp": {
+        "premium": 20,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "history": [
+          {
+            "date": "3 Sept",
+            "premium": 20
+          }
+        ]
+      },
       "subscription": null
     },
     {
@@ -331,58 +375,30 @@
       "financials": [],
       "valuation": null,
       "listingPrice": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "id": "kanoharelectricals",
-      "name": "Kanohar Electricals",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 632,
-      "lotSize": 23,
-      "issueSizeCr": 1055.74,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-08",
-      "closeDate": "2026-09-10",
-      "allotmentDate": "2026-09-11",
-      "refundDate": null,
-      "listingDate": "2026-09-16",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
       "gmp": {
-        "premium": 31,
+        "premium": 14,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "3 Sept",
-            "premium": 31
+            "premium": 14
           }
         ]
       },
       "subscription": null
     },
     {
-      "id": "pranavconstructions",
-      "name": "Pranav Constructions",
+      "id": "apanalogistics",
+      "name": "Apana Logistics",
       "symbol": "",
-      "board": "MAINBOARD",
+      "board": "SME",
       "status": "UPCOMING",
       "priceMin": null,
-      "priceMax": 124,
-      "lotSize": 120,
-      "issueSizeCr": 351.03,
+      "priceMax": 60,
+      "lotSize": 2000,
+      "issueSizeCr": 34.14,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-09-07",
@@ -398,22 +414,7 @@
       "financials": [],
       "valuation": null,
       "listingPrice": null,
-      "gmp": {
-        "premium": 27,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
-        "history": [
-          {
-            "date": "2 Sept",
-            "premium": 27
-          },
-          {
-            "date": "3 Sept",
-            "premium": 27
-          }
-        ]
-      },
+      "gmp": null,
       "subscription": null
     },
     {
@@ -443,7 +444,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 0.07
+        "total": 1.13
       }
     },
     {
@@ -472,10 +473,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 20,
+        "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -483,12 +484,12 @@
           },
           {
             "date": "3 Sept",
-            "premium": 20
+            "premium": 1
           }
         ]
       },
       "subscription": {
-        "total": 0.17
+        "total": 2.1
       }
     },
     {
@@ -520,7 +521,7 @@
         "premium": 13,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "3 Sept",
@@ -530,6 +531,47 @@
       },
       "subscription": {
         "total": 142.17
+      }
+    },
+    {
+      "id": "purplestylelabs",
+      "name": "Purple Style Labs",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "CLOSED",
+      "priceMin": null,
+      "priceMax": 575,
+      "lotSize": 26,
+      "issueSizeCr": 680,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-08-31",
+      "closeDate": "2026-09-02",
+      "allotmentDate": "2026-09-03",
+      "refundDate": null,
+      "listingDate": "2026-09-07",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 2,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "history": [
+          {
+            "date": "3 Sept",
+            "premium": 2
+          }
+        ]
+      },
+      "subscription": {
+        "total": 1.36
       }
     },
     {
@@ -561,7 +603,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -606,7 +648,7 @@
         "premium": 33,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "3 Sept",
@@ -644,14 +686,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 27,
+        "premium": 30,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "3 Sept",
-            "premium": 27
+            "premium": 30
           }
         ]
       },
@@ -660,15 +702,15 @@
       }
     },
     {
-      "id": "esdssoftwaresolution",
-      "name": "ESDS Software Solution",
+      "id": "palucktechnologies",
+      "name": "Paluck Technologies",
       "symbol": "",
-      "board": "MAINBOARD",
+      "board": "SME",
       "status": "CLOSED",
       "priceMin": null,
-      "priceMax": 429,
-      "lotSize": 34,
-      "issueSizeCr": 720,
+      "priceMax": 48,
+      "lotSize": 3000,
+      "issueSizeCr": 33,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-08-28",
@@ -685,19 +727,23 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 240,
+        "premium": 9,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
+            "date": "2 Sept",
+            "premium": 10
+          },
+          {
             "date": "3 Sept",
-            "premium": 240
+            "premium": 9
           }
         ]
       },
       "subscription": {
-        "total": 142.88
+        "total": 789.16
       }
     },
     {
@@ -731,15 +777,15 @@
       }
     },
     {
-      "id": "palucktechnologies",
-      "name": "Paluck Technologies",
+      "id": "esdssoftwaresolution",
+      "name": "ESDS Software Solution",
       "symbol": "",
-      "board": "SME",
+      "board": "MAINBOARD",
       "status": "CLOSED",
       "priceMin": null,
-      "priceMax": 48,
-      "lotSize": 3000,
-      "issueSizeCr": 33,
+      "priceMax": 429,
+      "lotSize": 34,
+      "issueSizeCr": 720,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-08-28",
@@ -756,23 +802,19 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 10,
+        "premium": 213,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
-            "date": "2 Sept",
-            "premium": 10
-          },
-          {
             "date": "3 Sept",
-            "premium": 10
+            "premium": 213
           }
         ]
       },
       "subscription": {
-        "total": 789.16
+        "total": 142.88
       }
     },
     {
@@ -834,7 +876,7 @@
         "premium": 78,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -879,7 +921,7 @@
         "premium": 38,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -893,51 +935,6 @@
       },
       "subscription": {
         "total": 124.02
-      }
-    },
-    {
-      "id": "annuprojects",
-      "name": "Annu Projects",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 99,
-      "lotSize": 151,
-      "issueSizeCr": 175.06,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-08-25",
-      "closeDate": "2026-08-28",
-      "allotmentDate": "2026-08-31",
-      "refundDate": null,
-      "listingDate": "2026-09-02",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": -7,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
-        "history": [
-          {
-            "date": "2 Sept",
-            "premium": -7
-          },
-          {
-            "date": "3 Sept",
-            "premium": -7
-          }
-        ]
-      },
-      "subscription": {
-        "total": 2.93
       }
     },
     {
@@ -969,7 +966,7 @@
         "premium": 22,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -986,22 +983,22 @@
       }
     },
     {
-      "id": "hytechengineers",
-      "name": "Hy-Tech Engineers",
+      "id": "annuprojects",
+      "name": "Annu Projects",
       "symbol": "",
       "board": "MAINBOARD",
       "status": "LISTED",
       "priceMin": null,
-      "priceMax": 53,
-      "lotSize": 283,
-      "issueSizeCr": 135.73,
+      "priceMax": 99,
+      "lotSize": 151,
+      "issueSizeCr": 175.06,
       "freshIssueCr": null,
       "ofsCr": null,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
+      "openDate": "2026-08-25",
+      "closeDate": "2026-08-28",
+      "allotmentDate": "2026-08-31",
       "refundDate": null,
-      "listingDate": "2026-09-01",
+      "listingDate": "2026-09-02",
       "registrar": null,
       "exchange": null,
       "about": null,
@@ -1011,23 +1008,23 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 39,
+        "premium": -7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "2 Sept",
-            "premium": 39
+            "premium": -7
           },
           {
             "date": "3 Sept",
-            "premium": 39
+            "premium": -7
           }
         ]
       },
       "subscription": {
-        "total": 247.39
+        "total": 2.93
       }
     },
     {
@@ -1059,7 +1056,7 @@
         "premium": 33,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -1104,7 +1101,7 @@
         "premium": 185,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -1121,15 +1118,15 @@
       }
     },
     {
-      "id": "abhhealthcare",
-      "name": "ABH Healthcare",
+      "id": "hytechengineers",
+      "name": "Hy-Tech Engineers",
       "symbol": "",
-      "board": "SME",
+      "board": "MAINBOARD",
       "status": "LISTED",
       "priceMin": null,
-      "priceMax": 102,
-      "lotSize": 1200,
-      "issueSizeCr": 34.98,
+      "priceMax": 53,
+      "lotSize": 283,
+      "issueSizeCr": 135.73,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-08-24",
@@ -1145,9 +1142,24 @@
       "financials": [],
       "valuation": null,
       "listingPrice": null,
-      "gmp": null,
+      "gmp": {
+        "premium": 39,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "3/9/2026, 5:02:47 pm",
+        "history": [
+          {
+            "date": "2 Sept",
+            "premium": 39
+          },
+          {
+            "date": "3 Sept",
+            "premium": 39
+          }
+        ]
+      },
       "subscription": {
-        "total": 1.44
+        "total": 247.39
       }
     },
     {
@@ -1179,7 +1191,7 @@
         "premium": 2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/9/2026, 10:22:38 am",
+        "updatedAt": "3/9/2026, 5:02:47 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -1193,6 +1205,36 @@
       },
       "subscription": {
         "total": 1.5
+      }
+    },
+    {
+      "id": "abhhealthcare",
+      "name": "ABH Healthcare",
+      "symbol": "",
+      "board": "SME",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 102,
+      "lotSize": 1200,
+      "issueSizeCr": 34.98,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-08-24",
+      "closeDate": "2026-08-27",
+      "allotmentDate": "2026-08-28",
+      "refundDate": null,
+      "listingDate": "2026-09-01",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": {
+        "total": 1.44
       }
     },
     {
