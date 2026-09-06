@@ -1,6 +1,63 @@
 {
-  "updatedAt": "2026-09-06T15:39:29.223Z",
+  "updatedAt": "2026-09-06T18:32:27.779Z",
   "ipos": [
+    {
+      "id": "pranav",
+      "name": "Pranav Constructions Limited",
+      "symbol": "PRANAV",
+      "board": "MAINBOARD",
+      "status": "OPEN",
+      "priceMin": 118,
+      "priceMax": 124,
+      "lotSize": 120,
+      "issueSizeCr": 278.54,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-07",
+      "closeDate": "2026-09-09",
+      "allotmentDate": "2026-09-10",
+      "refundDate": null,
+      "listingDate": "2026-09-15",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 44,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "7/9/2026, 12:02:27 am",
+        "history": [
+          {
+            "date": "3 Sept",
+            "premium": 30
+          },
+          {
+            "date": "4 Sept",
+            "premium": 39
+          },
+          {
+            "date": "5 Sept",
+            "premium": 41
+          },
+          {
+            "date": "6 Sept",
+            "premium": 44
+          },
+          {
+            "date": "7 Sept",
+            "premium": 44
+          }
+        ]
+      },
+      "subscription": {
+        "total": 0
+      }
+    },
     {
       "id": "qualiance",
       "name": "Qualiance International Limited",
@@ -30,7 +87,7 @@
         "premium": 55,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "2 Sept",
@@ -51,6 +108,10 @@
           {
             "date": "6 Sept",
             "premium": 55
+          },
+          {
+            "date": "7 Sept",
+            "premium": 55
           }
         ]
       },
@@ -59,15 +120,15 @@
       }
     },
     {
-      "id": "kanohar",
-      "name": "Kanohar Electricals Limited",
-      "symbol": "KANOHAR",
+      "id": "glasswall",
+      "name": "Glass Wall Systems (India) Limited",
+      "symbol": "GLASSWALL",
       "board": "MAINBOARD",
       "status": "UPCOMING",
-      "priceMin": 601,
-      "priceMax": 632,
-      "lotSize": 23,
-      "issueSizeCr": 1071.21,
+      "priceMin": 172,
+      "priceMax": 182,
+      "lotSize": 82,
+      "issueSizeCr": 431.38,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-09-08",
@@ -84,26 +145,30 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 205,
+        "premium": 35,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "3 Sept",
-            "premium": 200
+            "premium": 20
           },
           {
             "date": "4 Sept",
-            "premium": 205
+            "premium": 65
           },
           {
             "date": "5 Sept",
-            "premium": 200
+            "premium": 70
           },
           {
             "date": "6 Sept",
-            "premium": 205
+            "premium": 32
+          },
+          {
+            "date": "7 Sept",
+            "premium": 35
           }
         ]
       },
@@ -138,7 +203,7 @@
         "premium": 115,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "4 Sept",
@@ -151,21 +216,25 @@
           {
             "date": "6 Sept",
             "premium": 115
+          },
+          {
+            "date": "7 Sept",
+            "premium": 115
           }
         ]
       },
       "subscription": null
     },
     {
-      "id": "glasswall",
-      "name": "Glass Wall Systems (India) Limited",
-      "symbol": "GLASSWALL",
+      "id": "kanohar",
+      "name": "Kanohar Electricals Limited",
+      "symbol": "KANOHAR",
       "board": "MAINBOARD",
       "status": "UPCOMING",
-      "priceMin": 172,
-      "priceMax": 182,
-      "lotSize": 82,
-      "issueSizeCr": 431.38,
+      "priceMin": 601,
+      "priceMax": 632,
+      "lotSize": 23,
+      "issueSizeCr": 1071.21,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-09-08",
@@ -182,77 +251,30 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 32,
+        "premium": 205,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "3 Sept",
-            "premium": 20
+            "premium": 200
           },
           {
             "date": "4 Sept",
-            "premium": 65
+            "premium": 205
           },
           {
             "date": "5 Sept",
-            "premium": 70
+            "premium": 200
           },
           {
             "date": "6 Sept",
-            "premium": 32
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "pranav",
-      "name": "Pranav Constructions Limited",
-      "symbol": "PRANAV",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": 118,
-      "priceMax": 124,
-      "lotSize": 120,
-      "issueSizeCr": 278.54,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-07",
-      "closeDate": "2026-09-09",
-      "allotmentDate": "2026-09-10",
-      "refundDate": null,
-      "listingDate": "2026-09-15",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 44,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
-        "history": [
-          {
-            "date": "3 Sept",
-            "premium": 30
+            "premium": 205
           },
           {
-            "date": "4 Sept",
-            "premium": 39
-          },
-          {
-            "date": "5 Sept",
-            "premium": 41
-          },
-          {
-            "date": "6 Sept",
-            "premium": 44
+            "date": "7 Sept",
+            "premium": 205
           }
         ]
       },
@@ -284,10 +306,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 277,
+        "premium": 273,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "5 Sept",
@@ -296,6 +318,10 @@
           {
             "date": "6 Sept",
             "premium": 277
+          },
+          {
+            "date": "7 Sept",
+            "premium": 273
           }
         ]
       },
@@ -358,7 +384,7 @@
         "premium": 30,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "2 Sept",
@@ -378,6 +404,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 30
+          },
+          {
+            "date": "7 Sept",
             "premium": 30
           }
         ]
@@ -441,7 +471,7 @@
         "premium": 30,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "4 Sept",
@@ -453,6 +483,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 30
+          },
+          {
+            "date": "7 Sept",
             "premium": 30
           }
         ]
@@ -516,7 +550,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "5 Sept",
@@ -524,6 +558,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 4
+          },
+          {
+            "date": "7 Sept",
             "premium": 4
           }
         ]
@@ -587,7 +625,7 @@
         "premium": 5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "4 Sept",
@@ -599,6 +637,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 5
+          },
+          {
+            "date": "7 Sept",
             "premium": 5
           }
         ]
@@ -634,7 +676,7 @@
         "premium": 149,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "4 Sept",
@@ -646,6 +688,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 149
+          },
+          {
+            "date": "7 Sept",
             "premium": 149
           }
         ]
@@ -681,7 +727,7 @@
         "premium": 25,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "4 Sept",
@@ -693,6 +739,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 25
+          },
+          {
+            "date": "7 Sept",
             "premium": 25
           }
         ]
@@ -728,7 +778,7 @@
         "premium": 55,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "4 Sept",
@@ -740,6 +790,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 55
+          },
+          {
+            "date": "7 Sept",
             "premium": 55
           }
         ]
@@ -775,7 +829,7 @@
         "premium": 3,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "4 Sept",
@@ -787,6 +841,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 3
+          },
+          {
+            "date": "7 Sept",
             "premium": 3
           }
         ]
@@ -822,7 +880,7 @@
         "premium": 50,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "3 Sept",
@@ -838,6 +896,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 50
+          },
+          {
+            "date": "7 Sept",
             "premium": 50
           }
         ]
@@ -875,7 +937,7 @@
         "premium": 21.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "4 Sept",
@@ -887,6 +949,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 21.5
+          },
+          {
+            "date": "7 Sept",
             "premium": 21.5
           }
         ]
@@ -924,7 +990,7 @@
         "premium": 20,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "4 Sept",
@@ -936,6 +1002,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 20
+          },
+          {
+            "date": "7 Sept",
             "premium": 20
           }
         ]
@@ -973,7 +1043,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "2 Sept",
@@ -993,6 +1063,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 1
+          },
+          {
+            "date": "7 Sept",
             "premium": 1
           }
         ]
@@ -1030,7 +1104,7 @@
         "premium": 54,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "3 Sept",
@@ -1046,6 +1120,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 54
+          },
+          {
+            "date": "7 Sept",
             "premium": 54
           }
         ]
@@ -1083,7 +1161,7 @@
         "premium": -10,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "3 Sept",
@@ -1099,6 +1177,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": -10
+          },
+          {
+            "date": "7 Sept",
             "premium": -10
           }
         ]
@@ -1136,7 +1218,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "2 Sept",
@@ -1156,6 +1238,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 1
+          },
+          {
+            "date": "7 Sept",
             "premium": 1
           }
         ]
@@ -1193,7 +1279,7 @@
         "premium": 56,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "3 Sept",
@@ -1209,6 +1295,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 56
+          },
+          {
+            "date": "7 Sept",
             "premium": 56
           }
         ]
@@ -1306,7 +1396,7 @@
         "premium": 9,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "2 Sept",
@@ -1326,6 +1416,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 9
+          },
+          {
+            "date": "7 Sept",
             "premium": 9
           }
         ]
@@ -1363,7 +1457,7 @@
         "premium": 28,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "3 Sept",
@@ -1379,6 +1473,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 28
+          },
+          {
+            "date": "7 Sept",
             "premium": 28
           }
         ]
@@ -1416,7 +1514,7 @@
         "premium": 311,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "3 Sept",
@@ -1432,6 +1530,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 311
+          },
+          {
+            "date": "7 Sept",
             "premium": 311
           }
         ]
@@ -1469,7 +1571,7 @@
         "premium": 78,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "2 Sept",
@@ -1489,6 +1591,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 78
+          },
+          {
+            "date": "7 Sept",
             "premium": 78
           }
         ]
@@ -1526,7 +1632,7 @@
         "premium": 38,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "2 Sept",
@@ -1546,6 +1652,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 38
+          },
+          {
+            "date": "7 Sept",
             "premium": 38
           }
         ]
@@ -1583,7 +1693,7 @@
         "premium": 22,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "2 Sept",
@@ -1603,6 +1713,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 22
+          },
+          {
+            "date": "7 Sept",
             "premium": 22
           }
         ]
@@ -1640,7 +1754,7 @@
         "premium": -7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "2 Sept",
@@ -1660,6 +1774,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": -7
+          },
+          {
+            "date": "7 Sept",
             "premium": -7
           }
         ]
@@ -1727,7 +1845,7 @@
         "premium": 2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "2 Sept",
@@ -1747,6 +1865,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 2
+          },
+          {
+            "date": "7 Sept",
             "premium": 2
           }
         ]
@@ -1784,7 +1906,7 @@
         "premium": 33,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "2 Sept",
@@ -1804,6 +1926,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 33
+          },
+          {
+            "date": "7 Sept",
             "premium": 33
           }
         ]
@@ -1841,7 +1967,7 @@
         "premium": 185,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "2 Sept",
@@ -1861,6 +1987,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 185
+          },
+          {
+            "date": "7 Sept",
             "premium": 185
           }
         ]
@@ -1898,7 +2028,7 @@
         "premium": 39,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/9/2026, 9:09:29 pm",
+        "updatedAt": "7/9/2026, 12:02:27 am",
         "history": [
           {
             "date": "2 Sept",
@@ -1918,6 +2048,10 @@
           },
           {
             "date": "6 Sept",
+            "premium": 39
+          },
+          {
+            "date": "7 Sept",
             "premium": 39
           }
         ]
