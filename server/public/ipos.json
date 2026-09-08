@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T11:36:27.262Z",
+  "updatedAt": "2026-09-08T16:47:45.291Z",
   "ipos": [
     {
       "id": "prasolchem",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 50,
+        "premium": 40,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "4 Sept",
@@ -50,7 +50,7 @@
           },
           {
             "date": "8 Sept",
-            "premium": 50
+            "premium": 40
           }
         ]
       },
@@ -84,10 +84,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 53,
+        "premium": 56,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "3 Sept",
@@ -111,7 +111,7 @@
           },
           {
             "date": "8 Sept",
-            "premium": 53
+            "premium": 56
           }
         ]
       },
@@ -145,10 +145,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 215,
+        "premium": 218,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "3 Sept",
@@ -172,7 +172,7 @@
           },
           {
             "date": "8 Sept",
-            "premium": 215
+            "premium": 218
           }
         ]
       },
@@ -206,10 +206,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 42,
+        "premium": 41,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "3 Sept",
@@ -233,7 +233,7 @@
           },
           {
             "date": "8 Sept",
-            "premium": 42
+            "premium": 41
           }
         ]
       },
@@ -270,7 +270,7 @@
         "premium": 65,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -307,6 +307,84 @@
       }
     },
     {
+      "id": "veegaland",
+      "name": "Veegaland Developers Limited",
+      "symbol": "VEEGALAND",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": 130,
+      "priceMax": 140,
+      "lotSize": 107,
+      "issueSizeCr": 226.15,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-10",
+      "closeDate": "2026-09-15",
+      "allotmentDate": "2026-09-16",
+      "refundDate": null,
+      "listingDate": "2026-09-18",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 33,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "8/9/2026, 10:17:45 pm",
+        "history": [
+          {
+            "date": "8 Sept",
+            "premium": 33
+          }
+        ]
+      },
+      "subscription": null
+    },
+    {
+      "id": "karamtara",
+      "name": "Karamtara Engineering Limited",
+      "symbol": "KARAMTARA",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": 241,
+      "priceMax": 254,
+      "lotSize": 59,
+      "issueSizeCr": 645.54,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "refundDate": null,
+      "listingDate": "2026-09-17",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 68,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "8/9/2026, 10:17:45 pm",
+        "history": [
+          {
+            "date": "8 Sept",
+            "premium": 68
+          }
+        ]
+      },
+      "subscription": null
+    },
+    {
       "id": "arcil",
       "name": "Asset Reconstruction Company (India) Limited",
       "symbol": "ARCIL",
@@ -332,14 +410,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 29,
+        "premium": 30,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "8 Sept",
-            "premium": 29
+            "premium": 30
           }
         ]
       },
@@ -354,7 +432,7 @@
       "priceMin": 77,
       "priceMax": 81,
       "lotSize": 185,
-      "issueSizeCr": 435.51,
+      "issueSizeCr": 304.85,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-09-09",
@@ -371,14 +449,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 25,
+        "premium": 18,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "8 Sept",
-            "premium": 25
+            "premium": 18
           }
         ]
       },
@@ -393,7 +471,7 @@
       "priceMin": 322,
       "priceMax": 339,
       "lotSize": 44,
-      "issueSizeCr": 821.89,
+      "issueSizeCr": 442.75,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-09-09",
@@ -410,10 +488,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 38,
+        "premium": 37,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "7 Sept",
@@ -421,89 +499,7 @@
           },
           {
             "date": "8 Sept",
-            "premium": 38
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "lccproject",
-      "name": "LCC Projects Limited",
-      "symbol": "LCCPROJECT",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": 139,
-      "priceMax": 146,
-      "lotSize": 102,
-      "issueSizeCr": 440.13,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-09",
-      "closeDate": "2026-09-11",
-      "allotmentDate": "2026-09-15",
-      "refundDate": null,
-      "listingDate": "2026-09-17",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 30,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
-        "history": [
-          {
-            "date": "7 Sept",
-            "premium": 24
-          },
-          {
-            "date": "8 Sept",
-            "premium": 30
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "karamtara",
-      "name": "Karamtara Engineering Limited",
-      "symbol": "KARAMTARA",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": 241,
-      "priceMax": 254,
-      "lotSize": 59,
-      "issueSizeCr": 922.2,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-09",
-      "closeDate": "2026-09-11",
-      "allotmentDate": "2026-09-15",
-      "refundDate": null,
-      "listingDate": "2026-09-17",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 63,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
-        "history": [
-          {
-            "date": "8 Sept",
-            "premium": 63
+            "premium": 37
           }
         ]
       },
@@ -535,10 +531,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 129,
+        "premium": 130,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "4 Sept",
@@ -558,7 +554,50 @@
           },
           {
             "date": "8 Sept",
-            "premium": 129
+            "premium": 130
+          }
+        ]
+      },
+      "subscription": null
+    },
+    {
+      "id": "lccproject",
+      "name": "LCC Projects Limited",
+      "symbol": "LCCPROJECT",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": 139,
+      "priceMax": 146,
+      "lotSize": 102,
+      "issueSizeCr": 305.54,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-09",
+      "closeDate": "2026-09-11",
+      "allotmentDate": "2026-09-15",
+      "refundDate": null,
+      "listingDate": "2026-09-17",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 29,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "8/9/2026, 10:17:45 pm",
+        "history": [
+          {
+            "date": "7 Sept",
+            "premium": 24
+          },
+          {
+            "date": "8 Sept",
+            "premium": 29
           }
         ]
       },
@@ -590,14 +629,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 8,
+        "premium": 12,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "8 Sept",
-            "premium": 8
+            "premium": 12
           }
         ]
       },
@@ -629,10 +668,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 207,
+        "premium": 243,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "5 Sept",
@@ -648,7 +687,7 @@
           },
           {
             "date": "8 Sept",
-            "premium": 207
+            "premium": 243
           }
         ]
       },
@@ -739,7 +778,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "7 Sept",
@@ -788,9 +827,9 @@
       "board": "SME",
       "status": "UPCOMING",
       "priceMin": null,
-      "priceMax": 140,
-      "lotSize": 1000,
-      "issueSizeCr": 24.58,
+      "priceMax": 120,
+      "lotSize": 1200,
+      "issueSizeCr": 21.08,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-09-10",
@@ -834,7 +873,18 @@
       "financials": [],
       "valuation": null,
       "listingPrice": null,
-      "gmp": null,
+      "gmp": {
+        "premium": 25,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "8/9/2026, 10:17:45 pm",
+        "history": [
+          {
+            "date": "8 Sept",
+            "premium": 25
+          }
+        ]
+      },
       "subscription": null
     },
     {
@@ -866,74 +916,11 @@
         "premium": 30,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "7 Sept",
             "premium": 12
-          },
-          {
-            "date": "8 Sept",
-            "premium": 30
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "veegalanddevelopers",
-      "name": "Veegaland Developers",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 140,
-      "lotSize": 107,
-      "issueSizeCr": 210,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-10",
-      "closeDate": "2026-09-15",
-      "allotmentDate": "2026-09-16",
-      "refundDate": null,
-      "listingDate": "2026-09-18",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 30,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
-        "history": [
-          {
-            "date": "2 Sept",
-            "premium": 18
-          },
-          {
-            "date": "3 Sept",
-            "premium": 18
-          },
-          {
-            "date": "4 Sept",
-            "premium": 22
-          },
-          {
-            "date": "5 Sept",
-            "premium": 22
-          },
-          {
-            "date": "6 Sept",
-            "premium": 30
-          },
-          {
-            "date": "7 Sept",
-            "premium": 30
           },
           {
             "date": "8 Sept",
@@ -1000,7 +987,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "4 Sept",
@@ -1080,10 +1067,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 10,
+        "premium": 7.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "4 Sept",
@@ -1103,12 +1090,12 @@
           },
           {
             "date": "8 Sept",
-            "premium": 10
+            "premium": 7.5
           }
         ]
       },
       "subscription": {
-        "total": 0.6
+        "total": 0.62
       }
     },
     {
@@ -1170,7 +1157,7 @@
         "premium": 25,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "4 Sept",
@@ -1227,7 +1214,7 @@
         "premium": 59,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "3 Sept",
@@ -1288,7 +1275,7 @@
         "premium": 15,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "4 Sept",
@@ -1345,7 +1332,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -1410,7 +1397,7 @@
         "premium": -10,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "3 Sept",
@@ -1471,7 +1458,7 @@
         "premium": 56,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "3 Sept",
@@ -1532,7 +1519,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -1597,7 +1584,7 @@
         "premium": 55,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "3 Sept",
@@ -1688,7 +1675,7 @@
         "premium": 28,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "3 Sept",
@@ -1749,7 +1736,7 @@
         "premium": 9,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -1814,7 +1801,7 @@
         "premium": 311,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "3 Sept",
@@ -1875,7 +1862,7 @@
         "premium": 78,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "2 Sept",
@@ -1940,7 +1927,7 @@
         "premium": 38,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 5:06:27 pm",
+        "updatedAt": "8/9/2026, 10:17:45 pm",
         "history": [
           {
             "date": "2 Sept",
