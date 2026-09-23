@@ -1,6 +1,198 @@
 {
-  "updatedAt": "2026-09-22T17:10:38.999Z",
+  "updatedAt": "2026-09-23T05:00:50.557Z",
   "ipos": [
+    {
+      "id": "elevate",
+      "name": "Elevate Campuses Limited",
+      "symbol": "ELEVATE",
+      "board": "MAINBOARD",
+      "status": "OPEN",
+      "priceMin": 343,
+      "priceMax": 362,
+      "lotSize": 41,
+      "issueSizeCr": 1218.98,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "refundDate": null,
+      "listingDate": "2026-09-30",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 5,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "23/9/2026, 10:30:50 am",
+        "history": [
+          {
+            "date": "21 Sept",
+            "premium": 16
+          },
+          {
+            "date": "22 Sept",
+            "premium": 5
+          },
+          {
+            "date": "23 Sept",
+            "premium": 5
+          }
+        ]
+      },
+      "subscription": {
+        "total": 0
+      }
+    },
+    {
+      "id": "adroitind",
+      "name": "Adroit Industries (India) Limited",
+      "symbol": "ADROITIND",
+      "board": "MAINBOARD",
+      "status": "OPEN",
+      "priceMin": 126,
+      "priceMax": 134,
+      "lotSize": 111,
+      "issueSizeCr": 105.5,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "refundDate": null,
+      "listingDate": "2026-09-30",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 34,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "23/9/2026, 10:30:50 am",
+        "history": [
+          {
+            "date": "22 Sept",
+            "premium": 34
+          },
+          {
+            "date": "23 Sept",
+            "premium": 34
+          }
+        ]
+      },
+      "subscription": {
+        "total": 0.29
+      }
+    },
+    {
+      "id": "swastikain",
+      "name": "Swastika Infra Limited",
+      "symbol": "SWASTIKAIN",
+      "board": "MAINBOARD",
+      "status": "OPEN",
+      "priceMin": 175,
+      "priceMax": 185,
+      "lotSize": 81,
+      "issueSizeCr": 117.2,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "refundDate": null,
+      "listingDate": "2026-09-30",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 8,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "23/9/2026, 10:30:50 am",
+        "history": [
+          {
+            "date": "21 Sept",
+            "premium": 3
+          },
+          {
+            "date": "22 Sept",
+            "premium": 8
+          },
+          {
+            "date": "23 Sept",
+            "premium": 8
+          }
+        ]
+      },
+      "subscription": {
+        "total": 0.07
+      }
+    },
+    {
+      "id": "armee",
+      "name": "ArMee Infotech Limited",
+      "symbol": "ARMEE",
+      "board": "MAINBOARD",
+      "status": "OPEN",
+      "priceMin": 350,
+      "priceMax": 375,
+      "lotSize": 40,
+      "issueSizeCr": 278.64,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "refundDate": null,
+      "listingDate": "2026-09-30",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 56,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "23/9/2026, 10:30:50 am",
+        "history": [
+          {
+            "date": "21 Sept",
+            "premium": 1
+          },
+          {
+            "date": "22 Sept",
+            "premium": 12
+          },
+          {
+            "date": "23 Sept",
+            "premium": 56
+          }
+        ]
+      },
+      "subscription": {
+        "total": 0.02
+      }
+    },
     {
       "id": "varmora",
       "name": "Varmora Granito Limited",
@@ -30,7 +222,7 @@
         "premium": 3,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
+        "updatedAt": "23/9/2026, 10:30:50 am",
         "history": [
           {
             "date": "18 Sept",
@@ -51,30 +243,34 @@
           {
             "date": "22 Sept",
             "premium": 3
+          },
+          {
+            "date": "23 Sept",
+            "premium": 3
           }
         ]
       },
       "subscription": {
-        "total": 0.07
+        "total": 0.09
       }
     },
     {
-      "id": "axiomgas",
-      "name": "Axiom Gas Engineering Limited",
-      "symbol": "AXIOMGAS",
+      "id": "poojalogis",
+      "name": "Pooja Logistics Limited",
+      "symbol": "POOJALOGIS",
       "board": "SME",
       "status": "OPEN",
-      "priceMin": 51,
-      "priceMax": 54,
-      "lotSize": 2000,
-      "issueSizeCr": 50.75,
+      "priceMin": 109,
+      "priceMax": 115,
+      "lotSize": 1200,
+      "issueSizeCr": 44.23,
       "freshIssueCr": null,
       "ofsCr": null,
-      "openDate": "2026-09-18",
-      "closeDate": "2026-09-22",
-      "allotmentDate": "2026-09-23",
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
       "refundDate": null,
-      "listingDate": "2026-09-25",
+      "listingDate": "2026-09-30",
       "registrar": null,
       "exchange": "BSE, NSE",
       "about": null,
@@ -85,7 +281,37 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 1.37
+        "total": 0.01
+      }
+    },
+    {
+      "id": "corein",
+      "name": "Coreintegra Consulting Services Limited",
+      "symbol": "COREIN",
+      "board": "SME",
+      "status": "OPEN",
+      "priceMin": 74,
+      "priceMax": 78,
+      "lotSize": 1600,
+      "issueSizeCr": 21.99,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "refundDate": null,
+      "listingDate": "2026-09-30",
+      "registrar": null,
+      "exchange": "BSE, NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": {
+        "total": 0
       }
     },
     {
@@ -114,221 +340,18 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 10.5,
+        "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
+        "updatedAt": "23/9/2026, 10:30:50 am",
         "history": [
           {
             "date": "22 Sept",
             "premium": 10.5
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "adroitind",
-      "name": "Adroit Industries (India) Limited",
-      "symbol": "ADROITIND",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": 126,
-      "priceMax": 134,
-      "lotSize": 111,
-      "issueSizeCr": 105.5,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "refundDate": null,
-      "listingDate": "2026-09-30",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 34,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
-        "history": [
-          {
-            "date": "22 Sept",
-            "premium": 34
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "armee",
-      "name": "ArMee Infotech Limited",
-      "symbol": "ARMEE",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": 350,
-      "priceMax": 375,
-      "lotSize": 40,
-      "issueSizeCr": 278.64,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "refundDate": null,
-      "listingDate": "2026-09-30",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 12,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
-        "history": [
-          {
-            "date": "21 Sept",
-            "premium": 1
           },
           {
-            "date": "22 Sept",
-            "premium": 12
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "swastikain",
-      "name": "Swastika Infra Limited",
-      "symbol": "SWASTIKAIN",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": 175,
-      "priceMax": 185,
-      "lotSize": 81,
-      "issueSizeCr": 117.2,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "refundDate": null,
-      "listingDate": "2026-09-30",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 8,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
-        "history": [
-          {
-            "date": "21 Sept",
-            "premium": 3
-          },
-          {
-            "date": "22 Sept",
-            "premium": 8
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "elevate",
-      "name": "Elevate Campuses Limited",
-      "symbol": "ELEVATE",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": 343,
-      "priceMax": 362,
-      "lotSize": 41,
-      "issueSizeCr": 1218.98,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "refundDate": null,
-      "listingDate": "2026-09-30",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 5,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
-        "history": [
-          {
-            "date": "21 Sept",
-            "premium": 16
-          },
-          {
-            "date": "22 Sept",
-            "premium": 5
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "bmisl",
-      "name": "Bench Mark Infotech Services Limited",
-      "symbol": "BMISL",
-      "board": "SME",
-      "status": "UPCOMING",
-      "priceMin": 104,
-      "priceMax": 110,
-      "lotSize": 1200,
-      "issueSizeCr": 42.44,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "allotmentDate": "2026-09-30",
-      "refundDate": null,
-      "listingDate": "2026-10-05",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 12,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
-        "history": [
-          {
-            "date": "22 Sept",
-            "premium": 12
+            "date": "23 Sept",
+            "premium": 11
           }
         ]
       },
@@ -363,24 +386,67 @@
       "subscription": null
     },
     {
-      "id": "poojalogis",
-      "name": "Pooja Logistics Limited",
-      "symbol": "POOJALOGIS",
+      "id": "bmisl",
+      "name": "Bench Mark Infotech Services Limited",
+      "symbol": "BMISL",
       "board": "SME",
       "status": "UPCOMING",
-      "priceMin": 109,
-      "priceMax": 115,
+      "priceMin": 104,
+      "priceMax": 110,
       "lotSize": 1200,
-      "issueSizeCr": 32.02,
+      "issueSizeCr": 42.44,
       "freshIssueCr": null,
       "ofsCr": null,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "allotmentDate": "2026-09-30",
       "refundDate": null,
-      "listingDate": "2026-09-30",
+      "listingDate": "2026-10-05",
       "registrar": null,
       "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 12,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "23/9/2026, 10:30:50 am",
+        "history": [
+          {
+            "date": "22 Sept",
+            "premium": 12
+          },
+          {
+            "date": "23 Sept",
+            "premium": 12
+          }
+        ]
+      },
+      "subscription": null
+    },
+    {
+      "id": "acmeuniversalsafezone9",
+      "name": "Acme Universal Safezone 9",
+      "symbol": "",
+      "board": "SME",
+      "status": "UPCOMING",
+      "priceMin": null,
+      "priceMax": null,
+      "lotSize": 1600,
+      "issueSizeCr": 35.93,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-30",
+      "allotmentDate": "2026-10-01",
+      "refundDate": null,
+      "listingDate": "2026-10-06",
+      "registrar": null,
+      "exchange": null,
       "about": null,
       "strengths": [],
       "risks": [],
@@ -391,24 +457,80 @@
       "subscription": null
     },
     {
-      "id": "corein",
-      "name": "Coreintegra Consulting Services Limited",
-      "symbol": "COREIN",
+      "id": "everestimstechnologies",
+      "name": "EverestIMS Technologies",
+      "symbol": "",
       "board": "SME",
       "status": "UPCOMING",
-      "priceMin": 74,
-      "priceMax": 78,
+      "priceMin": null,
+      "priceMax": 85,
       "lotSize": 1600,
-      "issueSizeCr": 21.99,
+      "issueSizeCr": 48.46,
       "freshIssueCr": null,
       "ofsCr": null,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
+      "openDate": "2026-09-29",
+      "closeDate": "2026-10-05",
+      "allotmentDate": "2026-10-06",
       "refundDate": null,
-      "listingDate": "2026-09-30",
+      "listingDate": "2026-10-08",
       "registrar": null,
-      "exchange": "NSE",
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "shivchemagro",
+      "name": "Shivchem Agro",
+      "symbol": "",
+      "board": "SME",
+      "status": "UPCOMING",
+      "priceMin": null,
+      "priceMax": 62,
+      "lotSize": 2000,
+      "issueSizeCr": 14.01,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-30",
+      "allotmentDate": "2026-10-01",
+      "refundDate": null,
+      "listingDate": "2026-10-06",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "shahinvestorshome",
+      "name": "Shah Investor's Home",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": null,
+      "priceMax": 167,
+      "lotSize": 85,
+      "issueSizeCr": 90.17,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-30",
+      "allotmentDate": "2026-10-01",
+      "refundDate": null,
+      "listingDate": "2026-10-06",
+      "registrar": null,
+      "exchange": null,
       "about": null,
       "strengths": [],
       "risks": [],
@@ -447,45 +569,6 @@
       "subscription": null
     },
     {
-      "id": "runwalenterprises",
-      "name": "Runwal Enterprises",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 305,
-      "lotSize": 49,
-      "issueSizeCr": 499.83,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "allotmentDate": "2026-09-30",
-      "refundDate": null,
-      "listingDate": "2026-10-05",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 18,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
-        "history": [
-          {
-            "date": "22 Sept",
-            "premium": 18
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
       "id": "saiurjaindo",
       "name": "Sai Urja Indo",
       "symbol": "",
@@ -511,84 +594,6 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": null,
-      "subscription": null
-    },
-    {
-      "id": "germangreensteel",
-      "name": "German Green Steel",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 139,
-      "lotSize": 107,
-      "issueSizeCr": 303.9,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "allotmentDate": "2026-09-30",
-      "refundDate": null,
-      "listingDate": "2026-10-05",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 15,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
-        "history": [
-          {
-            "date": "22 Sept",
-            "premium": 15
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "orientcables",
-      "name": "Orient Cables",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 272,
-      "lotSize": 55,
-      "issueSizeCr": 552,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-25",
-      "closeDate": "2026-09-29",
-      "allotmentDate": "2026-09-30",
-      "refundDate": null,
-      "listingDate": "2026-10-05",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 34,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
-        "history": [
-          {
-            "date": "22 Sept",
-            "premium": 34
-          }
-        ]
-      },
       "subscription": null
     },
     {
@@ -648,22 +653,22 @@
       "subscription": null
     },
     {
-      "id": "aonesteels",
-      "name": "A-One Steels",
+      "id": "orientcables",
+      "name": "Orient Cables",
       "symbol": "",
       "board": "MAINBOARD",
       "status": "UPCOMING",
       "priceMin": null,
-      "priceMax": 405,
-      "lotSize": 37,
-      "issueSizeCr": 405,
+      "priceMax": 272,
+      "lotSize": 55,
+      "issueSizeCr": 552,
       "freshIssueCr": null,
       "ofsCr": null,
-      "openDate": "2026-09-24",
-      "closeDate": "2026-09-28",
-      "allotmentDate": "2026-09-29",
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "allotmentDate": "2026-09-30",
       "refundDate": null,
-      "listingDate": "2026-10-01",
+      "listingDate": "2026-10-05",
       "registrar": null,
       "exchange": null,
       "about": null,
@@ -673,56 +678,83 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 50,
+        "premium": 34,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
+        "updatedAt": "23/9/2026, 10:30:50 am",
         "history": [
           {
-            "date": "17 Sept",
-            "premium": 55
-          },
-          {
-            "date": "18 Sept",
-            "premium": 62
-          },
-          {
-            "date": "19 Sept",
-            "premium": 64
-          },
-          {
-            "date": "20 Sept",
-            "premium": 64
-          },
-          {
-            "date": "21 Sept",
-            "premium": 60
-          },
-          {
             "date": "22 Sept",
-            "premium": 50
+            "premium": 34
+          },
+          {
+            "date": "23 Sept",
+            "premium": 34
           }
         ]
       },
       "subscription": null
     },
     {
-      "id": "greenasiaimpex",
-      "name": "Green Asia Impex",
+      "id": "germangreensteel",
+      "name": "German Green Steel",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": null,
+      "priceMax": 139,
+      "lotSize": 107,
+      "issueSizeCr": 303.9,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "allotmentDate": "2026-09-30",
+      "refundDate": null,
+      "listingDate": "2026-10-05",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 15,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "23/9/2026, 10:30:50 am",
+        "history": [
+          {
+            "date": "22 Sept",
+            "premium": 15
+          },
+          {
+            "date": "23 Sept",
+            "premium": 15
+          }
+        ]
+      },
+      "subscription": null
+    },
+    {
+      "id": "shreetnbpolymers",
+      "name": "Shree TNB Polymers",
       "symbol": "",
       "board": "SME",
       "status": "UPCOMING",
       "priceMin": null,
-      "priceMax": 90,
-      "lotSize": 1600,
-      "issueSizeCr": 60.1,
+      "priceMax": 52,
+      "lotSize": 2000,
+      "issueSizeCr": 31.2,
       "freshIssueCr": null,
       "ofsCr": null,
-      "openDate": "2026-09-24",
-      "closeDate": "2026-09-28",
-      "allotmentDate": "2026-09-29",
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "allotmentDate": "2026-09-30",
       "refundDate": null,
-      "listingDate": "2026-10-01",
+      "listingDate": "2026-10-05",
       "registrar": null,
       "exchange": null,
       "about": null,
@@ -732,6 +764,49 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "runwalenterprises",
+      "name": "Runwal Enterprises",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": null,
+      "priceMax": 305,
+      "lotSize": 49,
+      "issueSizeCr": 499.83,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-25",
+      "closeDate": "2026-09-29",
+      "allotmentDate": "2026-09-30",
+      "refundDate": null,
+      "listingDate": "2026-10-05",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 18,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "23/9/2026, 10:30:50 am",
+        "history": [
+          {
+            "date": "22 Sept",
+            "premium": 18
+          },
+          {
+            "date": "23 Sept",
+            "premium": 18
+          }
+        ]
+      },
       "subscription": null
     },
     {
@@ -763,6 +838,97 @@
       "subscription": null
     },
     {
+      "id": "greenasiaimpex",
+      "name": "Green Asia Impex",
+      "symbol": "",
+      "board": "SME",
+      "status": "UPCOMING",
+      "priceMin": null,
+      "priceMax": 90,
+      "lotSize": 1600,
+      "issueSizeCr": 60.1,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-24",
+      "closeDate": "2026-09-28",
+      "allotmentDate": "2026-09-29",
+      "refundDate": null,
+      "listingDate": "2026-10-01",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "aonesteels",
+      "name": "A-One Steels",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": null,
+      "priceMax": 405,
+      "lotSize": 37,
+      "issueSizeCr": 405,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-24",
+      "closeDate": "2026-09-28",
+      "allotmentDate": "2026-09-29",
+      "refundDate": null,
+      "listingDate": "2026-10-01",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 50,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "23/9/2026, 10:30:50 am",
+        "history": [
+          {
+            "date": "17 Sept",
+            "premium": 55
+          },
+          {
+            "date": "18 Sept",
+            "premium": 62
+          },
+          {
+            "date": "19 Sept",
+            "premium": 64
+          },
+          {
+            "date": "20 Sept",
+            "premium": 64
+          },
+          {
+            "date": "21 Sept",
+            "premium": 60
+          },
+          {
+            "date": "22 Sept",
+            "premium": 50
+          },
+          {
+            "date": "23 Sept",
+            "premium": 50
+          }
+        ]
+      },
+      "subscription": null
+    },
+    {
       "id": "roopascreen",
       "name": "Roopa Screen",
       "symbol": "",
@@ -791,10 +957,14 @@
         "premium": 14,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
+        "updatedAt": "23/9/2026, 10:30:50 am",
         "history": [
           {
             "date": "22 Sept",
+            "premium": 14
+          },
+          {
+            "date": "23 Sept",
             "premium": 14
           }
         ]
@@ -802,11 +972,39 @@
       "subscription": null
     },
     {
+      "id": "unitecfibres",
+      "name": "Unitec Fibres",
+      "symbol": "",
+      "board": "SME",
+      "status": "OPEN",
+      "priceMin": null,
+      "priceMax": 88,
+      "lotSize": 1600,
+      "issueSizeCr": 34.47,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-23",
+      "closeDate": "2026-09-25",
+      "allotmentDate": "2026-09-28",
+      "refundDate": null,
+      "listingDate": "2026-09-30",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "id": "liqvddigital",
       "name": "Liqvd Digital",
       "symbol": "",
       "board": "SME",
-      "status": "UPCOMING",
+      "status": "OPEN",
       "priceMin": null,
       "priceMax": 54,
       "lotSize": 2000,
@@ -827,46 +1025,20 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": null,
-      "subscription": null
+      "subscription": {
+        "total": 0
+      }
     },
     {
       "id": "skoffset",
       "name": "S.K.Offset",
       "symbol": "",
       "board": "SME",
-      "status": "UPCOMING",
+      "status": "OPEN",
       "priceMin": null,
       "priceMax": 125,
       "lotSize": 1000,
       "issueSizeCr": 29.06,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-23",
-      "closeDate": "2026-09-25",
-      "allotmentDate": "2026-09-28",
-      "refundDate": null,
-      "listingDate": "2026-09-30",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "id": "unitecfibres",
-      "name": "Unitec Fibres",
-      "symbol": "",
-      "board": "SME",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 88,
-      "lotSize": 1600,
-      "issueSizeCr": 34.47,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-09-23",
@@ -912,7 +1084,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 0.11
+        "total": 0.15
       }
     },
     {
@@ -946,36 +1118,6 @@
       }
     },
     {
-      "id": "fxmultitech",
-      "name": "FX Multitech",
-      "symbol": "",
-      "board": "SME",
-      "status": "OPEN",
-      "priceMin": null,
-      "priceMax": 116,
-      "lotSize": 1200,
-      "issueSizeCr": 45.24,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-21",
-      "closeDate": "2026-09-23",
-      "allotmentDate": "2026-09-24",
-      "refundDate": null,
-      "listingDate": "2026-09-28",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": null,
-      "subscription": {
-        "total": 0.38
-      }
-    },
-    {
       "id": "vivekanandcotspin",
       "name": "Vivekanand Cotspin",
       "symbol": "",
@@ -1002,7 +1144,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 0.17
+        "total": 0.2
       }
     },
     {
@@ -1034,7 +1176,7 @@
         "premium": 65,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
+        "updatedAt": "23/9/2026, 10:30:50 am",
         "history": [
           {
             "date": "14 Sept",
@@ -1071,30 +1213,34 @@
           {
             "date": "22 Sept",
             "premium": 65
+          },
+          {
+            "date": "23 Sept",
+            "premium": 65
           }
         ]
       },
       "subscription": {
-        "total": 72.74
+        "total": 96.9
       }
     },
     {
-      "id": "kheriaautocomp",
-      "name": "Kheria Autocomp",
+      "id": "fxmultitech",
+      "name": "FX Multitech",
       "symbol": "",
       "board": "SME",
-      "status": "CLOSED",
+      "status": "OPEN",
       "priceMin": null,
-      "priceMax": 101,
+      "priceMax": 116,
       "lotSize": 1200,
-      "issueSizeCr": 46.44,
+      "issueSizeCr": 45.24,
       "freshIssueCr": null,
       "ofsCr": null,
-      "openDate": "2026-09-17",
-      "closeDate": "2026-09-21",
-      "allotmentDate": "2026-09-22",
+      "openDate": "2026-09-21",
+      "closeDate": "2026-09-23",
+      "allotmentDate": "2026-09-24",
       "refundDate": null,
-      "listingDate": "2026-09-24",
+      "listingDate": "2026-09-28",
       "registrar": null,
       "exchange": null,
       "about": null,
@@ -1103,39 +1249,28 @@
       "financials": [],
       "valuation": null,
       "listingPrice": null,
-      "gmp": {
-        "premium": 3,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
-        "history": [
-          {
-            "date": "22 Sept",
-            "premium": 3
-          }
-        ]
-      },
+      "gmp": null,
       "subscription": {
-        "total": 2.48
+        "total": 0.42
       }
     },
     {
-      "id": "spectraatechnologysolutions",
-      "name": "SpectraA Technology Solutions",
+      "id": "axiomgasengineering",
+      "name": "Axiom Gas Engineering",
       "symbol": "",
       "board": "SME",
       "status": "CLOSED",
       "priceMin": null,
-      "priceMax": 118,
-      "lotSize": 1200,
-      "issueSizeCr": 42.52,
+      "priceMax": 54,
+      "lotSize": 2000,
+      "issueSizeCr": 50.75,
       "freshIssueCr": null,
       "ofsCr": null,
-      "openDate": "2026-09-17",
-      "closeDate": "2026-09-21",
-      "allotmentDate": "2026-09-22",
+      "openDate": "2026-09-18",
+      "closeDate": "2026-09-22",
+      "allotmentDate": "2026-09-23",
       "refundDate": null,
-      "listingDate": "2026-09-24",
+      "listingDate": "2026-09-25",
       "registrar": null,
       "exchange": null,
       "about": null,
@@ -1144,20 +1279,9 @@
       "financials": [],
       "valuation": null,
       "listingPrice": null,
-      "gmp": {
-        "premium": 73,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
-        "history": [
-          {
-            "date": "22 Sept",
-            "premium": 73
-          }
-        ]
-      },
+      "gmp": null,
       "subscription": {
-        "total": 304.06
+        "total": 1.39
       }
     },
     {
@@ -1216,10 +1340,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 44,
+        "premium": 43,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
+        "updatedAt": "23/9/2026, 10:30:50 am",
         "history": [
           {
             "date": "5 Sept",
@@ -1292,6 +1416,10 @@
           {
             "date": "22 Sept",
             "premium": 44
+          },
+          {
+            "date": "23 Sept",
+            "premium": 43
           }
         ]
       },
@@ -1300,11 +1428,101 @@
       }
     },
     {
+      "id": "spectraatechnologysolutions",
+      "name": "SpectraA Technology Solutions",
+      "symbol": "",
+      "board": "SME",
+      "status": "CLOSED",
+      "priceMin": null,
+      "priceMax": 118,
+      "lotSize": 1200,
+      "issueSizeCr": 42.52,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-17",
+      "closeDate": "2026-09-21",
+      "allotmentDate": "2026-09-22",
+      "refundDate": null,
+      "listingDate": "2026-09-24",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 77,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "23/9/2026, 10:30:50 am",
+        "history": [
+          {
+            "date": "22 Sept",
+            "premium": 73
+          },
+          {
+            "date": "23 Sept",
+            "premium": 77
+          }
+        ]
+      },
+      "subscription": {
+        "total": 304.06
+      }
+    },
+    {
+      "id": "kheriaautocomp",
+      "name": "Kheria Autocomp",
+      "symbol": "",
+      "board": "SME",
+      "status": "CLOSED",
+      "priceMin": null,
+      "priceMax": 101,
+      "lotSize": 1200,
+      "issueSizeCr": 46.44,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-17",
+      "closeDate": "2026-09-21",
+      "allotmentDate": "2026-09-22",
+      "refundDate": null,
+      "listingDate": "2026-09-24",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 3,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "23/9/2026, 10:30:50 am",
+        "history": [
+          {
+            "date": "22 Sept",
+            "premium": 3
+          },
+          {
+            "date": "23 Sept",
+            "premium": 3
+          }
+        ]
+      },
+      "subscription": {
+        "total": 2.48
+      }
+    },
+    {
       "id": "jindalsupreme",
       "name": "Jindal Supreme",
       "symbol": "",
       "board": "MAINBOARD",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 93,
       "lotSize": 161,
@@ -1325,10 +1543,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 27,
+        "premium": 29,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
+        "updatedAt": "23/9/2026, 10:30:50 am",
         "history": [
           {
             "date": "20 Sept",
@@ -1341,6 +1559,10 @@
           {
             "date": "22 Sept",
             "premium": 27
+          },
+          {
+            "date": "23 Sept",
+            "premium": 29
           }
         ]
       },
@@ -1349,96 +1571,11 @@
       }
     },
     {
-      "id": "heromotors",
-      "name": "Hero Motors",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "CLOSED",
-      "priceMin": null,
-      "priceMax": 84,
-      "lotSize": 178,
-      "issueSizeCr": 1000,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-16",
-      "closeDate": "2026-09-18",
-      "allotmentDate": "2026-09-21",
-      "refundDate": null,
-      "listingDate": "2026-09-23",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": -3,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
-        "history": [
-          {
-            "date": "11 Sept",
-            "premium": 13
-          },
-          {
-            "date": "12 Sept",
-            "premium": 24
-          },
-          {
-            "date": "13 Sept",
-            "premium": 24
-          },
-          {
-            "date": "14 Sept",
-            "premium": 24
-          },
-          {
-            "date": "15 Sept",
-            "premium": 19
-          },
-          {
-            "date": "16 Sept",
-            "premium": 13
-          },
-          {
-            "date": "17 Sept",
-            "premium": 5.5
-          },
-          {
-            "date": "18 Sept",
-            "premium": 5.5
-          },
-          {
-            "date": "19 Sept",
-            "premium": -2
-          },
-          {
-            "date": "20 Sept",
-            "premium": -2
-          },
-          {
-            "date": "21 Sept",
-            "premium": -2
-          },
-          {
-            "date": "22 Sept",
-            "premium": -3
-          }
-        ]
-      },
-      "subscription": {
-        "total": 7.01
-      }
-    },
-    {
       "id": "ssretail",
       "name": "SS Retail",
       "symbol": "",
       "board": "MAINBOARD",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 424,
       "lotSize": 35,
@@ -1459,10 +1596,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 158,
+        "premium": 160,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
+        "updatedAt": "23/9/2026, 10:30:50 am",
         "history": [
           {
             "date": "10 Sept",
@@ -1515,6 +1652,10 @@
           {
             "date": "22 Sept",
             "premium": 158
+          },
+          {
+            "date": "23 Sept",
+            "premium": 160
           }
         ]
       },
@@ -1523,22 +1664,22 @@
       }
     },
     {
-      "id": "shaktipolytarp",
-      "name": "Shakti Polytarp",
+      "id": "heromotors",
+      "name": "Hero Motors",
       "symbol": "",
-      "board": "SME",
+      "board": "MAINBOARD",
       "status": "LISTED",
       "priceMin": null,
-      "priceMax": 59,
-      "lotSize": 2000,
-      "issueSizeCr": 26.93,
+      "priceMax": 84,
+      "lotSize": 178,
+      "issueSizeCr": 1000,
       "freshIssueCr": null,
       "ofsCr": null,
-      "openDate": "2026-09-15",
-      "closeDate": "2026-09-17",
-      "allotmentDate": "2026-09-18",
+      "openDate": "2026-09-16",
+      "closeDate": "2026-09-18",
+      "allotmentDate": "2026-09-21",
       "refundDate": null,
-      "listingDate": "2026-09-22",
+      "listingDate": "2026-09-23",
       "registrar": null,
       "exchange": null,
       "about": null,
@@ -1548,39 +1689,67 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 10,
+        "premium": -3,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
+        "updatedAt": "23/9/2026, 10:30:50 am",
         "history": [
           {
+            "date": "11 Sept",
+            "premium": 13
+          },
+          {
+            "date": "12 Sept",
+            "premium": 24
+          },
+          {
+            "date": "13 Sept",
+            "premium": 24
+          },
+          {
+            "date": "14 Sept",
+            "premium": 24
+          },
+          {
+            "date": "15 Sept",
+            "premium": 19
+          },
+          {
+            "date": "16 Sept",
+            "premium": 13
+          },
+          {
             "date": "17 Sept",
-            "premium": 6
+            "premium": 5.5
           },
           {
             "date": "18 Sept",
-            "premium": 4
+            "premium": 5.5
           },
           {
             "date": "19 Sept",
-            "premium": 5
+            "premium": -2
           },
           {
             "date": "20 Sept",
-            "premium": 5
+            "premium": -2
           },
           {
             "date": "21 Sept",
-            "premium": 6
+            "premium": -2
           },
           {
             "date": "22 Sept",
-            "premium": 10
+            "premium": -3
+          },
+          {
+            "date": "23 Sept",
+            "premium": -3
           }
         ]
       },
       "subscription": {
-        "total": 11.87
+        "total": 7.01
       }
     },
     {
@@ -1642,7 +1811,7 @@
         "premium": 3,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
+        "updatedAt": "23/9/2026, 10:30:50 am",
         "history": [
           {
             "date": "14 Sept",
@@ -1679,11 +1848,80 @@
           {
             "date": "22 Sept",
             "premium": 3
+          },
+          {
+            "date": "23 Sept",
+            "premium": 3
           }
         ]
       },
       "subscription": {
         "total": 2.53
+      }
+    },
+    {
+      "id": "shaktipolytarp",
+      "name": "Shakti Polytarp",
+      "symbol": "",
+      "board": "SME",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 59,
+      "lotSize": 2000,
+      "issueSizeCr": 26.93,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-15",
+      "closeDate": "2026-09-17",
+      "allotmentDate": "2026-09-18",
+      "refundDate": null,
+      "listingDate": "2026-09-22",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 10,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "23/9/2026, 10:30:50 am",
+        "history": [
+          {
+            "date": "17 Sept",
+            "premium": 6
+          },
+          {
+            "date": "18 Sept",
+            "premium": 4
+          },
+          {
+            "date": "19 Sept",
+            "premium": 5
+          },
+          {
+            "date": "20 Sept",
+            "premium": 5
+          },
+          {
+            "date": "21 Sept",
+            "premium": 6
+          },
+          {
+            "date": "22 Sept",
+            "premium": 10
+          },
+          {
+            "date": "23 Sept",
+            "premium": 10
+          }
+        ]
+      },
+      "subscription": {
+        "total": 11.87
       }
     },
     {
@@ -1715,7 +1953,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
+        "updatedAt": "23/9/2026, 10:30:50 am",
         "history": [
           {
             "date": "18 Sept",
@@ -1735,6 +1973,10 @@
           },
           {
             "date": "22 Sept",
+            "premium": 1
+          },
+          {
+            "date": "23 Sept",
             "premium": 1
           }
         ]
@@ -1801,6 +2043,180 @@
       "gmp": null,
       "subscription": {
         "total": 1.23
+      }
+    },
+    {
+      "id": "maharajaspeedex",
+      "name": "Maharaja & Speedex India",
+      "symbol": "",
+      "board": "SME",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 186,
+      "lotSize": 600,
+      "issueSizeCr": 80.13,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-10",
+      "closeDate": "2026-09-15",
+      "allotmentDate": "2026-09-16",
+      "refundDate": null,
+      "listingDate": "2026-09-18",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 28,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "23/9/2026, 10:30:50 am",
+        "history": [
+          {
+            "date": "7 Sept",
+            "premium": 12
+          },
+          {
+            "date": "8 Sept",
+            "premium": 30
+          },
+          {
+            "date": "9 Sept",
+            "premium": 30
+          },
+          {
+            "date": "10 Sept",
+            "premium": 30
+          },
+          {
+            "date": "11 Sept",
+            "premium": 30
+          },
+          {
+            "date": "12 Sept",
+            "premium": 48
+          },
+          {
+            "date": "13 Sept",
+            "premium": 45
+          },
+          {
+            "date": "14 Sept",
+            "premium": 40
+          },
+          {
+            "date": "15 Sept",
+            "premium": 28
+          },
+          {
+            "date": "16 Sept",
+            "premium": 28
+          },
+          {
+            "date": "17 Sept",
+            "premium": 28
+          },
+          {
+            "date": "18 Sept",
+            "premium": 28
+          },
+          {
+            "date": "19 Sept",
+            "premium": 28
+          },
+          {
+            "date": "20 Sept",
+            "premium": 28
+          },
+          {
+            "date": "21 Sept",
+            "premium": 28
+          },
+          {
+            "date": "22 Sept",
+            "premium": 28
+          },
+          {
+            "date": "23 Sept",
+            "premium": 28
+          }
+        ]
+      },
+      "subscription": {
+        "total": 32.41
+      }
+    },
+    {
+      "id": "veegalanddevelopers",
+      "name": "Veegaland Developers",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 140,
+      "lotSize": 107,
+      "issueSizeCr": 210,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-10",
+      "closeDate": "2026-09-15",
+      "allotmentDate": "2026-09-16",
+      "refundDate": null,
+      "listingDate": "2026-09-18",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 8,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "23/9/2026, 10:30:50 am",
+        "history": [
+          {
+            "date": "16 Sept",
+            "premium": 8
+          },
+          {
+            "date": "17 Sept",
+            "premium": 6
+          },
+          {
+            "date": "18 Sept",
+            "premium": 8
+          },
+          {
+            "date": "19 Sept",
+            "premium": 8
+          },
+          {
+            "date": "20 Sept",
+            "premium": 8
+          },
+          {
+            "date": "21 Sept",
+            "premium": 8
+          },
+          {
+            "date": "22 Sept",
+            "premium": 8
+          },
+          {
+            "date": "23 Sept",
+            "premium": 8
+          }
+        ]
+      },
+      "subscription": {
+        "total": 14.6
       }
     },
     {
@@ -1923,107 +2339,6 @@
       }
     },
     {
-      "id": "maharajaspeedex",
-      "name": "Maharaja & Speedex India",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 186,
-      "lotSize": 600,
-      "issueSizeCr": 80.13,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-10",
-      "closeDate": "2026-09-15",
-      "allotmentDate": "2026-09-16",
-      "refundDate": null,
-      "listingDate": "2026-09-18",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 28,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
-        "history": [
-          {
-            "date": "7 Sept",
-            "premium": 12
-          },
-          {
-            "date": "8 Sept",
-            "premium": 30
-          },
-          {
-            "date": "9 Sept",
-            "premium": 30
-          },
-          {
-            "date": "10 Sept",
-            "premium": 30
-          },
-          {
-            "date": "11 Sept",
-            "premium": 30
-          },
-          {
-            "date": "12 Sept",
-            "premium": 48
-          },
-          {
-            "date": "13 Sept",
-            "premium": 45
-          },
-          {
-            "date": "14 Sept",
-            "premium": 40
-          },
-          {
-            "date": "15 Sept",
-            "premium": 28
-          },
-          {
-            "date": "16 Sept",
-            "premium": 28
-          },
-          {
-            "date": "17 Sept",
-            "premium": 28
-          },
-          {
-            "date": "18 Sept",
-            "premium": 28
-          },
-          {
-            "date": "19 Sept",
-            "premium": 28
-          },
-          {
-            "date": "20 Sept",
-            "premium": 28
-          },
-          {
-            "date": "21 Sept",
-            "premium": 28
-          },
-          {
-            "date": "22 Sept",
-            "premium": 28
-          }
-        ]
-      },
-      "subscription": {
-        "total": 32.41
-      }
-    },
-    {
       "id": "raksantransformers",
       "name": "Raksan Transformers",
       "symbol": "",
@@ -2118,71 +2433,6 @@
       },
       "subscription": {
         "total": 47.43
-      }
-    },
-    {
-      "id": "veegalanddevelopers",
-      "name": "Veegaland Developers",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 140,
-      "lotSize": 107,
-      "issueSizeCr": 210,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-10",
-      "closeDate": "2026-09-15",
-      "allotmentDate": "2026-09-16",
-      "refundDate": null,
-      "listingDate": "2026-09-18",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 8,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "22/9/2026, 10:40:38 pm",
-        "history": [
-          {
-            "date": "16 Sept",
-            "premium": 8
-          },
-          {
-            "date": "17 Sept",
-            "premium": 6
-          },
-          {
-            "date": "18 Sept",
-            "premium": 8
-          },
-          {
-            "date": "19 Sept",
-            "premium": 8
-          },
-          {
-            "date": "20 Sept",
-            "premium": 8
-          },
-          {
-            "date": "21 Sept",
-            "premium": 8
-          },
-          {
-            "date": "22 Sept",
-            "premium": 8
-          }
-        ]
-      },
-      "subscription": {
-        "total": 14.6
       }
     },
     {
