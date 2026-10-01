@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T06:22:53.582Z",
+  "updatedAt": "2026-10-01T13:45:37.280Z",
   "ipos": [
     {
       "id": "vnl",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 35,
+        "premium": 20,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "29 Sept",
@@ -42,12 +42,12 @@
           },
           {
             "date": "1 Oct",
-            "premium": 35
+            "premium": 20
           }
         ]
       },
       "subscription": {
-        "total": 0.21
+        "total": 0.44
       }
     },
     {
@@ -77,7 +77,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 0.2
+        "total": 0.43
       }
     },
     {
@@ -107,7 +107,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 1.07
+        "total": 1.75
       }
     },
     {
@@ -137,7 +137,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 1.82
+        "total": 2.46
       }
     },
     {
@@ -167,26 +167,26 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 0.7
+        "total": 0.98
       }
     },
     {
-      "id": "shahinvest",
-      "name": "Shah Investor's Home Limited",
-      "symbol": "SHAHINVEST",
+      "id": "smcg04",
+      "name": "SMC Global Securities Limited",
+      "symbol": "SMCG04",
       "board": "MAINBOARD",
-      "status": "CLOSED",
-      "priceMin": 159,
-      "priceMax": 167,
-      "lotSize": 85,
-      "issueSizeCr": 63.12,
+      "status": "UPCOMING",
+      "priceMin": 1000,
+      "priceMax": 1000,
+      "lotSize": null,
+      "issueSizeCr": 75,
       "freshIssueCr": null,
       "ofsCr": null,
-      "openDate": "2026-09-28",
-      "closeDate": "2026-09-30",
-      "allotmentDate": "2026-10-01",
+      "openDate": "2026-10-05",
+      "closeDate": "2026-10-16",
+      "allotmentDate": null,
       "refundDate": null,
-      "listingDate": "2026-10-06",
+      "listingDate": null,
       "registrar": null,
       "exchange": "NSE",
       "about": null,
@@ -195,130 +195,16 @@
       "financials": [],
       "valuation": null,
       "listingPrice": null,
-      "gmp": {
-        "premium": 12.5,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
-        "history": [
-          {
-            "date": "24 Sept",
-            "premium": 12
-          },
-          {
-            "date": "25 Sept",
-            "premium": 12
-          },
-          {
-            "date": "26 Sept",
-            "premium": 9
-          },
-          {
-            "date": "27 Sept",
-            "premium": 9
-          },
-          {
-            "date": "28 Sept",
-            "premium": 12.5
-          },
-          {
-            "date": "29 Sept",
-            "premium": 13
-          },
-          {
-            "date": "30 Sept",
-            "premium": 12.5
-          },
-          {
-            "date": "1 Oct",
-            "premium": 12.5
-          }
-        ]
-      },
-      "subscription": {
-        "total": 38.12
-      }
+      "gmp": null,
+      "subscription": null
     },
     {
-      "id": "srit",
-      "name": "Srit India Limited",
-      "symbol": "SRIT",
-      "board": "MAINBOARD",
-      "status": "CLOSED",
-      "priceMin": 123,
-      "priceMax": 130,
-      "lotSize": 115,
-      "issueSizeCr": 152.88,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-28",
-      "closeDate": "2026-09-30",
-      "allotmentDate": "2026-10-01",
-      "refundDate": null,
-      "listingDate": "2026-10-06",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 48,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
-        "history": [
-          {
-            "date": "23 Sept",
-            "premium": 12
-          },
-          {
-            "date": "24 Sept",
-            "premium": 21
-          },
-          {
-            "date": "25 Sept",
-            "premium": 32
-          },
-          {
-            "date": "26 Sept",
-            "premium": 32
-          },
-          {
-            "date": "27 Sept",
-            "premium": 33
-          },
-          {
-            "date": "28 Sept",
-            "premium": 34
-          },
-          {
-            "date": "29 Sept",
-            "premium": 24
-          },
-          {
-            "date": "30 Sept",
-            "premium": 41
-          },
-          {
-            "date": "1 Oct",
-            "premium": 48
-          }
-        ]
-      },
-      "subscription": {
-        "total": 125.16
-      }
-    },
-    {
-      "id": "rkfashionaccessories",
-      "name": "R.K.Fashion Accessories",
-      "symbol": "",
+      "id": "rkfal",
+      "name": "R.K. Fashion Accessories Limited",
+      "symbol": "RKFAL",
       "board": "SME",
       "status": "UPCOMING",
-      "priceMin": null,
+      "priceMin": 77,
       "priceMax": 82,
       "lotSize": 1600,
       "issueSizeCr": 34.99,
@@ -330,7 +216,7 @@
       "refundDate": null,
       "listingDate": "2026-10-12",
       "registrar": null,
-      "exchange": null,
+      "exchange": "NSE",
       "about": null,
       "strengths": [],
       "risks": [],
@@ -366,10 +252,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 7,
+        "premium": 6,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "28 Sept",
@@ -385,12 +271,12 @@
           },
           {
             "date": "1 Oct",
-            "premium": 7
+            "premium": 6
           }
         ]
       },
       "subscription": {
-        "total": 0.27
+        "total": 1.71
       }
     },
     {
@@ -419,10 +305,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 30,
+        "premium": 25,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -442,12 +328,12 @@
           },
           {
             "date": "1 Oct",
-            "premium": 30
+            "premium": 25
           }
         ]
       },
       "subscription": {
-        "total": 1.81
+        "total": 1.97
       }
     },
     {
@@ -477,7 +363,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 1.32
+        "total": 1.35
       }
     },
     {
@@ -506,10 +392,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 20,
+        "premium": 10,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "26 Sept",
@@ -533,12 +419,12 @@
           },
           {
             "date": "1 Oct",
-            "premium": 20
+            "premium": 10
           }
         ]
       },
       "subscription": {
-        "total": 0.75
+        "total": 1.7
       }
     },
     {
@@ -568,7 +454,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 0.85
+        "total": 0.86
       }
     },
     {
@@ -597,10 +483,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 5,
+        "premium": 3,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "28 Sept",
@@ -616,12 +502,12 @@
           },
           {
             "date": "1 Oct",
-            "premium": 5
+            "premium": 3
           }
         ]
       },
       "subscription": {
-        "total": 0.3
+        "total": 0.69
       }
     },
     {
@@ -651,7 +537,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 1.06
+        "total": 1.86
       }
     },
     {
@@ -692,7 +578,7 @@
         ]
       },
       "subscription": {
-        "total": 0.67
+        "total": 0.98
       }
     },
     {
@@ -722,7 +608,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 0.42
+        "total": 0.54
       }
     },
     {
@@ -752,7 +638,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 0.63
+        "total": 0.69
       }
     },
     {
@@ -781,10 +667,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 85,
+        "premium": 70,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "26 Sept",
@@ -808,12 +694,12 @@
           },
           {
             "date": "1 Oct",
-            "premium": 85
+            "premium": 70
           }
         ]
       },
       "subscription": {
-        "total": 119.05
+        "total": 628.73
       }
     },
     {
@@ -842,10 +728,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 48,
+        "premium": 52,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "30 Sept",
@@ -853,12 +739,12 @@
           },
           {
             "date": "1 Oct",
-            "premium": 48
+            "premium": 52
           }
         ]
       },
       "subscription": {
-        "total": 4.15
+        "total": 73.8
       }
     },
     {
@@ -890,7 +776,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -916,6 +802,47 @@
       },
       "subscription": {
         "total": 2.2
+      }
+    },
+    {
+      "id": "shahinvestorshome",
+      "name": "Shah Investor's Home",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "CLOSED",
+      "priceMin": null,
+      "priceMax": 167,
+      "lotSize": 85,
+      "issueSizeCr": 90.17,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-30",
+      "allotmentDate": "2026-10-01",
+      "refundDate": null,
+      "listingDate": "2026-10-06",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 13,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "1/10/2026, 7:15:37 pm",
+        "history": [
+          {
+            "date": "1 Oct",
+            "premium": 13
+          }
+        ]
+      },
+      "subscription": {
+        "total": 38.12
       }
     },
     {
@@ -947,7 +874,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "29 Sept",
@@ -993,10 +920,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 10,
+        "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "30 Sept",
@@ -1004,12 +931,85 @@
           },
           {
             "date": "1 Oct",
-            "premium": 10
+            "premium": 7
           }
         ]
       },
       "subscription": {
         "total": 23.41
+      }
+    },
+    {
+      "id": "srit",
+      "name": "SRIT India",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "CLOSED",
+      "priceMin": null,
+      "priceMax": 130,
+      "lotSize": 115,
+      "issueSizeCr": 218.4,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-28",
+      "closeDate": "2026-09-30",
+      "allotmentDate": "2026-10-01",
+      "refundDate": null,
+      "listingDate": "2026-10-06",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 50,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "1/10/2026, 7:15:37 pm",
+        "history": [
+          {
+            "date": "23 Sept",
+            "premium": 12
+          },
+          {
+            "date": "24 Sept",
+            "premium": 21
+          },
+          {
+            "date": "25 Sept",
+            "premium": 32
+          },
+          {
+            "date": "26 Sept",
+            "premium": 32
+          },
+          {
+            "date": "27 Sept",
+            "premium": 33
+          },
+          {
+            "date": "28 Sept",
+            "premium": 34
+          },
+          {
+            "date": "29 Sept",
+            "premium": 24
+          },
+          {
+            "date": "30 Sept",
+            "premium": 41
+          },
+          {
+            "date": "1 Oct",
+            "premium": 50
+          }
+        ]
+      },
+      "subscription": {
+        "total": 125.16
       }
     },
     {
@@ -1038,10 +1038,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 1,
+        "premium": 0.7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "24 Sept",
@@ -1073,7 +1073,7 @@
           },
           {
             "date": "1 Oct",
-            "premium": 1
+            "premium": 0.7
           }
         ]
       },
@@ -1110,7 +1110,7 @@
         "premium": 0.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "24 Sept",
@@ -1206,14 +1206,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 99,
+        "premium": 107,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "1 Oct",
-            "premium": 99
+            "premium": 107
           }
         ]
       },
@@ -1246,7 +1246,18 @@
       "financials": [],
       "valuation": null,
       "listingPrice": null,
-      "gmp": null,
+      "gmp": {
+        "premium": -5,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "1/10/2026, 7:15:37 pm",
+        "history": [
+          {
+            "date": "1 Oct",
+            "premium": -5
+          }
+        ]
+      },
       "subscription": {
         "total": 2.64
       }
@@ -1277,14 +1288,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 12.5,
+        "premium": 13.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "1 Oct",
-            "premium": 12.5
+            "premium": 13.5
           }
         ]
       },
@@ -1348,10 +1359,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 26,
+        "premium": 25,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "30 Sept",
@@ -1359,7 +1370,7 @@
           },
           {
             "date": "1 Oct",
-            "premium": 26
+            "premium": 25
           }
         ]
       },
@@ -1396,7 +1407,7 @@
         "premium": 46,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "17 Sept",
@@ -1493,7 +1504,7 @@
         "premium": 14.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "22 Sept",
@@ -1570,7 +1581,7 @@
         "premium": 42,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "22 Sept",
@@ -1673,7 +1684,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -1730,7 +1741,7 @@
         "premium": 6,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -1907,7 +1918,7 @@
         "premium": 55,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -1964,7 +1975,7 @@
         "premium": 6.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -2081,7 +2092,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "26 Sept",
@@ -2168,7 +2179,7 @@
         "premium": 86,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "14 Sept",
@@ -2307,7 +2318,7 @@
         "premium": 6.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 11:52:53 am",
+        "updatedAt": "1/10/2026, 7:15:37 pm",
         "history": [
           {
             "date": "23 Sept",
