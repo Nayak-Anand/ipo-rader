@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T19:34:05.437Z",
+  "updatedAt": "2026-10-01T06:22:53.582Z",
   "ipos": [
     {
       "id": "vnl",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 10,
+        "premium": 35,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "29 Sept",
@@ -42,12 +42,12 @@
           },
           {
             "date": "1 Oct",
-            "premium": 10
+            "premium": 35
           }
         ]
       },
       "subscription": {
-        "total": 0.04
+        "total": 0.21
       }
     },
     {
@@ -77,7 +77,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 0.11
+        "total": 0.2
       }
     },
     {
@@ -107,7 +107,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 1.06
+        "total": 1.07
       }
     },
     {
@@ -137,7 +137,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 1.66
+        "total": 1.82
       }
     },
     {
@@ -167,7 +167,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 0.64
+        "total": 0.7
       }
     },
     {
@@ -175,7 +175,7 @@
       "name": "Shah Investor's Home Limited",
       "symbol": "SHAHINVEST",
       "board": "MAINBOARD",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": 159,
       "priceMax": 167,
       "lotSize": 85,
@@ -199,7 +199,7 @@
         "premium": 12.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "24 Sept",
@@ -244,7 +244,7 @@
       "name": "Srit India Limited",
       "symbol": "SRIT",
       "board": "MAINBOARD",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": 123,
       "priceMax": 130,
       "lotSize": 115,
@@ -268,7 +268,7 @@
         "premium": 48,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "23 Sept",
@@ -369,7 +369,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "28 Sept",
@@ -390,7 +390,7 @@
         ]
       },
       "subscription": {
-        "total": 0.25
+        "total": 0.27
       }
     },
     {
@@ -422,7 +422,7 @@
         "premium": 30,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "27 Sept",
@@ -447,7 +447,7 @@
         ]
       },
       "subscription": {
-        "total": 1.76
+        "total": 1.81
       }
     },
     {
@@ -477,7 +477,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 1.3
+        "total": 1.32
       }
     },
     {
@@ -509,7 +509,7 @@
         "premium": 20,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "26 Sept",
@@ -538,7 +538,7 @@
         ]
       },
       "subscription": {
-        "total": 0.52
+        "total": 0.75
       }
     },
     {
@@ -600,7 +600,7 @@
         "premium": 5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "28 Sept",
@@ -621,7 +621,7 @@
         ]
       },
       "subscription": {
-        "total": 0.2
+        "total": 0.3
       }
     },
     {
@@ -692,7 +692,7 @@
         ]
       },
       "subscription": {
-        "total": 0.66
+        "total": 0.67
       }
     },
     {
@@ -752,7 +752,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 0.53
+        "total": 0.63
       }
     },
     {
@@ -784,7 +784,7 @@
         "premium": 85,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "26 Sept",
@@ -813,7 +813,7 @@
         ]
       },
       "subscription": {
-        "total": 64.69
+        "total": 119.05
       }
     },
     {
@@ -845,7 +845,7 @@
         "premium": 48,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "30 Sept",
@@ -858,7 +858,7 @@
         ]
       },
       "subscription": {
-        "total": 1.24
+        "total": 4.15
       }
     },
     {
@@ -866,7 +866,7 @@
       "name": "Shivchem Agro",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 62,
       "lotSize": 2000,
@@ -890,7 +890,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "27 Sept",
@@ -923,7 +923,7 @@
       "name": "Pind Hospitality",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 99,
       "lotSize": 1200,
@@ -947,7 +947,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "29 Sept",
@@ -972,7 +972,7 @@
       "name": "Acme Universal Safezone 9",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 71,
       "lotSize": 1600,
@@ -996,7 +996,7 @@
         "premium": 10,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "30 Sept",
@@ -1038,10 +1038,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 0.5,
+        "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "24 Sept",
@@ -1073,7 +1073,7 @@
           },
           {
             "date": "1 Oct",
-            "premium": 0.5
+            "premium": 1
           }
         ]
       },
@@ -1110,7 +1110,7 @@
         "premium": 0.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "24 Sept",
@@ -1206,14 +1206,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 90,
+        "premium": 99,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "1 Oct",
-            "premium": 90
+            "premium": 99
           }
         ]
       },
@@ -1280,7 +1280,7 @@
         "premium": 12.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "1 Oct",
@@ -1351,7 +1351,7 @@
         "premium": 26,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "30 Sept",
@@ -1372,7 +1372,7 @@
       "name": "A-One Steels",
       "symbol": "",
       "board": "MAINBOARD",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 405,
       "lotSize": 37,
@@ -1393,10 +1393,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 47,
+        "premium": 46,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "17 Sept",
@@ -1456,7 +1456,7 @@
           },
           {
             "date": "1 Oct",
-            "premium": 47
+            "premium": 46
           }
         ]
       },
@@ -1469,7 +1469,7 @@
       "name": "Moneyview",
       "symbol": "",
       "board": "MAINBOARD",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 34,
       "lotSize": 441,
@@ -1490,10 +1490,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 14.6,
+        "premium": 14.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "22 Sept",
@@ -1533,7 +1533,7 @@
           },
           {
             "date": "1 Oct",
-            "premium": 14.6
+            "premium": 14.5
           }
         ]
       },
@@ -1546,7 +1546,7 @@
       "name": "Roopa Screen",
       "symbol": "",
       "board": "SME",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 64,
       "lotSize": 2000,
@@ -1570,7 +1570,7 @@
         "premium": 42,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "22 Sept",
@@ -1619,7 +1619,7 @@
       "name": "Peshwa Wheat",
       "symbol": "",
       "board": "SME",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 101,
       "lotSize": 1200,
@@ -1673,7 +1673,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "27 Sept",
@@ -1730,7 +1730,7 @@
         "premium": 6,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "27 Sept",
@@ -1907,7 +1907,7 @@
         "premium": 55,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "27 Sept",
@@ -1964,7 +1964,7 @@
         "premium": 6.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "27 Sept",
@@ -2081,7 +2081,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "26 Sept",
@@ -2168,7 +2168,7 @@
         "premium": 86,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "14 Sept",
@@ -2307,7 +2307,7 @@
         "premium": 6.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "1/10/2026, 1:04:05 am",
+        "updatedAt": "1/10/2026, 11:52:53 am",
         "history": [
           {
             "date": "23 Sept",
