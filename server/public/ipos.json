@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T19:43:04.145Z",
+  "updatedAt": "2026-10-02T06:00:19.577Z",
   "ipos": [
     {
       "id": "vnl",
@@ -30,7 +30,7 @@
         "premium": 20,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "29 Sept",
@@ -199,7 +199,7 @@
         "premium": 6,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "28 Sept",
@@ -256,7 +256,7 @@
         "premium": 25,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "27 Sept",
@@ -347,7 +347,7 @@
         "premium": 28,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "26 Sept",
@@ -442,7 +442,7 @@
         "premium": 3,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "28 Sept",
@@ -606,7 +606,7 @@
       "name": "Green Asia Impex",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 89,
       "lotSize": 1600,
@@ -636,7 +636,7 @@
       "name": "Vans Electroengineerings",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 118,
       "lotSize": 1200,
@@ -660,7 +660,7 @@
         "premium": 70,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "26 Sept",
@@ -701,7 +701,7 @@
       "name": "Black Opal Consultants",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 197,
       "lotSize": 600,
@@ -725,7 +725,7 @@
         "premium": 66,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "30 Sept",
@@ -750,7 +750,7 @@
       "name": "Papadmalji Agro Foods",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 72,
       "lotSize": 1600,
@@ -804,7 +804,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "27 Sept",
@@ -865,7 +865,7 @@
         "premium": 12,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "1 Oct",
@@ -910,7 +910,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "29 Sept",
@@ -963,7 +963,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "30 Sept",
@@ -1009,10 +1009,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 47,
+        "premium": 48,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "23 Sept",
@@ -1052,7 +1052,7 @@
           },
           {
             "date": "2 Oct",
-            "premium": 47
+            "premium": 48
           }
         ]
       },
@@ -1089,7 +1089,7 @@
         "premium": 0.7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "24 Sept",
@@ -1162,7 +1162,7 @@
         "premium": 0.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "24 Sept",
@@ -1235,7 +1235,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "2 Oct",
@@ -1273,10 +1273,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 107,
+        "premium": 108,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "1 Oct",
@@ -1284,7 +1284,7 @@
           },
           {
             "date": "2 Oct",
-            "premium": 107
+            "premium": 108
           }
         ]
       },
@@ -1321,7 +1321,7 @@
         "premium": -5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "1 Oct",
@@ -1366,7 +1366,7 @@
         "premium": 13.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "1 Oct",
@@ -1441,7 +1441,7 @@
         "premium": 25,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "30 Sept",
@@ -1490,7 +1490,7 @@
         "premium": 46,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "17 Sept",
@@ -1591,7 +1591,7 @@
         "premium": 14.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "22 Sept",
@@ -1672,7 +1672,7 @@
         "premium": 42,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "22 Sept",
@@ -1779,7 +1779,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "27 Sept",
@@ -1840,7 +1840,7 @@
         "premium": 6,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "27 Sept",
@@ -2021,7 +2021,7 @@
         "premium": 55,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "27 Sept",
@@ -2082,7 +2082,7 @@
         "premium": 6.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "27 Sept",
@@ -2203,7 +2203,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "26 Sept",
@@ -2294,7 +2294,7 @@
         "premium": 86,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "14 Sept",
@@ -2437,7 +2437,7 @@
         "premium": 6.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "2/10/2026, 1:13:04 am",
+        "updatedAt": "2/10/2026, 11:30:19 am",
         "history": [
           {
             "date": "23 Sept",
