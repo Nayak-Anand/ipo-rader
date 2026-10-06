@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T22:51:00.864Z",
+  "updatedAt": "2026-10-06T06:43:13.660Z",
   "ipos": [
     {
       "id": "smcg04",
@@ -28,7 +28,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 0
+        "total": 0.01
       }
     },
     {
@@ -60,7 +60,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "5 Oct",
@@ -73,92 +73,23 @@
         ]
       },
       "subscription": {
-        "total": 0.38
+        "total": 0.41
       }
     },
     {
-      "id": "vnl",
-      "name": "Vishal Nirmiti Limited",
-      "symbol": "VNL",
+      "id": "gcfzczp",
+      "name": "Grace Cancer Foundation - ZCZP",
+      "symbol": "GCFZCZP",
       "board": "MAINBOARD",
-      "status": "OPEN",
-      "priceMin": 208,
-      "priceMax": 220,
-      "lotSize": 68,
-      "issueSizeCr": 186.37,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-30",
-      "closeDate": "2026-10-05",
-      "allotmentDate": "2026-10-06",
-      "refundDate": null,
-      "listingDate": "2026-10-08",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 2,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
-        "history": [
-          {
-            "date": "29 Sept",
-            "premium": 2
-          },
-          {
-            "date": "30 Sept",
-            "premium": 10
-          },
-          {
-            "date": "1 Oct",
-            "premium": 20
-          },
-          {
-            "date": "2 Oct",
-            "premium": 20
-          },
-          {
-            "date": "3 Oct",
-            "premium": 20
-          },
-          {
-            "date": "4 Oct",
-            "premium": 20
-          },
-          {
-            "date": "5 Oct",
-            "premium": 2
-          },
-          {
-            "date": "6 Oct",
-            "premium": 2
-          }
-        ]
-      },
-      "subscription": {
-        "total": 1.79
-      }
-    },
-    {
-      "id": "nityas",
-      "name": "Nityas Gems and Jewellery Limited",
-      "symbol": "NITYAS",
-      "board": "MAINBOARD",
-      "status": "OPEN",
-      "priceMin": 70,
-      "priceMax": 75,
+      "status": "UPCOMING",
+      "priceMin": 10,
+      "priceMax": 10,
       "lotSize": null,
-      "issueSizeCr": 108.42,
+      "issueSizeCr": 1,
       "freshIssueCr": null,
       "ofsCr": null,
-      "openDate": "2026-09-30",
-      "closeDate": "2026-10-05",
+      "openDate": "2026-10-07",
+      "closeDate": "2026-10-09",
       "allotmentDate": null,
       "refundDate": null,
       "listingDate": null,
@@ -171,9 +102,7 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": null,
-      "subscription": {
-        "total": 1.37
-      }
+      "subscription": null
     },
     {
       "id": "jioplatforms",
@@ -201,10 +130,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 156,
+        "premium": 150,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "4 Oct",
@@ -216,7 +145,7 @@
           },
           {
             "date": "6 Oct",
-            "premium": 156
+            "premium": 150
           }
         ]
       },
@@ -251,7 +180,7 @@
         "premium": 10,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "28 Sept",
@@ -292,7 +221,7 @@
         ]
       },
       "subscription": {
-        "total": 2.99
+        "total": 4.92
       }
     },
     {
@@ -322,7 +251,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 1.52
+        "total": 1.59
       }
     },
     {
@@ -354,7 +283,7 @@
         "premium": 40,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -399,7 +328,7 @@
         ]
       },
       "subscription": {
-        "total": 3.76
+        "total": 6.73
       }
     },
     {
@@ -407,7 +336,7 @@
       "name": "Nityas Gems & Jewellery",
       "symbol": "",
       "board": "MAINBOARD",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 75,
       "lotSize": 200,
@@ -431,7 +360,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "28 Sept",
@@ -480,7 +409,7 @@
       "name": "EverestIMS Technologies",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 85,
       "lotSize": 1600,
@@ -504,7 +433,7 @@
         "premium": 42,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "26 Sept",
@@ -561,7 +490,7 @@
       "name": "Omara Ventures India",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 311,
       "lotSize": 400,
@@ -587,11 +516,52 @@
       }
     },
     {
+      "id": "vishalnirmiti",
+      "name": "Vishal Nirmiti",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "CLOSED",
+      "priceMin": null,
+      "priceMax": 220,
+      "lotSize": 68,
+      "issueSizeCr": 178,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-30",
+      "closeDate": "2026-10-05",
+      "allotmentDate": "2026-10-06",
+      "refundDate": null,
+      "listingDate": "2026-10-08",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 2,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "6/10/2026, 12:13:13 pm",
+        "history": [
+          {
+            "date": "6 Oct",
+            "premium": 2
+          }
+        ]
+      },
+      "subscription": {
+        "total": 1.79
+      }
+    },
+    {
       "id": "sjpultrasonic",
       "name": "SJP Ultrasonic",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 67,
       "lotSize": 2000,
@@ -621,7 +591,7 @@
       "name": "Eventions",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 118,
       "lotSize": 1200,
@@ -651,7 +621,7 @@
       "name": "Dove Soft",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 111,
       "lotSize": 1200,
@@ -681,7 +651,7 @@
       "name": "Sollfege Smart Electronics",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 55,
       "lotSize": 2000,
@@ -711,7 +681,7 @@
       "name": "Shree TNB Polymers",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 53,
       "lotSize": 2000,
@@ -806,7 +776,7 @@
         "premium": 88,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "30 Sept",
@@ -871,7 +841,7 @@
         "premium": 103,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "26 Sept",
@@ -958,7 +928,7 @@
       "name": "SRIT India",
       "symbol": "",
       "board": "MAINBOARD",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 130,
       "lotSize": 115,
@@ -979,10 +949,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 62,
+        "premium": 59,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "23 Sept",
@@ -1038,7 +1008,7 @@
           },
           {
             "date": "6 Oct",
-            "premium": 62
+            "premium": 59
           }
         ]
       },
@@ -1051,7 +1021,7 @@
       "name": "Shah Investor's Home",
       "symbol": "",
       "board": "MAINBOARD",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 167,
       "lotSize": 85,
@@ -1075,7 +1045,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "1 Oct",
@@ -1112,7 +1082,7 @@
       "name": "Shivchem Agro",
       "symbol": "",
       "board": "SME",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 62,
       "lotSize": 2000,
@@ -1136,7 +1106,7 @@
         "premium": 1.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -1189,7 +1159,7 @@
       "name": "Pind Hospitality",
       "symbol": "",
       "board": "SME",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 99,
       "lotSize": 1200,
@@ -1213,7 +1183,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "29 Sept",
@@ -1258,7 +1228,7 @@
       "name": "Acme Universal Safezone 9",
       "symbol": "",
       "board": "SME",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 71,
       "lotSize": 1600,
@@ -1279,10 +1249,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 15,
+        "premium": 16,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "30 Sept",
@@ -1310,7 +1280,7 @@
           },
           {
             "date": "6 Oct",
-            "premium": 15
+            "premium": 16
           }
         ]
       },
@@ -1347,7 +1317,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "2 Oct",
@@ -1485,7 +1455,7 @@
         "premium": 110,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "1 Oct",
@@ -1625,7 +1595,7 @@
         "premium": 9.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "1 Oct",
@@ -1686,7 +1656,7 @@
         "premium": 15,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "30 Sept",
@@ -1751,7 +1721,7 @@
         "premium": 0.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "24 Sept",
@@ -1840,7 +1810,7 @@
         "premium": 46,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "17 Sept",
@@ -1987,7 +1957,7 @@
         "premium": 42,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "22 Sept",
@@ -2080,7 +2050,7 @@
         "premium": 14.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "22 Sept",
@@ -2267,7 +2237,7 @@
         "premium": 55,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -2374,7 +2344,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -2481,7 +2451,7 @@
         "premium": 6.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -2558,7 +2528,7 @@
         "premium": 6,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -2635,7 +2605,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "26 Sept",
@@ -2772,7 +2742,7 @@
         "premium": 6.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "23 Sept",
@@ -2895,7 +2865,7 @@
         "premium": 86,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "6/10/2026, 4:21:00 am",
+        "updatedAt": "6/10/2026, 12:13:13 pm",
         "history": [
           {
             "date": "14 Sept",
