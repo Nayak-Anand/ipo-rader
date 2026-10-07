@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T21:07:55.108Z",
+  "updatedAt": "2026-10-07T06:18:58.057Z",
   "ipos": [
     {
       "id": "gcfzczp",
@@ -27,7 +27,9 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": null,
-      "subscription": null
+      "subscription": {
+        "total": 0
+      }
     },
     {
       "id": "smcg04",
@@ -88,7 +90,7 @@
         "premium": 15,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "5 Oct",
@@ -105,7 +107,7 @@
         ]
       },
       "subscription": {
-        "total": 0.47
+        "total": 1.15
       }
     },
     {
@@ -134,10 +136,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 167,
+        "premium": 165.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "4 Oct",
@@ -153,7 +155,7 @@
           },
           {
             "date": "7 Oct",
-            "premium": 167
+            "premium": 165.5
           }
         ]
       },
@@ -166,9 +168,9 @@
       "board": "MAINBOARD",
       "status": "UPCOMING",
       "priceMin": null,
-      "priceMax": null,
-      "lotSize": null,
-      "issueSizeCr": null,
+      "priceMax": 271,
+      "lotSize": 55,
+      "issueSizeCr": 712.31,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-10-13",
@@ -192,7 +194,7 @@
       "name": "TNA Solutions",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 70,
       "lotSize": 2000,
@@ -216,7 +218,7 @@
         "premium": 3,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "28 Sept",
@@ -269,7 +271,7 @@
       "name": "Acme India Industries",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 196,
       "lotSize": 600,
@@ -293,7 +295,7 @@
         "premium": 65,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "27 Sept",
@@ -350,7 +352,7 @@
       "name": "Paramount Syntex",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 127,
       "lotSize": 1000,
@@ -404,7 +406,7 @@
         "premium": 2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "6 Oct",
@@ -569,7 +571,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "28 Sept",
@@ -714,10 +716,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 55,
+        "premium": 53,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "26 Sept",
@@ -765,7 +767,7 @@
           },
           {
             "date": "7 Oct",
-            "premium": 55
+            "premium": 53
           }
         ]
       },
@@ -778,7 +780,7 @@
       "name": "Black Opal Consultants",
       "symbol": "",
       "board": "SME",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 197,
       "lotSize": 600,
@@ -847,7 +849,7 @@
       "name": "Vans Electroengineerings",
       "symbol": "",
       "board": "SME",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 118,
       "lotSize": 1200,
@@ -871,7 +873,7 @@
         "premium": 103,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "26 Sept",
@@ -932,7 +934,7 @@
       "name": "Papadmalji Agro Foods",
       "symbol": "",
       "board": "SME",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 72,
       "lotSize": 1600,
@@ -962,7 +964,7 @@
       "name": "Green Asia Impex",
       "symbol": "",
       "board": "SME",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 89,
       "lotSize": 1600,
@@ -1016,7 +1018,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "1 Oct",
@@ -1081,7 +1083,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "29 Sept",
@@ -1154,7 +1156,7 @@
         "premium": 16,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "30 Sept",
@@ -1223,7 +1225,7 @@
         "premium": 1.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "27 Sept",
@@ -1304,7 +1306,7 @@
         "premium": 59,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "23 Sept",
@@ -1480,7 +1482,7 @@
         "premium": 0.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "24 Sept",
@@ -1573,7 +1575,7 @@
         "premium": 15,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "30 Sept",
@@ -1642,7 +1644,7 @@
         "premium": 9.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "1 Oct",
@@ -1707,7 +1709,7 @@
         "premium": 110,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "1 Oct",
@@ -1853,7 +1855,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "2 Oct",
@@ -1914,7 +1916,7 @@
         "premium": 14.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "22 Sept",
@@ -2015,7 +2017,7 @@
         "premium": 42,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "22 Sept",
@@ -2112,7 +2114,7 @@
         "premium": 46,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "17 Sept",
@@ -2263,7 +2265,7 @@
         "premium": 6,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "27 Sept",
@@ -2464,7 +2466,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "27 Sept",
@@ -2545,7 +2547,7 @@
         "premium": 6.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "27 Sept",
@@ -2626,7 +2628,7 @@
         "premium": 55,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "27 Sept",
@@ -2737,7 +2739,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "26 Sept",
@@ -2878,7 +2880,7 @@
         "premium": 6.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
+        "updatedAt": "7/10/2026, 11:48:58 am",
         "history": [
           {
             "date": "23 Sept",
