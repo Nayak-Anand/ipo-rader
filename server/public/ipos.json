@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-15T11:56:03.460Z",
+  "updatedAt": "2026-10-15T17:16:04.512Z",
   "ipos": [
     {
-      "id": "tonbo",
-      "name": "Tonbo Imaging India Limited",
-      "symbol": "TONBO",
+      "id": "bonfig",
+      "name": "Bonfiglioli Transmissions Limited",
+      "symbol": "BONFIG",
       "board": "MAINBOARD",
       "status": "OPEN",
-      "priceMin": 665,
-      "priceMax": 700,
-      "lotSize": 21,
-      "issueSizeCr": 596.82,
+      "priceMin": 558,
+      "priceMax": 586,
+      "lotSize": 25,
+      "issueSizeCr": 1774.54,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-10-15",
@@ -27,76 +27,27 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 495,
+        "premium": 143,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "13 Oct",
-            "premium": 480
+            "premium": 175
           },
           {
             "date": "14 Oct",
-            "premium": 500
+            "premium": 178
           },
           {
             "date": "15 Oct",
-            "premium": 495
+            "premium": 143
           }
         ]
       },
       "subscription": {
-        "total": 2.61
-      }
-    },
-    {
-      "id": "smt",
-      "name": "Sahajanand Medical Technologies Limited",
-      "symbol": "SMT",
-      "board": "MAINBOARD",
-      "status": "OPEN",
-      "priceMin": 327,
-      "priceMax": 344,
-      "lotSize": 43,
-      "issueSizeCr": 335.42,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-15",
-      "closeDate": "2026-10-19",
-      "allotmentDate": "2026-10-21",
-      "refundDate": null,
-      "listingDate": "2026-10-23",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 46,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
-        "history": [
-          {
-            "date": "13 Oct",
-            "premium": 41
-          },
-          {
-            "date": "14 Oct",
-            "premium": 41
-          },
-          {
-            "date": "15 Oct",
-            "premium": 46
-          }
-        ]
-      },
-      "subscription": {
-        "total": 0.13
+        "total": 0.34
       }
     },
     {
@@ -125,10 +76,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 22,
+        "premium": 15,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:30:25 am",
+        "updatedAt": "15/10/2026, 5:26:03 pm",
         "history": [
           {
             "date": "11 Oct",
@@ -148,7 +99,7 @@
           },
           {
             "date": "15 Oct",
-            "premium": 15
+            "premium": 14
           }
         ]
       },
@@ -157,15 +108,15 @@
       }
     },
     {
-      "id": "bonfig",
-      "name": "Bonfiglioli Transmissions Limited",
-      "symbol": "BONFIG",
+      "id": "smt",
+      "name": "Sahajanand Medical Technologies Limited",
+      "symbol": "SMT",
       "board": "MAINBOARD",
       "status": "OPEN",
-      "priceMin": 558,
-      "priceMax": 586,
-      "lotSize": 25,
-      "issueSizeCr": 1774.54,
+      "priceMin": 327,
+      "priceMax": 344,
+      "lotSize": 43,
+      "issueSizeCr": 335.42,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-10-15",
@@ -182,27 +133,76 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 159,
+        "premium": 43,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "13 Oct",
-            "premium": 175
+            "premium": 41
           },
           {
             "date": "14 Oct",
-            "premium": 178
+            "premium": 41
           },
           {
             "date": "15 Oct",
-            "premium": 159
+            "premium": 43
           }
         ]
       },
       "subscription": {
-        "total": 0.34
+        "total": 0.13
+      }
+    },
+    {
+      "id": "tonbo",
+      "name": "Tonbo Imaging India Limited",
+      "symbol": "TONBO",
+      "board": "MAINBOARD",
+      "status": "OPEN",
+      "priceMin": 665,
+      "priceMax": 700,
+      "lotSize": 21,
+      "issueSizeCr": 596.82,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-19",
+      "allotmentDate": "2026-10-21",
+      "refundDate": null,
+      "listingDate": "2026-10-23",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 500,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "history": [
+          {
+            "date": "13 Oct",
+            "premium": 480
+          },
+          {
+            "date": "14 Oct",
+            "premium": 500
+          },
+          {
+            "date": "15 Oct",
+            "premium": 500
+          }
+        ]
+      },
+      "subscription": {
+        "total": 2.61
       }
     },
     {
@@ -231,10 +231,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 21.5,
+        "premium": 20,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "9 Oct",
@@ -262,7 +262,7 @@
           },
           {
             "date": "15 Oct",
-            "premium": 21.5
+            "premium": 20
           }
         ]
       },
@@ -299,7 +299,7 @@
         "premium": 82,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "8 Oct",
@@ -368,7 +368,7 @@
         "premium": 2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "10 Oct",
@@ -425,10 +425,60 @@
       "financials": [],
       "valuation": null,
       "listingPrice": null,
-      "gmp": null,
+      "gmp": {
+        "premium": 2,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "history": [
+          {
+            "date": "15 Oct",
+            "premium": 2
+          }
+        ]
+      },
       "subscription": {
         "total": 3.08
       }
+    },
+    {
+      "id": "jpl",
+      "name": "Jio Platforms Limited",
+      "symbol": "JPL",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": 1065,
+      "priceMax": 1119,
+      "lotSize": 12,
+      "issueSizeCr": 30213,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-21",
+      "closeDate": "2026-10-23",
+      "allotmentDate": "2026-10-26",
+      "refundDate": null,
+      "listingDate": "2026-10-28",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 220,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "history": [
+          {
+            "date": "15 Oct",
+            "premium": 220
+          }
+        ]
+      },
+      "subscription": null
     },
     {
       "id": "parashealthcare",
@@ -456,10 +506,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 115,
+        "premium": 100,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "14 Oct",
@@ -467,90 +517,7 @@
           },
           {
             "date": "15 Oct",
-            "premium": 115
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "jioplatforms",
-      "name": "Jio Platforms",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 1119,
-      "lotSize": 12,
-      "issueSizeCr": 30213,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-21",
-      "closeDate": "2026-10-23",
-      "allotmentDate": "2026-10-26",
-      "refundDate": null,
-      "listingDate": "2026-10-28",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 222,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
-        "history": [
-          {
-            "date": "4 Oct",
-            "premium": 148
-          },
-          {
-            "date": "5 Oct",
-            "premium": 156
-          },
-          {
-            "date": "6 Oct",
-            "premium": 162
-          },
-          {
-            "date": "7 Oct",
-            "premium": 181
-          },
-          {
-            "date": "8 Oct",
-            "premium": 166
-          },
-          {
-            "date": "9 Oct",
-            "premium": 174
-          },
-          {
-            "date": "10 Oct",
-            "premium": 171
-          },
-          {
-            "date": "11 Oct",
-            "premium": 170
-          },
-          {
-            "date": "12 Oct",
-            "premium": 181
-          },
-          {
-            "date": "13 Oct",
-            "premium": 216
-          },
-          {
-            "date": "14 Oct",
-            "premium": 205
-          },
-          {
-            "date": "15 Oct",
-            "premium": 222
+            "premium": 100
           }
         ]
       },
@@ -612,10 +579,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 15,
+        "premium": 14,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "11 Oct",
@@ -635,7 +602,7 @@
           },
           {
             "date": "15 Oct",
-            "premium": 15
+            "premium": 14
           }
         ]
       },
@@ -672,7 +639,7 @@
         "premium": 1.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "8 Oct",
@@ -771,7 +738,7 @@
         "premium": 43,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -965,7 +932,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "28 Sept",
@@ -1104,7 +1071,7 @@
         "premium": 10,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "8 Oct",
@@ -1173,7 +1140,7 @@
         "premium": 50,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "26 Sept",
@@ -1320,7 +1287,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "24 Sept",
@@ -1423,7 +1390,7 @@
         "premium": 2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "6 Oct",
@@ -1530,7 +1497,7 @@
         "premium": 103,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "26 Sept",
@@ -1776,7 +1743,7 @@
         "premium": 1.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -1889,7 +1856,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "29 Sept",
@@ -1994,7 +1961,7 @@
         "premium": 59,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "23 Sept",
@@ -2123,7 +2090,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "1 Oct",
@@ -2220,7 +2187,7 @@
         "premium": 16,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "30 Sept",
@@ -2321,7 +2288,7 @@
         "premium": 15,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "30 Sept",
@@ -2452,7 +2419,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "2 Oct",
@@ -2545,7 +2512,7 @@
         "premium": 0.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "24 Sept",
@@ -2800,7 +2767,7 @@
         "premium": 9.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "1 Oct",
@@ -2897,7 +2864,7 @@
         "premium": 110,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "1 Oct",
@@ -2994,7 +2961,7 @@
         "premium": 46,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "17 Sept",
@@ -3177,7 +3144,7 @@
         "premium": 14.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "22 Sept",
@@ -3310,7 +3277,7 @@
         "premium": 42,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "22 Sept",
@@ -3439,7 +3406,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -3578,7 +3545,7 @@
         "premium": 6,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -3687,7 +3654,7 @@
         "premium": 55,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "27 Sept",
