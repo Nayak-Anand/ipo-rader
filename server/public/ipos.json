@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T17:16:04.512Z",
+  "updatedAt": "2026-10-16T04:50:38.371Z",
   "ipos": [
     {
       "id": "bonfig",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 143,
+        "premium": 140,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "13 Oct",
@@ -43,11 +43,15 @@
           {
             "date": "15 Oct",
             "premium": 143
+          },
+          {
+            "date": "16 Oct",
+            "premium": 140
           }
         ]
       },
       "subscription": {
-        "total": 0.34
+        "total": 0.4
       }
     },
     {
@@ -76,10 +80,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 15,
+        "premium": 14,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 5:26:03 pm",
+        "updatedAt": "15/10/2026, 10:46:04 pm",
         "history": [
           {
             "date": "11 Oct",
@@ -136,7 +140,7 @@
         "premium": 43,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "13 Oct",
@@ -149,11 +153,15 @@
           {
             "date": "15 Oct",
             "premium": 43
+          },
+          {
+            "date": "16 Oct",
+            "premium": 43
           }
         ]
       },
       "subscription": {
-        "total": 0.13
+        "total": 0.16
       }
     },
     {
@@ -185,7 +193,7 @@
         "premium": 500,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "13 Oct",
@@ -198,11 +206,15 @@
           {
             "date": "15 Oct",
             "premium": 500
+          },
+          {
+            "date": "16 Oct",
+            "premium": 500
           }
         ]
       },
       "subscription": {
-        "total": 2.61
+        "total": 3
       }
     },
     {
@@ -231,10 +243,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 20,
+        "premium": 22,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "9 Oct",
@@ -263,11 +275,80 @@
           {
             "date": "15 Oct",
             "premium": 20
+          },
+          {
+            "date": "16 Oct",
+            "premium": 22
           }
         ]
       },
       "subscription": {
-        "total": 0.81
+        "total": 0.89
+      }
+    },
+    {
+      "id": "ravita",
+      "name": "Ravita Engineering Services Limited",
+      "symbol": "RAVITA",
+      "board": "SME",
+      "status": "OPEN",
+      "priceMin": 105,
+      "priceMax": 112,
+      "lotSize": 1200,
+      "issueSizeCr": 116.05,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-14",
+      "closeDate": "2026-10-16",
+      "allotmentDate": "2026-10-19",
+      "refundDate": null,
+      "listingDate": "2026-10-22",
+      "registrar": null,
+      "exchange": "BSE, NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 2,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "16/10/2026, 10:20:38 am",
+        "history": [
+          {
+            "date": "10 Oct",
+            "premium": 12
+          },
+          {
+            "date": "11 Oct",
+            "premium": 12
+          },
+          {
+            "date": "12 Oct",
+            "premium": 4
+          },
+          {
+            "date": "13 Oct",
+            "premium": 2
+          },
+          {
+            "date": "14 Oct",
+            "premium": 7
+          },
+          {
+            "date": "15 Oct",
+            "premium": 2
+          },
+          {
+            "date": "16 Oct",
+            "premium": 2
+          }
+        ]
+      },
+      "subscription": {
+        "total": 1.78
       }
     },
     {
@@ -275,7 +356,7 @@
       "name": "HD Fire Protect Limited",
       "symbol": "HDFIRE",
       "board": "MAINBOARD",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": 258,
       "priceMax": 271,
       "lotSize": 55,
@@ -299,7 +380,7 @@
         "premium": 82,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "8 Oct",
@@ -332,113 +413,15 @@
           {
             "date": "15 Oct",
             "premium": 82
+          },
+          {
+            "date": "16 Oct",
+            "premium": 82
           }
         ]
       },
       "subscription": {
-        "total": 82.41
-      }
-    },
-    {
-      "id": "ravita",
-      "name": "Ravita Engineering Services Limited",
-      "symbol": "RAVITA",
-      "board": "SME",
-      "status": "OPEN",
-      "priceMin": 105,
-      "priceMax": 112,
-      "lotSize": 1200,
-      "issueSizeCr": 116.05,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-14",
-      "closeDate": "2026-10-16",
-      "allotmentDate": "2026-10-19",
-      "refundDate": null,
-      "listingDate": "2026-10-22",
-      "registrar": null,
-      "exchange": "BSE, NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 2,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
-        "history": [
-          {
-            "date": "10 Oct",
-            "premium": 12
-          },
-          {
-            "date": "11 Oct",
-            "premium": 12
-          },
-          {
-            "date": "12 Oct",
-            "premium": 4
-          },
-          {
-            "date": "13 Oct",
-            "premium": 2
-          },
-          {
-            "date": "14 Oct",
-            "premium": 7
-          },
-          {
-            "date": "15 Oct",
-            "premium": 2
-          }
-        ]
-      },
-      "subscription": {
-        "total": 1.62
-      }
-    },
-    {
-      "id": "loanfront",
-      "name": "Vaibhav Vyapaar Limited",
-      "symbol": "LOANFRONT",
-      "board": "SME",
-      "status": "OPEN",
-      "priceMin": 51,
-      "priceMax": 54,
-      "lotSize": 2000,
-      "issueSizeCr": 42.1,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-13",
-      "closeDate": "2026-10-15",
-      "allotmentDate": "2026-10-16",
-      "refundDate": null,
-      "listingDate": "2026-10-21",
-      "registrar": null,
-      "exchange": "BSE, NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 2,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
-        "history": [
-          {
-            "date": "15 Oct",
-            "premium": 2
-          }
-        ]
-      },
-      "subscription": {
-        "total": 3.08
+        "total": 131.73
       }
     },
     {
@@ -470,10 +453,14 @@
         "premium": 220,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "15 Oct",
+            "premium": 220
+          },
+          {
+            "date": "16 Oct",
             "premium": 220
           }
         ]
@@ -506,10 +493,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 100,
+        "premium": 95,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "14 Oct",
@@ -518,6 +505,10 @@
           {
             "date": "15 Oct",
             "premium": 100
+          },
+          {
+            "date": "16 Oct",
+            "premium": 95
           }
         ]
       },
@@ -579,10 +570,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 14,
+        "premium": 12,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "11 Oct",
@@ -603,11 +594,56 @@
           {
             "date": "15 Oct",
             "premium": 14
+          },
+          {
+            "date": "16 Oct",
+            "premium": 12
           }
         ]
       },
       "subscription": {
-        "total": 0.23
+        "total": 0.24
+      }
+    },
+    {
+      "id": "vaibhavvyapaar",
+      "name": "Vaibhav Vyapaar",
+      "symbol": "",
+      "board": "SME",
+      "status": "CLOSED",
+      "priceMin": null,
+      "priceMax": 54,
+      "lotSize": 2000,
+      "issueSizeCr": 42.1,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-13",
+      "closeDate": "2026-10-15",
+      "allotmentDate": "2026-10-16",
+      "refundDate": null,
+      "listingDate": "2026-10-21",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 2,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "16/10/2026, 10:20:38 am",
+        "history": [
+          {
+            "date": "16 Oct",
+            "premium": 2
+          }
+        ]
+      },
+      "subscription": {
+        "total": 3.23
       }
     },
     {
@@ -639,7 +675,7 @@
         "premium": 1.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "8 Oct",
@@ -671,6 +707,10 @@
           },
           {
             "date": "15 Oct",
+            "premium": 1.5
+          },
+          {
+            "date": "16 Oct",
             "premium": 1.5
           }
         ]
@@ -738,7 +778,7 @@
         "premium": 43,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "27 Sept",
@@ -814,6 +854,10 @@
           },
           {
             "date": "15 Oct",
+            "premium": 43
+          },
+          {
+            "date": "16 Oct",
             "premium": 43
           }
         ]
@@ -932,7 +976,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "28 Sept",
@@ -1005,6 +1049,10 @@
           {
             "date": "15 Oct",
             "premium": 1
+          },
+          {
+            "date": "16 Oct",
+            "premium": 1
           }
         ]
       },
@@ -1071,7 +1119,7 @@
         "premium": 10,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "8 Oct",
@@ -1103,6 +1151,10 @@
           },
           {
             "date": "15 Oct",
+            "premium": 10
+          },
+          {
+            "date": "16 Oct",
             "premium": 10
           }
         ]
@@ -1140,7 +1192,7 @@
         "premium": 50,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "26 Sept",
@@ -1221,6 +1273,10 @@
           {
             "date": "15 Oct",
             "premium": 50
+          },
+          {
+            "date": "16 Oct",
+            "premium": 50
           }
         ]
       },
@@ -1287,7 +1343,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "24 Sept",
@@ -1323,6 +1379,10 @@
           },
           {
             "date": "15 Oct",
+            "premium": 4
+          },
+          {
+            "date": "16 Oct",
             "premium": 4
           }
         ]
@@ -1390,7 +1450,7 @@
         "premium": 2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "6 Oct",
@@ -1430,6 +1490,10 @@
           },
           {
             "date": "15 Oct",
+            "premium": 2
+          },
+          {
+            "date": "16 Oct",
             "premium": 2
           }
         ]
@@ -1497,7 +1561,7 @@
         "premium": 103,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "26 Sept",
@@ -1577,6 +1641,10 @@
           },
           {
             "date": "15 Oct",
+            "premium": 103
+          },
+          {
+            "date": "16 Oct",
             "premium": 103
           }
         ]
@@ -1743,7 +1811,7 @@
         "premium": 1.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "27 Sept",
@@ -1820,6 +1888,10 @@
           {
             "date": "15 Oct",
             "premium": 1.5
+          },
+          {
+            "date": "16 Oct",
+            "premium": 1.5
           }
         ]
       },
@@ -1856,7 +1928,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "29 Sept",
@@ -1925,6 +1997,10 @@
           {
             "date": "15 Oct",
             "premium": 1
+          },
+          {
+            "date": "16 Oct",
+            "premium": 1
           }
         ]
       },
@@ -1961,7 +2037,7 @@
         "premium": 59,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "23 Sept",
@@ -2054,6 +2130,10 @@
           {
             "date": "15 Oct",
             "premium": 59
+          },
+          {
+            "date": "16 Oct",
+            "premium": 59
           }
         ]
       },
@@ -2090,7 +2170,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "1 Oct",
@@ -2151,6 +2231,10 @@
           {
             "date": "15 Oct",
             "premium": 17
+          },
+          {
+            "date": "16 Oct",
+            "premium": 17
           }
         ]
       },
@@ -2187,7 +2271,7 @@
         "premium": 16,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "30 Sept",
@@ -2252,6 +2336,10 @@
           {
             "date": "15 Oct",
             "premium": 16
+          },
+          {
+            "date": "16 Oct",
+            "premium": 16
           }
         ]
       },
@@ -2288,7 +2376,7 @@
         "premium": 15,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "30 Sept",
@@ -2352,6 +2440,10 @@
           },
           {
             "date": "15 Oct",
+            "premium": 15
+          },
+          {
+            "date": "16 Oct",
             "premium": 15
           }
         ]
@@ -2419,7 +2511,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "2 Oct",
@@ -2476,6 +2568,10 @@
           {
             "date": "15 Oct",
             "premium": 11
+          },
+          {
+            "date": "16 Oct",
+            "premium": 11
           }
         ]
       },
@@ -2512,7 +2608,7 @@
         "premium": 0.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "24 Sept",
@@ -2600,6 +2696,10 @@
           },
           {
             "date": "15 Oct",
+            "premium": 0.5
+          },
+          {
+            "date": "16 Oct",
             "premium": 0.5
           }
         ]
@@ -2767,7 +2867,7 @@
         "premium": 9.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "1 Oct",
@@ -2828,6 +2928,10 @@
           {
             "date": "15 Oct",
             "premium": 9.5
+          },
+          {
+            "date": "16 Oct",
+            "premium": 9.5
           }
         ]
       },
@@ -2864,7 +2968,7 @@
         "premium": 110,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "1 Oct",
@@ -2925,6 +3029,10 @@
           {
             "date": "15 Oct",
             "premium": 110
+          },
+          {
+            "date": "16 Oct",
+            "premium": 110
           }
         ]
       },
@@ -2961,7 +3069,7 @@
         "premium": 46,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "17 Sept",
@@ -3078,6 +3186,10 @@
           {
             "date": "15 Oct",
             "premium": 46
+          },
+          {
+            "date": "16 Oct",
+            "premium": 46
           }
         ]
       },
@@ -3144,7 +3256,7 @@
         "premium": 14.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "22 Sept",
@@ -3241,6 +3353,10 @@
           {
             "date": "15 Oct",
             "premium": 14.5
+          },
+          {
+            "date": "16 Oct",
+            "premium": 14.5
           }
         ]
       },
@@ -3277,7 +3393,7 @@
         "premium": 42,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "22 Sept",
@@ -3370,6 +3486,10 @@
           {
             "date": "15 Oct",
             "premium": 42
+          },
+          {
+            "date": "16 Oct",
+            "premium": 42
           }
         ]
       },
@@ -3406,7 +3526,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "27 Sept",
@@ -3478,6 +3598,10 @@
           },
           {
             "date": "15 Oct",
+            "premium": 7
+          },
+          {
+            "date": "16 Oct",
             "premium": 7
           }
         ]
@@ -3545,7 +3669,7 @@
         "premium": 6,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "27 Sept",
@@ -3618,6 +3742,10 @@
           {
             "date": "15 Oct",
             "premium": 6
+          },
+          {
+            "date": "16 Oct",
+            "premium": 6
           }
         ]
       },
@@ -3654,7 +3782,7 @@
         "premium": 55,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/10/2026, 10:46:04 pm",
+        "updatedAt": "16/10/2026, 10:20:38 am",
         "history": [
           {
             "date": "27 Sept",
@@ -3730,6 +3858,10 @@
           },
           {
             "date": "15 Oct",
+            "premium": 55
+          },
+          {
+            "date": "16 Oct",
             "premium": 55
           }
         ]
@@ -7708,280 +7840,6 @@
       },
       "subscription": {
         "total": 162.94
-      }
-    },
-    {
-      "id": "abhhealthcare",
-      "name": "ABH Healthcare",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 102,
-      "lotSize": 1200,
-      "issueSizeCr": 34.98,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "refundDate": null,
-      "listingDate": "2026-09-01",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": null,
-      "subscription": {
-        "total": 1.44
-      }
-    },
-    {
-      "id": "madhurknit",
-      "name": "Madhur Knit",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 100,
-      "lotSize": 1200,
-      "issueSizeCr": 53.27,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "refundDate": null,
-      "listingDate": "2026-09-01",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 2,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "7/9/2026, 12:02:27 am",
-        "history": [
-          {
-            "date": "2 Sept",
-            "premium": 2
-          },
-          {
-            "date": "3 Sept",
-            "premium": 2
-          },
-          {
-            "date": "4 Sept",
-            "premium": 2
-          },
-          {
-            "date": "5 Sept",
-            "premium": 2
-          },
-          {
-            "date": "6 Sept",
-            "premium": 2
-          },
-          {
-            "date": "7 Sept",
-            "premium": 2
-          }
-        ]
-      },
-      "subscription": {
-        "total": 1.5
-      }
-    },
-    {
-      "id": "skywaysair",
-      "name": "Skyways Air",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 138,
-      "lotSize": 100,
-      "issueSizeCr": 582.8,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "refundDate": null,
-      "listingDate": "2026-09-01",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 33,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "7/9/2026, 12:02:27 am",
-        "history": [
-          {
-            "date": "2 Sept",
-            "premium": 33
-          },
-          {
-            "date": "3 Sept",
-            "premium": 33
-          },
-          {
-            "date": "4 Sept",
-            "premium": 33
-          },
-          {
-            "date": "5 Sept",
-            "premium": 33
-          },
-          {
-            "date": "6 Sept",
-            "premium": 33
-          },
-          {
-            "date": "7 Sept",
-            "premium": 33
-          }
-        ]
-      },
-      "subscription": {
-        "total": 71.25
-      }
-    },
-    {
-      "id": "symbiotecpharmalab",
-      "name": "Symbiotec Pharmalab",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 988,
-      "lotSize": 15,
-      "issueSizeCr": 1757,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "refundDate": null,
-      "listingDate": "2026-09-01",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 185,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "7/9/2026, 12:02:27 am",
-        "history": [
-          {
-            "date": "2 Sept",
-            "premium": 185
-          },
-          {
-            "date": "3 Sept",
-            "premium": 185
-          },
-          {
-            "date": "4 Sept",
-            "premium": 185
-          },
-          {
-            "date": "5 Sept",
-            "premium": 185
-          },
-          {
-            "date": "6 Sept",
-            "premium": 185
-          },
-          {
-            "date": "7 Sept",
-            "premium": 185
-          }
-        ]
-      },
-      "subscription": {
-        "total": 75.08
-      }
-    },
-    {
-      "id": "hytechengineers",
-      "name": "Hy-Tech Engineers",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 53,
-      "lotSize": 283,
-      "issueSizeCr": 135.73,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-08-24",
-      "closeDate": "2026-08-27",
-      "allotmentDate": "2026-08-28",
-      "refundDate": null,
-      "listingDate": "2026-09-01",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 39,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "7/9/2026, 12:02:27 am",
-        "history": [
-          {
-            "date": "2 Sept",
-            "premium": 39
-          },
-          {
-            "date": "3 Sept",
-            "premium": 39
-          },
-          {
-            "date": "4 Sept",
-            "premium": 39
-          },
-          {
-            "date": "5 Sept",
-            "premium": 39
-          },
-          {
-            "date": "6 Sept",
-            "premium": 39
-          },
-          {
-            "date": "7 Sept",
-            "premium": 39
-          }
-        ]
-      },
-      "subscription": {
-        "total": 247.39
       }
     }
   ]
