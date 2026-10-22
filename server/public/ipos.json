@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T17:33:18.011Z",
+  "updatedAt": "2026-10-22T05:13:04.596Z",
   "ipos": [
     {
       "id": "parashlth",
@@ -30,7 +30,7 @@
         "premium": 25,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
+        "updatedAt": "22/10/2026, 10:43:04 am",
         "history": [
           {
             "date": "16 Oct",
@@ -55,11 +55,15 @@
           {
             "date": "21 Oct",
             "premium": 25
+          },
+          {
+            "date": "22 Oct",
+            "premium": 25
           }
         ]
       },
       "subscription": {
-        "total": 0.09
+        "total": 0.12
       }
     },
     {
@@ -88,10 +92,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 248,
+        "premium": 239,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
+        "updatedAt": "22/10/2026, 10:43:04 am",
         "history": [
           {
             "date": "15 Oct",
@@ -120,12 +124,95 @@
           {
             "date": "21 Oct",
             "premium": 248
+          },
+          {
+            "date": "22 Oct",
+            "premium": 239
           }
         ]
       },
       "subscription": {
-        "total": 1.74
+        "total": 1.9
       }
+    },
+    {
+      "id": "blspolymers",
+      "name": "BLS Polymers",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": null,
+      "priceMax": 150,
+      "lotSize": 100,
+      "issueSizeCr": 255,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-27",
+      "closeDate": "2026-10-29",
+      "allotmentDate": "2026-10-30",
+      "refundDate": null,
+      "listingDate": "2026-11-03",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 25,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "22/10/2026, 10:43:04 am",
+        "history": [
+          {
+            "date": "19 Oct",
+            "premium": 20
+          },
+          {
+            "date": "20 Oct",
+            "premium": 30
+          },
+          {
+            "date": "21 Oct",
+            "premium": 30
+          },
+          {
+            "date": "22 Oct",
+            "premium": 25
+          }
+        ]
+      },
+      "subscription": null
+    },
+    {
+      "id": "wisconindustries",
+      "name": "Wiscon Industries",
+      "symbol": "",
+      "board": "SME",
+      "status": "UPCOMING",
+      "priceMin": null,
+      "priceMax": 204,
+      "lotSize": 600,
+      "issueSizeCr": 110,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-27",
+      "closeDate": "2026-10-29",
+      "allotmentDate": "2026-10-30",
+      "refundDate": null,
+      "listingDate": "2026-11-03",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": null
     },
     {
       "id": "sfcenvironmentaltechnologies",
@@ -156,58 +243,15 @@
         "premium": 31,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
+        "updatedAt": "22/10/2026, 10:43:04 am",
         "history": [
           {
             "date": "21 Oct",
             "premium": 31
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "blspolymers",
-      "name": "BLS Polymers",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 150,
-      "lotSize": 100,
-      "issueSizeCr": 255,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-27",
-      "closeDate": "2026-10-29",
-      "allotmentDate": "2026-10-30",
-      "refundDate": null,
-      "listingDate": "2026-11-03",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 30,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
-        "history": [
-          {
-            "date": "19 Oct",
-            "premium": 20
           },
           {
-            "date": "20 Oct",
-            "premium": 30
-          },
-          {
-            "date": "21 Oct",
-            "premium": 30
+            "date": "22 Oct",
+            "premium": 31
           }
         ]
       },
@@ -268,6 +312,96 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": null
+    },
+    {
+      "id": "tonboimaging",
+      "name": "Tonbo Imaging India",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "CLOSED",
+      "priceMin": null,
+      "priceMax": 700,
+      "lotSize": 21,
+      "issueSizeCr": 852.18,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-19",
+      "allotmentDate": "2026-10-21",
+      "refundDate": null,
+      "listingDate": "2026-10-23",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 465,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "22/10/2026, 10:43:04 am",
+        "history": [
+          {
+            "date": "21 Oct",
+            "premium": 512
+          },
+          {
+            "date": "22 Oct",
+            "premium": 465
+          }
+        ]
+      },
+      "subscription": {
+        "total": 132.81
+      }
+    },
+    {
+      "id": "bonfigliolitransmissions",
+      "name": "Bonfiglioli Transmissions",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "CLOSED",
+      "priceMin": null,
+      "priceMax": 586,
+      "lotSize": 25,
+      "issueSizeCr": 2533.66,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-15",
+      "closeDate": "2026-10-19",
+      "allotmentDate": "2026-10-21",
+      "refundDate": null,
+      "listingDate": "2026-10-23",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 105,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "22/10/2026, 10:43:04 am",
+        "history": [
+          {
+            "date": "21 Oct",
+            "premium": 132
+          },
+          {
+            "date": "22 Oct",
+            "premium": 105
+          }
+        ]
+      },
+      "subscription": {
+        "total": 46.05
+      }
     },
     {
       "id": "zetwerk",
@@ -351,88 +485,6 @@
       }
     },
     {
-      "id": "tonboimaging",
-      "name": "Tonbo Imaging India",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "CLOSED",
-      "priceMin": null,
-      "priceMax": 700,
-      "lotSize": 21,
-      "issueSizeCr": 852.18,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-15",
-      "closeDate": "2026-10-19",
-      "allotmentDate": "2026-10-21",
-      "refundDate": null,
-      "listingDate": "2026-10-23",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 512,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
-        "history": [
-          {
-            "date": "21 Oct",
-            "premium": 512
-          }
-        ]
-      },
-      "subscription": {
-        "total": 132.81
-      }
-    },
-    {
-      "id": "bonfigliolitransmissions",
-      "name": "Bonfiglioli Transmissions",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "CLOSED",
-      "priceMin": null,
-      "priceMax": 586,
-      "lotSize": 25,
-      "issueSizeCr": 2533.66,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-15",
-      "closeDate": "2026-10-19",
-      "allotmentDate": "2026-10-21",
-      "refundDate": null,
-      "listingDate": "2026-10-23",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 132,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
-        "history": [
-          {
-            "date": "21 Oct",
-            "premium": 132
-          }
-        ]
-      },
-      "subscription": {
-        "total": 46.05
-      }
-    },
-    {
       "id": "sahajanandmedicaltechnologies",
       "name": "Sahajanand Medical Technologies",
       "symbol": "",
@@ -458,14 +510,18 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 20,
+        "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
+        "updatedAt": "22/10/2026, 10:43:04 am",
         "history": [
           {
             "date": "21 Oct",
             "premium": 20
+          },
+          {
+            "date": "22 Oct",
+            "premium": 17
           }
         ]
       },
@@ -502,7 +558,7 @@
         "premium": 25,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
+        "updatedAt": "22/10/2026, 10:43:04 am",
         "history": [
           {
             "date": "18 Oct",
@@ -519,6 +575,10 @@
           {
             "date": "21 Oct",
             "premium": 25
+          },
+          {
+            "date": "22 Oct",
+            "premium": 25
           }
         ]
       },
@@ -527,11 +587,68 @@
       }
     },
     {
+      "id": "ravitaengineeringservices",
+      "name": "Ravita Engineering Services",
+      "symbol": "",
+      "board": "SME",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 112,
+      "lotSize": 1200,
+      "issueSizeCr": 116.05,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-14",
+      "closeDate": "2026-10-16",
+      "allotmentDate": "2026-10-19",
+      "refundDate": null,
+      "listingDate": "2026-10-22",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 1,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "22/10/2026, 10:43:04 am",
+        "history": [
+          {
+            "date": "18 Oct",
+            "premium": 4.5
+          },
+          {
+            "date": "19 Oct",
+            "premium": 7
+          },
+          {
+            "date": "20 Oct",
+            "premium": 2
+          },
+          {
+            "date": "21 Oct",
+            "premium": 1
+          },
+          {
+            "date": "22 Oct",
+            "premium": 1
+          }
+        ]
+      },
+      "subscription": {
+        "total": 7.11
+      }
+    },
+    {
       "id": "fusioncx",
       "name": "Fusion CX",
       "symbol": "",
       "board": "MAINBOARD",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 289,
       "lotSize": 51,
@@ -552,10 +669,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 13,
+        "premium": 13.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
+        "updatedAt": "22/10/2026, 10:43:04 am",
         "history": [
           {
             "date": "9 Oct",
@@ -608,125 +725,15 @@
           {
             "date": "21 Oct",
             "premium": 13
+          },
+          {
+            "date": "22 Oct",
+            "premium": 13.5
           }
         ]
       },
       "subscription": {
         "total": 4.68
-      }
-    },
-    {
-      "id": "ravitaengineeringservices",
-      "name": "Ravita Engineering Services",
-      "symbol": "",
-      "board": "SME",
-      "status": "CLOSED",
-      "priceMin": null,
-      "priceMax": 112,
-      "lotSize": 1200,
-      "issueSizeCr": 116.05,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-14",
-      "closeDate": "2026-10-16",
-      "allotmentDate": "2026-10-19",
-      "refundDate": null,
-      "listingDate": "2026-10-22",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 1,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
-        "history": [
-          {
-            "date": "18 Oct",
-            "premium": 4.5
-          },
-          {
-            "date": "19 Oct",
-            "premium": 7
-          },
-          {
-            "date": "20 Oct",
-            "premium": 2
-          },
-          {
-            "date": "21 Oct",
-            "premium": 1
-          }
-        ]
-      },
-      "subscription": {
-        "total": 7.11
-      }
-    },
-    {
-      "id": "hdfireprotect",
-      "name": "HD Fire Protect",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 271,
-      "lotSize": 55,
-      "issueSizeCr": 712.13,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-13",
-      "closeDate": "2026-10-15",
-      "allotmentDate": "2026-10-16",
-      "refundDate": null,
-      "listingDate": "2026-10-21",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 70,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
-        "history": [
-          {
-            "date": "16 Oct",
-            "premium": 67
-          },
-          {
-            "date": "17 Oct",
-            "premium": 69
-          },
-          {
-            "date": "18 Oct",
-            "premium": 65
-          },
-          {
-            "date": "19 Oct",
-            "premium": 65
-          },
-          {
-            "date": "20 Oct",
-            "premium": 71
-          },
-          {
-            "date": "21 Oct",
-            "premium": 70
-          }
-        ]
-      },
-      "subscription": {
-        "total": 131.73
       }
     },
     {
@@ -758,7 +765,7 @@
         "premium": 3,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
+        "updatedAt": "22/10/2026, 10:43:04 am",
         "history": [
           {
             "date": "17 Oct",
@@ -779,11 +786,80 @@
           {
             "date": "21 Oct",
             "premium": 3
+          },
+          {
+            "date": "22 Oct",
+            "premium": 3
           }
         ]
       },
       "subscription": {
         "total": 3.23
+      }
+    },
+    {
+      "id": "hdfireprotect",
+      "name": "HD Fire Protect",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 271,
+      "lotSize": 55,
+      "issueSizeCr": 712.13,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-13",
+      "closeDate": "2026-10-15",
+      "allotmentDate": "2026-10-16",
+      "refundDate": null,
+      "listingDate": "2026-10-21",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 70,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "22/10/2026, 10:43:04 am",
+        "history": [
+          {
+            "date": "16 Oct",
+            "premium": 67
+          },
+          {
+            "date": "17 Oct",
+            "premium": 69
+          },
+          {
+            "date": "18 Oct",
+            "premium": 65
+          },
+          {
+            "date": "19 Oct",
+            "premium": 65
+          },
+          {
+            "date": "20 Oct",
+            "premium": 71
+          },
+          {
+            "date": "21 Oct",
+            "premium": 70
+          },
+          {
+            "date": "22 Oct",
+            "premium": 70
+          }
+        ]
+      },
+      "subscription": {
+        "total": 131.73
       }
     },
     {
@@ -815,7 +891,7 @@
         "premium": 1.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
+        "updatedAt": "22/10/2026, 10:43:04 am",
         "history": [
           {
             "date": "8 Oct",
@@ -872,41 +948,15 @@
           {
             "date": "21 Oct",
             "premium": 1.5
+          },
+          {
+            "date": "22 Oct",
+            "premium": 1.5
           }
         ]
       },
       "subscription": {
         "total": 2.7
-      }
-    },
-    {
-      "id": "paramountsyntex",
-      "name": "Paramount Syntex",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 127,
-      "lotSize": 1000,
-      "issueSizeCr": 81.79,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-30",
-      "closeDate": "2026-10-06",
-      "allotmentDate": "2026-10-07",
-      "refundDate": null,
-      "listingDate": "2026-10-09",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": null,
-      "subscription": {
-        "total": 1.88
       }
     },
     {
@@ -938,7 +988,7 @@
         "premium": 43,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
+        "updatedAt": "22/10/2026, 10:43:04 am",
         "history": [
           {
             "date": "27 Sept",
@@ -1039,11 +1089,45 @@
           {
             "date": "21 Oct",
             "premium": 43
+          },
+          {
+            "date": "22 Oct",
+            "premium": 43
           }
         ]
       },
       "subscription": {
         "total": 124.23
+      }
+    },
+    {
+      "id": "paramountsyntex",
+      "name": "Paramount Syntex",
+      "symbol": "",
+      "board": "SME",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 127,
+      "lotSize": 1000,
+      "issueSizeCr": 81.79,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-30",
+      "closeDate": "2026-10-06",
+      "allotmentDate": "2026-10-07",
+      "refundDate": null,
+      "listingDate": "2026-10-09",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": {
+        "total": 1.88
       }
     },
     {
@@ -1128,167 +1212,6 @@
       }
     },
     {
-      "id": "eventions",
-      "name": "Eventions",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 118,
-      "lotSize": 1200,
-      "issueSizeCr": 38.12,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-30",
-      "closeDate": "2026-10-05",
-      "allotmentDate": "2026-10-06",
-      "refundDate": null,
-      "listingDate": "2026-10-08",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": null,
-      "subscription": {
-        "total": 2.39
-      }
-    },
-    {
-      "id": "vishalnirmiti",
-      "name": "Vishal Nirmiti",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 220,
-      "lotSize": 68,
-      "issueSizeCr": 178,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-30",
-      "closeDate": "2026-10-05",
-      "allotmentDate": "2026-10-06",
-      "refundDate": null,
-      "listingDate": "2026-10-08",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 2,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
-        "history": [
-          {
-            "date": "6 Oct",
-            "premium": 2
-          },
-          {
-            "date": "7 Oct",
-            "premium": 2
-          },
-          {
-            "date": "8 Oct",
-            "premium": 2
-          },
-          {
-            "date": "9 Oct",
-            "premium": 2
-          },
-          {
-            "date": "10 Oct",
-            "premium": 2
-          },
-          {
-            "date": "11 Oct",
-            "premium": 2
-          },
-          {
-            "date": "12 Oct",
-            "premium": 2
-          },
-          {
-            "date": "13 Oct",
-            "premium": 2
-          },
-          {
-            "date": "14 Oct",
-            "premium": 2
-          },
-          {
-            "date": "15 Oct",
-            "premium": 2
-          },
-          {
-            "date": "16 Oct",
-            "premium": 2
-          },
-          {
-            "date": "17 Oct",
-            "premium": 2
-          },
-          {
-            "date": "18 Oct",
-            "premium": 2
-          },
-          {
-            "date": "19 Oct",
-            "premium": 2
-          },
-          {
-            "date": "20 Oct",
-            "premium": 2
-          },
-          {
-            "date": "21 Oct",
-            "premium": 2
-          }
-        ]
-      },
-      "subscription": {
-        "total": 1.79
-      }
-    },
-    {
-      "id": "sjpultrasonic",
-      "name": "SJP Ultrasonic",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 67,
-      "lotSize": 2000,
-      "issueSizeCr": 23.45,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-30",
-      "closeDate": "2026-10-05",
-      "allotmentDate": "2026-10-06",
-      "refundDate": null,
-      "listingDate": "2026-10-08",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": null,
-      "subscription": {
-        "total": 1.82
-      }
-    },
-    {
       "id": "dovesoft",
       "name": "Dove Soft",
       "symbol": "",
@@ -1347,7 +1270,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
+        "updatedAt": "22/10/2026, 10:43:04 am",
         "history": [
           {
             "date": "28 Sept",
@@ -1444,41 +1367,15 @@
           {
             "date": "21 Oct",
             "premium": 1
+          },
+          {
+            "date": "22 Oct",
+            "premium": 1
           }
         ]
       },
       "subscription": {
         "total": 2.26
-      }
-    },
-    {
-      "id": "omaraventures",
-      "name": "Omara Ventures India",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 311,
-      "lotSize": 400,
-      "issueSizeCr": 41.99,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-30",
-      "closeDate": "2026-10-05",
-      "allotmentDate": "2026-10-06",
-      "refundDate": null,
-      "listingDate": "2026-10-08",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": null,
-      "subscription": {
-        "total": 1.06
       }
     },
     {
@@ -1510,7 +1407,7 @@
         "premium": 50,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
+        "updatedAt": "22/10/2026, 10:43:04 am",
         "history": [
           {
             "date": "26 Sept",
@@ -1615,11 +1512,277 @@
           {
             "date": "21 Oct",
             "premium": 50
+          },
+          {
+            "date": "22 Oct",
+            "premium": 50
           }
         ]
       },
       "subscription": {
         "total": 294.22
+      }
+    },
+    {
+      "id": "eventions",
+      "name": "Eventions",
+      "symbol": "",
+      "board": "SME",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 118,
+      "lotSize": 1200,
+      "issueSizeCr": 38.12,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-30",
+      "closeDate": "2026-10-05",
+      "allotmentDate": "2026-10-06",
+      "refundDate": null,
+      "listingDate": "2026-10-08",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": {
+        "total": 2.39
+      }
+    },
+    {
+      "id": "vishalnirmiti",
+      "name": "Vishal Nirmiti",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 220,
+      "lotSize": 68,
+      "issueSizeCr": 178,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-30",
+      "closeDate": "2026-10-05",
+      "allotmentDate": "2026-10-06",
+      "refundDate": null,
+      "listingDate": "2026-10-08",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 2,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "22/10/2026, 10:43:04 am",
+        "history": [
+          {
+            "date": "6 Oct",
+            "premium": 2
+          },
+          {
+            "date": "7 Oct",
+            "premium": 2
+          },
+          {
+            "date": "8 Oct",
+            "premium": 2
+          },
+          {
+            "date": "9 Oct",
+            "premium": 2
+          },
+          {
+            "date": "10 Oct",
+            "premium": 2
+          },
+          {
+            "date": "11 Oct",
+            "premium": 2
+          },
+          {
+            "date": "12 Oct",
+            "premium": 2
+          },
+          {
+            "date": "13 Oct",
+            "premium": 2
+          },
+          {
+            "date": "14 Oct",
+            "premium": 2
+          },
+          {
+            "date": "15 Oct",
+            "premium": 2
+          },
+          {
+            "date": "16 Oct",
+            "premium": 2
+          },
+          {
+            "date": "17 Oct",
+            "premium": 2
+          },
+          {
+            "date": "18 Oct",
+            "premium": 2
+          },
+          {
+            "date": "19 Oct",
+            "premium": 2
+          },
+          {
+            "date": "20 Oct",
+            "premium": 2
+          },
+          {
+            "date": "21 Oct",
+            "premium": 2
+          },
+          {
+            "date": "22 Oct",
+            "premium": 2
+          }
+        ]
+      },
+      "subscription": {
+        "total": 1.79
+      }
+    },
+    {
+      "id": "sollfegesmartelectronics",
+      "name": "Sollfege Smart Electronics",
+      "symbol": "",
+      "board": "SME",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 55,
+      "lotSize": 2000,
+      "issueSizeCr": 21.78,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-30",
+      "closeDate": "2026-10-05",
+      "allotmentDate": "2026-10-06",
+      "refundDate": null,
+      "listingDate": "2026-10-08",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 10,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "22/10/2026, 10:43:04 am",
+        "history": [
+          {
+            "date": "8 Oct",
+            "premium": 10
+          },
+          {
+            "date": "9 Oct",
+            "premium": 10
+          },
+          {
+            "date": "10 Oct",
+            "premium": 10
+          },
+          {
+            "date": "11 Oct",
+            "premium": 10
+          },
+          {
+            "date": "12 Oct",
+            "premium": 10
+          },
+          {
+            "date": "13 Oct",
+            "premium": 10
+          },
+          {
+            "date": "14 Oct",
+            "premium": 10
+          },
+          {
+            "date": "15 Oct",
+            "premium": 10
+          },
+          {
+            "date": "16 Oct",
+            "premium": 10
+          },
+          {
+            "date": "17 Oct",
+            "premium": 10
+          },
+          {
+            "date": "18 Oct",
+            "premium": 10
+          },
+          {
+            "date": "19 Oct",
+            "premium": 10
+          },
+          {
+            "date": "20 Oct",
+            "premium": 10
+          },
+          {
+            "date": "21 Oct",
+            "premium": 10
+          },
+          {
+            "date": "22 Oct",
+            "premium": 10
+          }
+        ]
+      },
+      "subscription": {
+        "total": 2.14
+      }
+    },
+    {
+      "id": "sjpultrasonic",
+      "name": "SJP Ultrasonic",
+      "symbol": "",
+      "board": "SME",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 67,
+      "lotSize": 2000,
+      "issueSizeCr": 23.45,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-09-30",
+      "closeDate": "2026-10-05",
+      "allotmentDate": "2026-10-06",
+      "refundDate": null,
+      "listingDate": "2026-10-08",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": {
+        "total": 1.82
       }
     },
     {
@@ -1651,7 +1814,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
+        "updatedAt": "22/10/2026, 10:43:04 am",
         "history": [
           {
             "date": "24 Sept",
@@ -1712,6 +1875,10 @@
           {
             "date": "21 Oct",
             "premium": 4
+          },
+          {
+            "date": "22 Oct",
+            "premium": 4
           }
         ]
       },
@@ -1720,15 +1887,15 @@
       }
     },
     {
-      "id": "sollfegesmartelectronics",
-      "name": "Sollfege Smart Electronics",
+      "id": "omaraventures",
+      "name": "Omara Ventures India",
       "symbol": "",
       "board": "SME",
       "status": "LISTED",
       "priceMin": null,
-      "priceMax": 55,
-      "lotSize": 2000,
-      "issueSizeCr": 21.78,
+      "priceMax": 311,
+      "lotSize": 400,
+      "issueSizeCr": 41.99,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-09-30",
@@ -1744,72 +1911,9 @@
       "financials": [],
       "valuation": null,
       "listingPrice": null,
-      "gmp": {
-        "premium": 10,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
-        "history": [
-          {
-            "date": "8 Oct",
-            "premium": 10
-          },
-          {
-            "date": "9 Oct",
-            "premium": 10
-          },
-          {
-            "date": "10 Oct",
-            "premium": 10
-          },
-          {
-            "date": "11 Oct",
-            "premium": 10
-          },
-          {
-            "date": "12 Oct",
-            "premium": 10
-          },
-          {
-            "date": "13 Oct",
-            "premium": 10
-          },
-          {
-            "date": "14 Oct",
-            "premium": 10
-          },
-          {
-            "date": "15 Oct",
-            "premium": 10
-          },
-          {
-            "date": "16 Oct",
-            "premium": 10
-          },
-          {
-            "date": "17 Oct",
-            "premium": 10
-          },
-          {
-            "date": "18 Oct",
-            "premium": 10
-          },
-          {
-            "date": "19 Oct",
-            "premium": 10
-          },
-          {
-            "date": "20 Oct",
-            "premium": 10
-          },
-          {
-            "date": "21 Oct",
-            "premium": 10
-          }
-        ]
-      },
+      "gmp": null,
       "subscription": {
-        "total": 2.14
+        "total": 1.06
       }
     },
     {
@@ -7607,254 +7711,6 @@
       },
       "subscription": {
         "total": 2.12
-      }
-    },
-    {
-      "id": "purplestylelabs",
-      "name": "Purple Style Labs",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 575,
-      "lotSize": 26,
-      "issueSizeCr": 680,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-08-31",
-      "closeDate": "2026-09-02",
-      "allotmentDate": "2026-09-03",
-      "refundDate": null,
-      "listingDate": "2026-09-07",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": -10,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 10:17:45 pm",
-        "history": [
-          {
-            "date": "3 Sept",
-            "premium": 2
-          },
-          {
-            "date": "4 Sept",
-            "premium": 2
-          },
-          {
-            "date": "5 Sept",
-            "premium": -5
-          },
-          {
-            "date": "6 Sept",
-            "premium": -10
-          },
-          {
-            "date": "7 Sept",
-            "premium": -10
-          },
-          {
-            "date": "8 Sept",
-            "premium": -10
-          }
-        ]
-      },
-      "subscription": {
-        "total": 1.36
-      }
-    },
-    {
-      "id": "ashutoshfibre",
-      "name": "Ashutosh Fibre",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 92,
-      "lotSize": 1200,
-      "issueSizeCr": 56.35,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-08-31",
-      "closeDate": "2026-09-02",
-      "allotmentDate": "2026-09-03",
-      "refundDate": null,
-      "listingDate": "2026-09-07",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 56,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 10:17:45 pm",
-        "history": [
-          {
-            "date": "3 Sept",
-            "premium": 33
-          },
-          {
-            "date": "4 Sept",
-            "premium": 44
-          },
-          {
-            "date": "5 Sept",
-            "premium": 47
-          },
-          {
-            "date": "6 Sept",
-            "premium": 56
-          },
-          {
-            "date": "7 Sept",
-            "premium": 56
-          },
-          {
-            "date": "8 Sept",
-            "premium": 56
-          }
-        ]
-      },
-      "subscription": {
-        "total": 144.65
-      }
-    },
-    {
-      "id": "phychemtechnologies",
-      "name": "Phychem Technologies",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 54,
-      "lotSize": 2000,
-      "issueSizeCr": 14.58,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-08-31",
-      "closeDate": "2026-09-02",
-      "allotmentDate": "2026-09-03",
-      "refundDate": null,
-      "listingDate": "2026-09-07",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 1,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 10:17:45 pm",
-        "history": [
-          {
-            "date": "2 Sept",
-            "premium": 1
-          },
-          {
-            "date": "3 Sept",
-            "premium": 1
-          },
-          {
-            "date": "4 Sept",
-            "premium": 1
-          },
-          {
-            "date": "5 Sept",
-            "premium": 1
-          },
-          {
-            "date": "6 Sept",
-            "premium": 1
-          },
-          {
-            "date": "7 Sept",
-            "premium": 1
-          },
-          {
-            "date": "8 Sept",
-            "premium": 1
-          }
-        ]
-      },
-      "subscription": {
-        "total": 20.79
-      }
-    },
-    {
-      "id": "shantiinorganics",
-      "name": "Shanti Inorganics",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 83,
-      "lotSize": 1600,
-      "issueSizeCr": 47.24,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-08-31",
-      "closeDate": "2026-09-02",
-      "allotmentDate": "2026-09-03",
-      "refundDate": null,
-      "listingDate": "2026-09-07",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 55,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "8/9/2026, 10:17:45 pm",
-        "history": [
-          {
-            "date": "3 Sept",
-            "premium": 20
-          },
-          {
-            "date": "4 Sept",
-            "premium": 43
-          },
-          {
-            "date": "5 Sept",
-            "premium": 47
-          },
-          {
-            "date": "6 Sept",
-            "premium": 54
-          },
-          {
-            "date": "7 Sept",
-            "premium": 55
-          },
-          {
-            "date": "8 Sept",
-            "premium": 55
-          }
-        ]
-      },
-      "subscription": {
-        "total": 142.17
       }
     }
   ]
