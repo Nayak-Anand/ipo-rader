@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T11:54:40.315Z",
+  "updatedAt": "2026-10-25T16:41:36.738Z",
   "ipos": [
     {
       "id": "mksons",
@@ -30,7 +30,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "24 Oct",
@@ -39,57 +39,6 @@
           {
             "date": "25 Oct",
             "premium": 7
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "sfctech",
-      "name": "SFC Environmental Technologies Limited",
-      "symbol": "SFCTECH",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": 313,
-      "priceMax": 330,
-      "lotSize": 45,
-      "issueSizeCr": 675.68,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-27",
-      "closeDate": "2026-10-29",
-      "allotmentDate": "2026-10-30",
-      "refundDate": null,
-      "listingDate": "2026-11-03",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 32,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
-        "history": [
-          {
-            "date": "22 Oct",
-            "premium": 21
-          },
-          {
-            "date": "23 Oct",
-            "premium": 21
-          },
-          {
-            "date": "24 Oct",
-            "premium": 32
-          },
-          {
-            "date": "25 Oct",
-            "premium": 32
           }
         ]
       },
@@ -124,7 +73,7 @@
         "premium": 38,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "22 Oct",
@@ -141,6 +90,57 @@
           {
             "date": "25 Oct",
             "premium": 38
+          }
+        ]
+      },
+      "subscription": null
+    },
+    {
+      "id": "sfctech",
+      "name": "SFC Environmental Technologies Limited",
+      "symbol": "SFCTECH",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": 313,
+      "priceMax": 330,
+      "lotSize": 45,
+      "issueSizeCr": 675.68,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-27",
+      "closeDate": "2026-10-29",
+      "allotmentDate": "2026-10-30",
+      "refundDate": null,
+      "listingDate": "2026-11-03",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 32,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "25/10/2026, 10:11:36 pm",
+        "history": [
+          {
+            "date": "22 Oct",
+            "premium": 21
+          },
+          {
+            "date": "23 Oct",
+            "premium": 21
+          },
+          {
+            "date": "24 Oct",
+            "premium": 32
+          },
+          {
+            "date": "25 Oct",
+            "premium": 32
           }
         ]
       },
@@ -172,10 +172,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 36,
+        "premium": 33,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "23 Oct",
@@ -187,7 +187,7 @@
           },
           {
             "date": "25 Oct",
-            "premium": 36
+            "premium": 33
           }
         ]
       },
@@ -250,7 +250,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "23 Oct",
@@ -408,14 +408,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 250,
+        "premium": 246,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "25 Oct",
-            "premium": 250
+            "premium": 246
           }
         ]
       },
@@ -449,14 +449,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 12,
+        "premium": 9,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "25 Oct",
-            "premium": 12
+            "premium": 9
           }
         ]
       },
@@ -493,7 +493,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -550,7 +550,7 @@
         "premium": 1.2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "11 Oct",
@@ -647,7 +647,7 @@
         "premium": 452,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -704,7 +704,7 @@
         "premium": 66,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -761,7 +761,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "18 Oct",
@@ -830,7 +830,7 @@
         "premium": 13.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "9 Oct",
@@ -935,7 +935,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "18 Oct",
@@ -1004,7 +1004,7 @@
         "premium": 70,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "16 Oct",
@@ -1081,7 +1081,7 @@
         "premium": 3,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "17 Oct",
@@ -1154,7 +1154,7 @@
         "premium": 1.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "8 Oct",
@@ -1374,7 +1374,7 @@
         "premium": 43,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -1527,7 +1527,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "24 Sept",
@@ -1640,7 +1640,7 @@
         "premium": 10,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "8 Oct",
@@ -1779,7 +1779,7 @@
         "premium": 50,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/10/2026, 5:24:40 pm",
+        "updatedAt": "25/10/2026, 10:11:36 pm",
         "history": [
           {
             "date": "26 Sept",
