@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T05:09:27.295Z",
+  "updatedAt": "2026-10-26T13:26:48.391Z",
   "ipos": [
     {
       "id": "edelalts",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 36,
+        "premium": 30,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "23 Oct",
@@ -46,13 +46,52 @@
           },
           {
             "date": "26 Oct",
-            "premium": 36
+            "premium": 30
           }
         ]
       },
       "subscription": {
-        "total": 0.01
+        "total": 0.1
       }
+    },
+    {
+      "id": "bcssl",
+      "name": "Bombay Coated and Special Steels Limited",
+      "symbol": "BCSSL",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": 78,
+      "priceMax": 82,
+      "lotSize": 182,
+      "issueSizeCr": 192.44,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-29",
+      "closeDate": "2026-11-02",
+      "allotmentDate": "2026-11-03",
+      "refundDate": null,
+      "listingDate": "2026-11-05",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 9,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "26/10/2026, 6:56:48 pm",
+        "history": [
+          {
+            "date": "26 Oct",
+            "premium": 9
+          }
+        ]
+      },
+      "subscription": null
     },
     {
       "id": "mksons",
@@ -80,10 +119,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 7,
+        "premium": 8.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "24 Oct",
@@ -95,62 +134,7 @@
           },
           {
             "date": "26 Oct",
-            "premium": 7
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "blspoly",
-      "name": "BLS Polymers Limited",
-      "symbol": "BLSPOLY",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": 142,
-      "priceMax": 150,
-      "lotSize": 100,
-      "issueSizeCr": 255,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-27",
-      "closeDate": "2026-10-29",
-      "allotmentDate": "2026-10-30",
-      "refundDate": null,
-      "listingDate": "2026-11-03",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 38,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
-        "history": [
-          {
-            "date": "22 Oct",
-            "premium": 38
-          },
-          {
-            "date": "23 Oct",
-            "premium": 38
-          },
-          {
-            "date": "24 Oct",
-            "premium": 40
-          },
-          {
-            "date": "25 Oct",
-            "premium": 38
-          },
-          {
-            "date": "26 Oct",
-            "premium": 38
+            "premium": 8.5
           }
         ]
       },
@@ -182,10 +166,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 32,
+        "premium": 27,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "22 Oct",
@@ -205,7 +189,62 @@
           },
           {
             "date": "26 Oct",
-            "premium": 32
+            "premium": 27
+          }
+        ]
+      },
+      "subscription": null
+    },
+    {
+      "id": "blspoly",
+      "name": "BLS Polymers Limited",
+      "symbol": "BLSPOLY",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": 142,
+      "priceMax": 150,
+      "lotSize": 100,
+      "issueSizeCr": 178.5,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-27",
+      "closeDate": "2026-10-29",
+      "allotmentDate": "2026-10-30",
+      "refundDate": null,
+      "listingDate": "2026-11-03",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 42,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "26/10/2026, 6:56:48 pm",
+        "history": [
+          {
+            "date": "22 Oct",
+            "premium": 38
+          },
+          {
+            "date": "23 Oct",
+            "premium": 38
+          },
+          {
+            "date": "24 Oct",
+            "premium": 40
+          },
+          {
+            "date": "25 Oct",
+            "premium": 38
+          },
+          {
+            "date": "26 Oct",
+            "premium": 42
           }
         ]
       },
@@ -237,57 +276,6 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": null,
-      "subscription": null
-    },
-    {
-      "id": "bombaycoatedandspecialsteels",
-      "name": "Bombay Coated and Special Steels",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 82,
-      "lotSize": 182,
-      "issueSizeCr": 183.06,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-29",
-      "closeDate": "2026-11-02",
-      "allotmentDate": "2026-11-03",
-      "refundDate": null,
-      "listingDate": "2026-11-05",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 8,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
-        "history": [
-          {
-            "date": "23 Oct",
-            "premium": 8
-          },
-          {
-            "date": "24 Oct",
-            "premium": 8
-          },
-          {
-            "date": "25 Oct",
-            "premium": 8
-          },
-          {
-            "date": "26 Oct",
-            "premium": 8
-          }
-        ]
-      },
       "subscription": null
     },
     {
@@ -401,7 +389,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 0.12
+        "total": 0.71
       }
     },
     {
@@ -430,10 +418,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 247,
+        "premium": 248,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -441,7 +429,7 @@
           },
           {
             "date": "26 Oct",
-            "premium": 247
+            "premium": 248
           }
         ]
       },
@@ -475,10 +463,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 9,
+        "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -486,7 +474,7 @@
           },
           {
             "date": "26 Oct",
-            "premium": 9
+            "premium": 11
           }
         ]
       },
@@ -523,7 +511,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -584,7 +572,7 @@
         "premium": 1.2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "11 Oct",
@@ -685,7 +673,7 @@
         "premium": 452,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -746,7 +734,7 @@
         "premium": 66,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -807,7 +795,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "18 Oct",
@@ -880,7 +868,7 @@
         "premium": 13.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "9 Oct",
@@ -989,7 +977,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "18 Oct",
@@ -1062,7 +1050,7 @@
         "premium": 70,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "16 Oct",
@@ -1143,7 +1131,7 @@
         "premium": 3,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "17 Oct",
@@ -1220,7 +1208,7 @@
         "premium": 1.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "8 Oct",
@@ -1444,7 +1432,7 @@
         "premium": 43,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "27 Sept",
@@ -1601,7 +1589,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "24 Sept",
@@ -1718,7 +1706,7 @@
         "premium": 10,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "8 Oct",
@@ -1861,7 +1849,7 @@
         "premium": 50,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/10/2026, 10:39:27 am",
+        "updatedAt": "26/10/2026, 6:56:48 pm",
         "history": [
           {
             "date": "26 Sept",
