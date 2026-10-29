@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T06:14:54.260Z",
+  "updatedAt": "2026-10-29T13:32:04.707Z",
   "ipos": [
     {
       "id": "bcssl",
@@ -51,7 +51,7 @@
         ]
       },
       "subscription": {
-        "total": 0.12
+        "total": 0.45
       }
     },
     {
@@ -112,7 +112,7 @@
         ]
       },
       "subscription": {
-        "total": 0.5
+        "total": 0.7
       }
     },
     {
@@ -181,7 +181,7 @@
         ]
       },
       "subscription": {
-        "total": 0.24
+        "total": 4.26
       }
     },
     {
@@ -250,7 +250,7 @@
         ]
       },
       "subscription": {
-        "total": 50.25
+        "total": 155.48
       }
     },
     {
@@ -319,6 +319,34 @@
       }
     },
     {
+      "id": "vpfl",
+      "name": "Vedant Poly Fabs Limited",
+      "symbol": "VPFL",
+      "board": "SME",
+      "status": "UPCOMING",
+      "priceMin": 88,
+      "priceMax": 94,
+      "lotSize": 1200,
+      "issueSizeCr": 56.68,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-11-02",
+      "closeDate": "2026-11-04",
+      "allotmentDate": null,
+      "refundDate": null,
+      "listingDate": null,
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
       "id": "hgsindialt",
       "name": "HGS (India) Limited",
       "symbol": "HGSINDIALT",
@@ -327,7 +355,7 @@
       "priceMin": 114,
       "priceMax": 120,
       "lotSize": 1200,
-      "issueSizeCr": 34.56,
+      "issueSizeCr": 24.8,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-10-30",
@@ -355,7 +383,7 @@
       "priceMin": 150,
       "priceMax": 158,
       "lotSize": 800,
-      "issueSizeCr": 57.64,
+      "issueSizeCr": 41.46,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-10-30",
@@ -390,39 +418,11 @@
       "subscription": null
     },
     {
-      "id": "vedantpolyfabs",
-      "name": "Vedant Poly Fabs",
-      "symbol": "",
-      "board": "SME",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 94,
-      "lotSize": 1200,
-      "issueSizeCr": 56.68,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-11-02",
-      "closeDate": "2026-11-04",
-      "allotmentDate": "2026-11-05",
-      "refundDate": null,
-      "listingDate": "2026-11-09",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
       "id": "johnsoncabelectricals",
       "name": "Johnsoncab Electricals",
       "symbol": "",
       "board": "SME",
-      "status": "UPCOMING",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 200,
       "lotSize": 600,
@@ -465,7 +465,7 @@
       "name": "Vectras Enprocon",
       "symbol": "",
       "board": "SME",
-      "status": "UPCOMING",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 105,
       "lotSize": 1200,
@@ -493,7 +493,7 @@
       "name": "Antala Industries",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 67,
       "lotSize": 2000,
@@ -523,7 +523,7 @@
       "name": "Ajwa Projects",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 203,
       "lotSize": 600,
@@ -572,7 +572,7 @@
       "name": "Carver Roboweld",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 80,
       "lotSize": 1600,
@@ -602,7 +602,7 @@
       "name": "Wiscon Industries",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 204,
       "lotSize": 600,
@@ -632,7 +632,7 @@
       "name": "Core4 Engineers",
       "symbol": "",
       "board": "SME",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 93,
       "lotSize": 1200,
