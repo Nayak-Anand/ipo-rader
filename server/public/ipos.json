@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T12:56:51.833Z",
+  "updatedAt": "2026-10-31T18:41:03.622Z",
   "ipos": [
     {
       "id": "bcssl",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 10,
+        "premium": 8.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "26 Oct",
@@ -55,80 +55,15 @@
           {
             "date": "31 Oct",
             "premium": 10
+          },
+          {
+            "date": "1 Nov",
+            "premium": 8.5
           }
         ]
       },
       "subscription": {
         "total": 1.12
-      }
-    },
-    {
-      "id": "mksons",
-      "name": "M. K. Sons Fine Jewels Limited",
-      "symbol": "MKSONS",
-      "board": "MAINBOARD",
-      "status": "OPEN",
-      "priceMin": 153,
-      "priceMax": 162,
-      "lotSize": 91,
-      "issueSizeCr": 192.78,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-28",
-      "closeDate": "2026-10-30",
-      "allotmentDate": "2026-11-02",
-      "refundDate": null,
-      "listingDate": "2026-11-04",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 5.5,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
-        "history": [
-          {
-            "date": "24 Oct",
-            "premium": 7
-          },
-          {
-            "date": "25 Oct",
-            "premium": 7
-          },
-          {
-            "date": "26 Oct",
-            "premium": 8.5
-          },
-          {
-            "date": "27 Oct",
-            "premium": 7.5
-          },
-          {
-            "date": "28 Oct",
-            "premium": 13
-          },
-          {
-            "date": "29 Oct",
-            "premium": 14
-          },
-          {
-            "date": "30 Oct",
-            "premium": 6.3
-          },
-          {
-            "date": "31 Oct",
-            "premium": 5.5
-          }
-        ]
-      },
-      "subscription": {
-        "total": 2.9
       }
     },
     {
@@ -160,7 +95,7 @@
         "premium": 70,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "28 Oct",
@@ -176,6 +111,10 @@
           },
           {
             "date": "31 Oct",
+            "premium": 70
+          },
+          {
+            "date": "1 Nov",
             "premium": 70
           }
         ]
@@ -213,7 +152,7 @@
         "premium": 30,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "30 Oct",
@@ -221,6 +160,10 @@
           },
           {
             "date": "31 Oct",
+            "premium": 30
+          },
+          {
+            "date": "1 Nov",
             "premium": 30
           }
         ]
@@ -258,10 +201,14 @@
         "premium": 5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "31 Oct",
+            "premium": 5
+          },
+          {
+            "date": "1 Nov",
             "premium": 5
           }
         ]
@@ -297,7 +244,7 @@
         "premium": 5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "28 Oct",
@@ -313,6 +260,10 @@
           },
           {
             "date": "31 Oct",
+            "premium": 5
+          },
+          {
+            "date": "1 Nov",
             "premium": 5
           }
         ]
@@ -382,6 +333,47 @@
       }
     },
     {
+      "id": "mksonsfinejewels",
+      "name": "M.K.Sons Fine Jewels",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "CLOSED",
+      "priceMin": null,
+      "priceMax": 162,
+      "lotSize": 91,
+      "issueSizeCr": 275.4,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-28",
+      "closeDate": "2026-10-30",
+      "allotmentDate": "2026-11-02",
+      "refundDate": null,
+      "listingDate": "2026-11-04",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 5.5,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "1/11/2026, 12:11:03 am",
+        "history": [
+          {
+            "date": "1 Nov",
+            "premium": 5.5
+          }
+        ]
+      },
+      "subscription": {
+        "total": 5.09
+      }
+    },
+    {
       "id": "ajwaprojects",
       "name": "Ajwa Projects",
       "symbol": "",
@@ -410,7 +402,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "27 Oct",
@@ -430,6 +422,10 @@
           },
           {
             "date": "31 Oct",
+            "premium": 1
+          },
+          {
+            "date": "1 Nov",
             "premium": 1
           }
         ]
@@ -467,7 +463,7 @@
         "premium": 5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "30 Oct",
@@ -475,6 +471,10 @@
           },
           {
             "date": "31 Oct",
+            "premium": 5
+          },
+          {
+            "date": "1 Nov",
             "premium": 5
           }
         ]
@@ -539,14 +539,18 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 24.5,
+        "premium": 23.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "31 Oct",
             "premium": 24.5
+          },
+          {
+            "date": "1 Nov",
+            "premium": 23.5
           }
         ]
       },
@@ -583,10 +587,14 @@
         "premium": 68,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "31 Oct",
+            "premium": 68
+          },
+          {
+            "date": "1 Nov",
             "premium": 68
           }
         ]
@@ -621,10 +629,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 52,
+        "premium": 56,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "30 Oct",
@@ -633,6 +641,10 @@
           {
             "date": "31 Oct",
             "premium": 52
+          },
+          {
+            "date": "1 Nov",
+            "premium": 56
           }
         ]
       },
@@ -699,7 +711,7 @@
         "premium": 13,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "25 Oct",
@@ -727,6 +739,10 @@
           },
           {
             "date": "31 Oct",
+            "premium": 13
+          },
+          {
+            "date": "1 Nov",
             "premium": 13
           }
         ]
@@ -764,7 +780,7 @@
         "premium": 250,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "25 Oct",
@@ -792,6 +808,10 @@
           },
           {
             "date": "31 Oct",
+            "premium": 250
+          },
+          {
+            "date": "1 Nov",
             "premium": 250
           }
         ]
@@ -829,7 +849,7 @@
         "premium": 1.2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "11 Oct",
@@ -914,6 +934,10 @@
           {
             "date": "31 Oct",
             "premium": 1.2
+          },
+          {
+            "date": "1 Nov",
+            "premium": 1.2
           }
         ]
       },
@@ -950,7 +974,7 @@
         "premium": 452,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "21 Oct",
@@ -995,6 +1019,10 @@
           {
             "date": "31 Oct",
             "premium": 452
+          },
+          {
+            "date": "1 Nov",
+            "premium": 452
           }
         ]
       },
@@ -1031,7 +1059,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "21 Oct",
@@ -1076,6 +1104,10 @@
           {
             "date": "31 Oct",
             "premium": 17
+          },
+          {
+            "date": "1 Nov",
+            "premium": 17
           }
         ]
       },
@@ -1112,7 +1144,7 @@
         "premium": 66,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "21 Oct",
@@ -1157,6 +1189,10 @@
           {
             "date": "31 Oct",
             "premium": 66
+          },
+          {
+            "date": "1 Nov",
+            "premium": 66
           }
         ]
       },
@@ -1193,7 +1229,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "18 Oct",
@@ -1250,6 +1286,10 @@
           {
             "date": "31 Oct",
             "premium": 7
+          },
+          {
+            "date": "1 Nov",
+            "premium": 7
           }
         ]
       },
@@ -1286,7 +1326,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "18 Oct",
@@ -1343,6 +1383,10 @@
           {
             "date": "31 Oct",
             "premium": 1
+          },
+          {
+            "date": "1 Nov",
+            "premium": 1
           }
         ]
       },
@@ -1379,7 +1423,7 @@
         "premium": 13.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "9 Oct",
@@ -1472,6 +1516,10 @@
           {
             "date": "31 Oct",
             "premium": 13.5
+          },
+          {
+            "date": "1 Nov",
+            "premium": 13.5
           }
         ]
       },
@@ -1508,7 +1556,7 @@
         "premium": 70,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "16 Oct",
@@ -1573,6 +1621,10 @@
           {
             "date": "31 Oct",
             "premium": 70
+          },
+          {
+            "date": "1 Nov",
+            "premium": 70
           }
         ]
       },
@@ -1609,7 +1661,7 @@
         "premium": 3,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "17 Oct",
@@ -1670,6 +1722,10 @@
           {
             "date": "31 Oct",
             "premium": 3
+          },
+          {
+            "date": "1 Nov",
+            "premium": 3
           }
         ]
       },
@@ -1706,7 +1762,7 @@
         "premium": 1.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "8 Oct",
@@ -1803,6 +1859,10 @@
           {
             "date": "31 Oct",
             "premium": 1.5
+          },
+          {
+            "date": "1 Nov",
+            "premium": 1.5
           }
         ]
       },
@@ -1869,7 +1929,7 @@
         "premium": 43,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "31/10/2026, 6:26:51 pm",
+        "updatedAt": "1/11/2026, 12:11:03 am",
         "history": [
           {
             "date": "27 Sept",
@@ -2009,6 +2069,10 @@
           },
           {
             "date": "31 Oct",
+            "premium": 43
+          },
+          {
+            "date": "1 Nov",
             "premium": 43
           }
         ]
