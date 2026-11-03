@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T07:07:34.713Z",
+  "updatedAt": "2026-11-03T16:26:17.006Z",
   "ipos": [
     {
       "id": "bcssl",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 9,
+        "premium": 8.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "26 Oct",
@@ -66,7 +66,7 @@
           },
           {
             "date": "3 Nov",
-            "premium": 9
+            "premium": 8.5
           }
         ]
       },
@@ -100,10 +100,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 15,
+        "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -119,69 +119,12 @@
           },
           {
             "date": "3 Nov",
-            "premium": 15
+            "premium": 11
           }
         ]
       },
       "subscription": {
-        "total": 0.59
-      }
-    },
-    {
-      "id": "hgsindialt",
-      "name": "HGS (India) Limited",
-      "symbol": "HGSINDIALT",
-      "board": "SME",
-      "status": "OPEN",
-      "priceMin": 114,
-      "priceMax": 120,
-      "lotSize": 1200,
-      "issueSizeCr": 34.56,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-30",
-      "closeDate": "2026-11-03",
-      "allotmentDate": "2026-11-04",
-      "refundDate": null,
-      "listingDate": "2026-11-06",
-      "registrar": null,
-      "exchange": "BSE, NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 20,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
-        "history": [
-          {
-            "date": "30 Oct",
-            "premium": 19
-          },
-          {
-            "date": "31 Oct",
-            "premium": 30
-          },
-          {
-            "date": "1 Nov",
-            "premium": 30
-          },
-          {
-            "date": "2 Nov",
-            "premium": 30
-          },
-          {
-            "date": "3 Nov",
-            "premium": 20
-          }
-        ]
-      },
-      "subscription": {
-        "total": 80.55
+        "total": 0.87
       }
     },
     {
@@ -213,7 +156,7 @@
         "premium": 80,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "28 Oct",
@@ -246,7 +189,64 @@
         ]
       },
       "subscription": {
-        "total": 210.5
+        "total": 491.39
+      }
+    },
+    {
+      "id": "hgsindialt",
+      "name": "HGS (India) Limited",
+      "symbol": "HGSINDIALT",
+      "board": "SME",
+      "status": "OPEN",
+      "priceMin": 114,
+      "priceMax": 120,
+      "lotSize": 1200,
+      "issueSizeCr": 34.56,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-30",
+      "closeDate": "2026-11-03",
+      "allotmentDate": "2026-11-04",
+      "refundDate": null,
+      "listingDate": "2026-11-06",
+      "registrar": null,
+      "exchange": "BSE, NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 25,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "3/11/2026, 9:56:17 pm",
+        "history": [
+          {
+            "date": "30 Oct",
+            "premium": 19
+          },
+          {
+            "date": "31 Oct",
+            "premium": 30
+          },
+          {
+            "date": "1 Nov",
+            "premium": 30
+          },
+          {
+            "date": "2 Nov",
+            "premium": 30
+          },
+          {
+            "date": "3 Nov",
+            "premium": 25
+          }
+        ]
+      },
+      "subscription": {
+        "total": 231.18
       }
     },
     {
@@ -276,7 +276,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 1.13
+        "total": 1.33
       }
     },
     {
@@ -308,7 +308,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "28 Oct",
@@ -341,7 +341,7 @@
         ]
       },
       "subscription": {
-        "total": 3.3
+        "total": 23.82
       }
     },
     {
@@ -371,7 +371,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 1.69
+        "total": 4.2
       }
     },
     {
@@ -400,10 +400,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 9.25,
+        "premium": 10.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "1 Nov",
@@ -415,7 +415,7 @@
           },
           {
             "date": "3 Nov",
-            "premium": 9.25
+            "premium": 10.5
           }
         ]
       },
@@ -452,7 +452,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "27 Oct",
@@ -518,10 +518,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 3,
+        "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -541,7 +541,7 @@
           },
           {
             "date": "3 Nov",
-            "premium": 3
+            "premium": 4
           }
         ]
       },
@@ -608,7 +608,7 @@
         "premium": 15.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -661,7 +661,7 @@
         "premium": 69,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -714,7 +714,7 @@
         "premium": 54,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -801,7 +801,7 @@
         "premium": 13,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -878,7 +878,7 @@
         "premium": 250,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -955,7 +955,7 @@
         "premium": 1.2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "11 Oct",
@@ -1088,7 +1088,7 @@
         "premium": 452,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -1181,7 +1181,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -1274,7 +1274,7 @@
         "premium": 66,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -1367,7 +1367,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "18 Oct",
@@ -1472,7 +1472,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "18 Oct",
@@ -1577,7 +1577,7 @@
         "premium": 13.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "9 Oct",
@@ -1718,7 +1718,7 @@
         "premium": 70,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "16 Oct",
@@ -1831,7 +1831,7 @@
         "premium": 3,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "17 Oct",
@@ -1940,7 +1940,7 @@
         "premium": 1.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "8 Oct",
@@ -2115,7 +2115,7 @@
         "premium": 43,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "3/11/2026, 12:37:34 pm",
+        "updatedAt": "3/11/2026, 9:56:17 pm",
         "history": [
           {
             "date": "27 Sept",
