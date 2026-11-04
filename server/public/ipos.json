@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T06:52:53.352Z",
+  "updatedAt": "2026-11-04T16:29:34.345Z",
   "ipos": [
     {
       "id": "vpfl",
@@ -30,7 +30,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -55,7 +55,7 @@
         ]
       },
       "subscription": {
-        "total": 1.46
+        "total": 1.85
       }
     },
     {
@@ -85,7 +85,7 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 2.05
+        "total": 4.82
       }
     },
     {
@@ -117,7 +117,7 @@
         "premium": 23,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -155,10 +155,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 6,
+        "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "28 Oct",
@@ -190,7 +190,7 @@
           },
           {
             "date": "4 Nov",
-            "premium": 6
+            "premium": 8
           }
         ]
       },
@@ -254,14 +254,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 75,
+        "premium": 100,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "4 Nov",
-            "premium": 75
+            "premium": 100
           }
         ]
       },
@@ -295,14 +295,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 8.5,
+        "premium": 7.25,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "4 Nov",
-            "premium": 8.5
+            "premium": 7.25
           }
         ]
       },
@@ -339,7 +339,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "1 Nov",
@@ -392,7 +392,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "27 Oct",
@@ -465,7 +465,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -556,7 +556,7 @@
         "premium": 15.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -613,7 +613,7 @@
         "premium": 69,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -670,7 +670,7 @@
         "premium": 54,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -761,7 +761,7 @@
         "premium": 13,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -842,7 +842,7 @@
         "premium": 250,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -923,7 +923,7 @@
         "premium": 1.2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "11 Oct",
@@ -1060,7 +1060,7 @@
         "premium": 452,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -1157,7 +1157,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -1254,7 +1254,7 @@
         "premium": 66,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -1351,7 +1351,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "18 Oct",
@@ -1460,7 +1460,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "18 Oct",
@@ -1569,7 +1569,7 @@
         "premium": 13.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "9 Oct",
@@ -1714,7 +1714,7 @@
         "premium": 70,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "updatedAt": "4/11/2026, 9:59:34 pm",
         "history": [
           {
             "date": "16 Oct",
