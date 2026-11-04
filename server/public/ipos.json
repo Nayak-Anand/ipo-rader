@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T21:54:03.502Z",
+  "updatedAt": "2026-11-04T06:52:53.352Z",
   "ipos": [
     {
       "id": "vpfl",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 11,
+        "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -50,73 +50,12 @@
           },
           {
             "date": "4 Nov",
-            "premium": 11
+            "premium": 1
           }
         ]
       },
       "subscription": {
-        "total": 0.87
-      }
-    },
-    {
-      "id": "hgsindialt",
-      "name": "HGS (India) Limited",
-      "symbol": "HGSINDIALT",
-      "board": "SME",
-      "status": "OPEN",
-      "priceMin": 114,
-      "priceMax": 120,
-      "lotSize": 1200,
-      "issueSizeCr": 34.56,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-30",
-      "closeDate": "2026-11-03",
-      "allotmentDate": "2026-11-04",
-      "refundDate": null,
-      "listingDate": "2026-11-06",
-      "registrar": null,
-      "exchange": "BSE, NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 25,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
-        "history": [
-          {
-            "date": "30 Oct",
-            "premium": 19
-          },
-          {
-            "date": "31 Oct",
-            "premium": 30
-          },
-          {
-            "date": "1 Nov",
-            "premium": 30
-          },
-          {
-            "date": "2 Nov",
-            "premium": 30
-          },
-          {
-            "date": "3 Nov",
-            "premium": 25
-          },
-          {
-            "date": "4 Nov",
-            "premium": 25
-          }
-        ]
-      },
-      "subscription": {
-        "total": 231.18
+        "total": 1.46
       }
     },
     {
@@ -146,7 +85,48 @@
       "listingPrice": null,
       "gmp": null,
       "subscription": {
-        "total": 1.33
+        "total": 2.05
+      }
+    },
+    {
+      "id": "hgs",
+      "name": "HGS (India)",
+      "symbol": "",
+      "board": "SME",
+      "status": "CLOSED",
+      "priceMin": null,
+      "priceMax": 120,
+      "lotSize": 1200,
+      "issueSizeCr": 34.56,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-30",
+      "closeDate": "2026-11-03",
+      "allotmentDate": "2026-11-04",
+      "refundDate": null,
+      "listingDate": "2026-11-06",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 23,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "4/11/2026, 12:22:53 pm",
+        "history": [
+          {
+            "date": "4 Nov",
+            "premium": 23
+          }
+        ]
+      },
+      "subscription": {
+        "total": 248.58
       }
     },
     {
@@ -154,7 +134,7 @@
       "name": "Johnsoncab Electricals",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 200,
       "lotSize": 600,
@@ -175,10 +155,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 8,
+        "premium": 6,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "28 Oct",
@@ -210,7 +190,7 @@
           },
           {
             "date": "4 Nov",
-            "premium": 8
+            "premium": 6
           }
         ]
       },
@@ -223,7 +203,7 @@
       "name": "Vectras Enprocon",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 105,
       "lotSize": 1200,
@@ -253,7 +233,7 @@
       "name": "Maxwell Engineering Solutions",
       "symbol": "",
       "board": "SME",
-      "status": "OPEN",
+      "status": "CLOSED",
       "priceMin": null,
       "priceMax": 158,
       "lotSize": 800,
@@ -274,14 +254,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 80,
+        "premium": 75,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "4 Nov",
-            "premium": 80
+            "premium": 75
           }
         ]
       },
@@ -315,14 +295,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 7,
+        "premium": 8.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "4 Nov",
-            "premium": 7
+            "premium": 8.5
           }
         ]
       },
@@ -335,7 +315,7 @@
       "name": "M.K.Sons Fine Jewels",
       "symbol": "",
       "board": "MAINBOARD",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 162,
       "lotSize": 91,
@@ -356,10 +336,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 10,
+        "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "1 Nov",
@@ -375,7 +355,7 @@
           },
           {
             "date": "4 Nov",
-            "premium": 10
+            "premium": 11
           }
         ]
       },
@@ -388,7 +368,7 @@
       "name": "Ajwa Projects",
       "symbol": "",
       "board": "SME",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 203,
       "lotSize": 600,
@@ -412,7 +392,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "27 Oct",
@@ -461,7 +441,7 @@
       "name": "Carver Roboweld",
       "symbol": "",
       "board": "SME",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 80,
       "lotSize": 1600,
@@ -485,7 +465,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -576,7 +556,7 @@
         "premium": 15.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -633,7 +613,7 @@
         "premium": 69,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -690,7 +670,7 @@
         "premium": 54,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -781,7 +761,7 @@
         "premium": 13,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -862,7 +842,7 @@
         "premium": 250,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -943,7 +923,7 @@
         "premium": 1.2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "11 Oct",
@@ -1080,7 +1060,7 @@
         "premium": 452,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -1177,7 +1157,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -1274,7 +1254,7 @@
         "premium": 66,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -1371,7 +1351,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "18 Oct",
@@ -1480,7 +1460,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "18 Oct",
@@ -1589,7 +1569,7 @@
         "premium": 13.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "9 Oct",
@@ -1734,7 +1714,7 @@
         "premium": 70,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
+        "updatedAt": "4/11/2026, 12:22:53 pm",
         "history": [
           {
             "date": "16 Oct",
