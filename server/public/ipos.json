@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T06:58:49.986Z",
+  "updatedAt": "2026-11-15T15:47:26.727Z",
   "ipos": [
     {
       "id": "mahanadicoalfields",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 9,
+        "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "14 Nov",
@@ -38,7 +38,7 @@
           },
           {
             "date": "15 Nov",
-            "premium": 9
+            "premium": 7
           }
         ]
       },
@@ -73,7 +73,7 @@
         "premium": 22,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "13 Nov",
@@ -117,10 +117,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 23,
+        "premium": 15,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "13 Nov",
@@ -132,7 +132,7 @@
           },
           {
             "date": "15 Nov",
-            "premium": 23
+            "premium": 15
           }
         ]
       },
@@ -197,7 +197,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "5 Nov",
@@ -278,7 +278,7 @@
         "premium": 105,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -363,7 +363,7 @@
         "premium": 27,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -448,7 +448,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "28 Oct",
@@ -591,7 +591,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -676,7 +676,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "27 Oct",
@@ -793,7 +793,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "1 Nov",
@@ -890,7 +890,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -1025,7 +1025,7 @@
         "premium": 15.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -1126,7 +1126,7 @@
         "premium": 69,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -1227,7 +1227,7 @@
         "premium": 54,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -1362,7 +1362,7 @@
         "premium": 13,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -1487,7 +1487,7 @@
         "premium": 250,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -1612,7 +1612,7 @@
         "premium": 66,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -1753,7 +1753,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -1894,7 +1894,7 @@
         "premium": 1.2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "11 Oct",
@@ -2075,7 +2075,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "18 Oct",
@@ -2228,7 +2228,7 @@
         "premium": 452,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "15/11/2026, 12:28:49 pm",
+        "updatedAt": "15/11/2026, 9:17:26 pm",
         "history": [
           {
             "date": "21 Oct",
