@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T07:50:35.108Z",
+  "updatedAt": "2026-11-18T17:27:26.416Z",
   "ipos": [
     {
       "id": "crystalcp",
@@ -30,7 +30,7 @@
         "premium": 18,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "17 Nov",
@@ -43,19 +43,19 @@
         ]
       },
       "subscription": {
-        "total": 0.32
+        "total": 0.73
       }
     },
     {
-      "id": "watrana",
-      "name": "Watrana Rentals Limited",
-      "symbol": "WATRANA",
-      "board": "SME",
+      "id": "mahacoal",
+      "name": "Mahanadi Coalfields Limited",
+      "symbol": "MAHACOAL",
+      "board": "MAINBOARD",
       "status": "UPCOMING",
-      "priceMin": 232,
-      "priceMax": 245,
-      "lotSize": 600,
-      "issueSizeCr": 120.1,
+      "priceMin": 129,
+      "priceMax": 136,
+      "lotSize": 110,
+      "issueSizeCr": 6705.73,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-11-19",
@@ -72,33 +72,29 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 37,
+        "premium": 3.1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
-            "date": "17 Nov",
-            "premium": 25
-          },
-          {
             "date": "18 Nov",
-            "premium": 37
+            "premium": 3.1
           }
         ]
       },
       "subscription": null
     },
     {
-      "id": "mahanadicoalfields",
-      "name": "Mahanadi Coalfields",
-      "symbol": "",
-      "board": "MAINBOARD",
+      "id": "watrana",
+      "name": "Watrana Rentals Limited",
+      "symbol": "WATRANA",
+      "board": "SME",
       "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 136,
-      "lotSize": 110,
-      "issueSizeCr": 8981.12,
+      "priceMin": 232,
+      "priceMax": 245,
+      "lotSize": 600,
+      "issueSizeCr": 86.14,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-11-19",
@@ -107,7 +103,7 @@
       "refundDate": null,
       "listingDate": "2026-11-27",
       "registrar": null,
-      "exchange": null,
+      "exchange": "NSE",
       "about": null,
       "strengths": [],
       "risks": [],
@@ -115,30 +111,18 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 3,
+        "premium": 60,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
-            "date": "14 Nov",
-            "premium": 10.5
-          },
-          {
-            "date": "15 Nov",
-            "premium": 7
-          },
-          {
-            "date": "16 Nov",
-            "premium": 5.5
-          },
-          {
             "date": "17 Nov",
-            "premium": 3.65
+            "premium": 25
           },
           {
             "date": "18 Nov",
-            "premium": 3
+            "premium": 60
           }
         ]
       },
@@ -203,7 +187,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "5 Nov",
@@ -296,7 +280,7 @@
         "premium": 105,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -393,7 +377,7 @@
         "premium": 27,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -490,7 +474,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "28 Oct",
@@ -645,7 +629,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -742,7 +726,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "27 Oct",
@@ -871,7 +855,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "1 Nov",
@@ -980,7 +964,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -1127,7 +1111,7 @@
         "premium": 15.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -1240,7 +1224,7 @@
         "premium": 69,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -1353,7 +1337,7 @@
         "premium": 54,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -1500,7 +1484,7 @@
         "premium": 13,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -1637,7 +1621,7 @@
         "premium": 250,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -1774,7 +1758,7 @@
         "premium": 66,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -1927,7 +1911,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -2080,7 +2064,7 @@
         "premium": 1.2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "11 Oct",
@@ -2273,7 +2257,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "18 Oct",
@@ -2438,7 +2422,7 @@
         "premium": 452,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "18/11/2026, 1:20:35 pm",
+        "updatedAt": "18/11/2026, 10:57:26 pm",
         "history": [
           {
             "date": "21 Oct",
