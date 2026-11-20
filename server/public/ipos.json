@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T17:33:20.445Z",
+  "updatedAt": "2026-11-20T07:38:22.977Z",
   "ipos": [
     {
       "id": "crystalcp",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 17,
+        "premium": 15,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "17 Nov",
@@ -43,11 +43,15 @@
           {
             "date": "19 Nov",
             "premium": 17
+          },
+          {
+            "date": "20 Nov",
+            "premium": 15
           }
         ]
       },
       "subscription": {
-        "total": 1.63
+        "total": 3.61
       }
     },
     {
@@ -76,10 +80,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 1.8,
+        "premium": 1.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "18 Nov",
@@ -88,11 +92,15 @@
           {
             "date": "19 Nov",
             "premium": 1.8
+          },
+          {
+            "date": "20 Nov",
+            "premium": 1.5
           }
         ]
       },
       "subscription": {
-        "total": 0.06
+        "total": 0.09
       }
     },
     {
@@ -124,7 +132,7 @@
         "premium": 67,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "17 Nov",
@@ -137,12 +145,44 @@
           {
             "date": "19 Nov",
             "premium": 67
+          },
+          {
+            "date": "20 Nov",
+            "premium": 67
           }
         ]
       },
       "subscription": {
-        "total": 3.47
+        "total": 7.21
       }
+    },
+    {
+      "id": "shreesidhi",
+      "name": "Shree Siddhivinayak Greentech Industries Limited",
+      "symbol": "SHREESIDHI",
+      "board": "SME",
+      "status": "UPCOMING",
+      "priceMin": 130,
+      "priceMax": 142,
+      "lotSize": 1000,
+      "issueSizeCr": 93.66,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-11-25",
+      "closeDate": "2026-11-27",
+      "allotmentDate": "2026-11-30",
+      "refundDate": null,
+      "listingDate": "2026-12-02",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": null
     },
     {
       "id": "foodlinkfbholdings",
@@ -173,42 +213,18 @@
         "premium": 12,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "19 Nov",
             "premium": 12
+          },
+          {
+            "date": "20 Nov",
+            "premium": 12
           }
         ]
       },
-      "subscription": null
-    },
-    {
-      "id": "shreesiddhivinayakgreentechindustries",
-      "name": "Shree Siddhivinayak Greentech Industries",
-      "symbol": "",
-      "board": "SME",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 142,
-      "lotSize": 1000,
-      "issueSizeCr": 93.66,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-11-25",
-      "closeDate": "2026-11-27",
-      "allotmentDate": "2026-11-30",
-      "refundDate": null,
-      "listingDate": "2026-12-02",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": null,
       "subscription": null
     },
     {
@@ -270,7 +286,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "5 Nov",
@@ -331,6 +347,10 @@
           {
             "date": "19 Nov",
             "premium": 1
+          },
+          {
+            "date": "20 Nov",
+            "premium": 1
           }
         ]
       },
@@ -367,7 +387,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "28 Oct",
@@ -460,6 +480,10 @@
           {
             "date": "19 Nov",
             "premium": 8
+          },
+          {
+            "date": "20 Nov",
+            "premium": 8
           }
         ]
       },
@@ -526,7 +550,7 @@
         "premium": 27,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -591,6 +615,10 @@
           {
             "date": "19 Nov",
             "premium": 27
+          },
+          {
+            "date": "20 Nov",
+            "premium": 27
           }
         ]
       },
@@ -627,7 +655,7 @@
         "premium": 105,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -692,6 +720,10 @@
           {
             "date": "19 Nov",
             "premium": 105
+          },
+          {
+            "date": "20 Nov",
+            "premium": 105
           }
         ]
       },
@@ -728,7 +760,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -793,6 +825,10 @@
           {
             "date": "19 Nov",
             "premium": 8
+          },
+          {
+            "date": "20 Nov",
+            "premium": 8
           }
         ]
       },
@@ -829,7 +865,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "27 Oct",
@@ -926,6 +962,10 @@
           {
             "date": "19 Nov",
             "premium": 1
+          },
+          {
+            "date": "20 Nov",
+            "premium": 1
           }
         ]
       },
@@ -962,7 +1002,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "1 Nov",
@@ -1039,6 +1079,10 @@
           {
             "date": "19 Nov",
             "premium": 11
+          },
+          {
+            "date": "20 Nov",
+            "premium": 11
           }
         ]
       },
@@ -1075,7 +1119,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -1160,6 +1204,10 @@
           {
             "date": "19 Nov",
             "premium": 4
+          },
+          {
+            "date": "20 Nov",
+            "premium": 4
           }
         ]
       },
@@ -1196,7 +1244,7 @@
         "premium": 15.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -1277,6 +1325,10 @@
           {
             "date": "19 Nov",
             "premium": 15.5
+          },
+          {
+            "date": "20 Nov",
+            "premium": 15.5
           }
         ]
       },
@@ -1343,7 +1395,7 @@
         "premium": 69,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -1424,6 +1476,10 @@
           {
             "date": "19 Nov",
             "premium": 69
+          },
+          {
+            "date": "20 Nov",
+            "premium": 69
           }
         ]
       },
@@ -1460,7 +1516,7 @@
         "premium": 54,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -1545,6 +1601,10 @@
           {
             "date": "19 Nov",
             "premium": 54
+          },
+          {
+            "date": "20 Nov",
+            "premium": 54
           }
         ]
       },
@@ -1611,7 +1671,7 @@
         "premium": 250,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -1716,6 +1776,10 @@
           {
             "date": "19 Nov",
             "premium": 250
+          },
+          {
+            "date": "20 Nov",
+            "premium": 250
           }
         ]
       },
@@ -1752,7 +1816,7 @@
         "premium": 13,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -1857,6 +1921,10 @@
           {
             "date": "19 Nov",
             "premium": 13
+          },
+          {
+            "date": "20 Nov",
+            "premium": 13
           }
         ]
       },
@@ -1893,7 +1961,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -2014,6 +2082,10 @@
           {
             "date": "19 Nov",
             "premium": 17
+          },
+          {
+            "date": "20 Nov",
+            "premium": 17
           }
         ]
       },
@@ -2050,7 +2122,7 @@
         "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "19/11/2026, 11:03:20 pm",
+        "updatedAt": "20/11/2026, 1:08:22 pm",
         "history": [
           {
             "date": "18 Oct",
@@ -2182,6 +2254,10 @@
           },
           {
             "date": "19 Nov",
+            "premium": 7
+          },
+          {
+            "date": "20 Nov",
             "premium": 7
           }
         ]
@@ -4779,631 +4855,6 @@
       "gmp": null,
       "subscription": {
         "total": 1.04
-      }
-    },
-    {
-      "id": "shivchemagro",
-      "name": "Shivchem Agro",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 62,
-      "lotSize": 2000,
-      "issueSizeCr": 14.01,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-28",
-      "closeDate": "2026-09-30",
-      "allotmentDate": "2026-10-01",
-      "refundDate": null,
-      "listingDate": "2026-10-06",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 1.5,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "19/10/2026, 10:36:07 am",
-        "history": [
-          {
-            "date": "27 Sept",
-            "premium": 6
-          },
-          {
-            "date": "28 Sept",
-            "premium": 6
-          },
-          {
-            "date": "29 Sept",
-            "premium": 13
-          },
-          {
-            "date": "30 Sept",
-            "premium": 1
-          },
-          {
-            "date": "1 Oct",
-            "premium": 1
-          },
-          {
-            "date": "2 Oct",
-            "premium": 1
-          },
-          {
-            "date": "3 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "4 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "5 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "6 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "7 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "8 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "9 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "10 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "11 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "12 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "13 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "14 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "15 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "16 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "17 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "18 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "19 Oct",
-            "premium": 1.5
-          }
-        ]
-      },
-      "subscription": {
-        "total": 2.2
-      }
-    },
-    {
-      "id": "pindhospitality",
-      "name": "Pind Hospitality",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 99,
-      "lotSize": 1200,
-      "issueSizeCr": 17.82,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-28",
-      "closeDate": "2026-09-30",
-      "allotmentDate": "2026-10-01",
-      "refundDate": null,
-      "listingDate": "2026-10-06",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 1,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "19/10/2026, 10:36:07 am",
-        "history": [
-          {
-            "date": "29 Sept",
-            "premium": 9
-          },
-          {
-            "date": "30 Sept",
-            "premium": 1
-          },
-          {
-            "date": "1 Oct",
-            "premium": 1
-          },
-          {
-            "date": "2 Oct",
-            "premium": 1
-          },
-          {
-            "date": "3 Oct",
-            "premium": 1
-          },
-          {
-            "date": "4 Oct",
-            "premium": 1
-          },
-          {
-            "date": "5 Oct",
-            "premium": 1
-          },
-          {
-            "date": "6 Oct",
-            "premium": 1
-          },
-          {
-            "date": "7 Oct",
-            "premium": 1
-          },
-          {
-            "date": "8 Oct",
-            "premium": 1
-          },
-          {
-            "date": "9 Oct",
-            "premium": 1
-          },
-          {
-            "date": "10 Oct",
-            "premium": 1
-          },
-          {
-            "date": "11 Oct",
-            "premium": 1
-          },
-          {
-            "date": "12 Oct",
-            "premium": 1
-          },
-          {
-            "date": "13 Oct",
-            "premium": 1
-          },
-          {
-            "date": "14 Oct",
-            "premium": 1
-          },
-          {
-            "date": "15 Oct",
-            "premium": 1
-          },
-          {
-            "date": "16 Oct",
-            "premium": 1
-          },
-          {
-            "date": "17 Oct",
-            "premium": 1
-          },
-          {
-            "date": "18 Oct",
-            "premium": 1
-          },
-          {
-            "date": "19 Oct",
-            "premium": 1
-          }
-        ]
-      },
-      "subscription": {
-        "total": 2.71
-      }
-    },
-    {
-      "id": "srit",
-      "name": "SRIT India",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 130,
-      "lotSize": 115,
-      "issueSizeCr": 218.4,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-28",
-      "closeDate": "2026-09-30",
-      "allotmentDate": "2026-10-01",
-      "refundDate": null,
-      "listingDate": "2026-10-06",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 59,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "19/10/2026, 10:36:07 am",
-        "history": [
-          {
-            "date": "23 Sept",
-            "premium": 12
-          },
-          {
-            "date": "24 Sept",
-            "premium": 21
-          },
-          {
-            "date": "25 Sept",
-            "premium": 32
-          },
-          {
-            "date": "26 Sept",
-            "premium": 32
-          },
-          {
-            "date": "27 Sept",
-            "premium": 33
-          },
-          {
-            "date": "28 Sept",
-            "premium": 34
-          },
-          {
-            "date": "29 Sept",
-            "premium": 24
-          },
-          {
-            "date": "30 Sept",
-            "premium": 41
-          },
-          {
-            "date": "1 Oct",
-            "premium": 50
-          },
-          {
-            "date": "2 Oct",
-            "premium": 53
-          },
-          {
-            "date": "3 Oct",
-            "premium": 52
-          },
-          {
-            "date": "4 Oct",
-            "premium": 50
-          },
-          {
-            "date": "5 Oct",
-            "premium": 59
-          },
-          {
-            "date": "6 Oct",
-            "premium": 59
-          },
-          {
-            "date": "7 Oct",
-            "premium": 59
-          },
-          {
-            "date": "8 Oct",
-            "premium": 59
-          },
-          {
-            "date": "9 Oct",
-            "premium": 59
-          },
-          {
-            "date": "10 Oct",
-            "premium": 59
-          },
-          {
-            "date": "11 Oct",
-            "premium": 59
-          },
-          {
-            "date": "12 Oct",
-            "premium": 59
-          },
-          {
-            "date": "13 Oct",
-            "premium": 59
-          },
-          {
-            "date": "14 Oct",
-            "premium": 59
-          },
-          {
-            "date": "15 Oct",
-            "premium": 59
-          },
-          {
-            "date": "16 Oct",
-            "premium": 59
-          },
-          {
-            "date": "17 Oct",
-            "premium": 59
-          },
-          {
-            "date": "18 Oct",
-            "premium": 59
-          },
-          {
-            "date": "19 Oct",
-            "premium": 59
-          }
-        ]
-      },
-      "subscription": {
-        "total": 125.16
-      }
-    },
-    {
-      "id": "acmeuniversalsafezone9",
-      "name": "Acme Universal Safezone 9",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 71,
-      "lotSize": 1600,
-      "issueSizeCr": 35.93,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-28",
-      "closeDate": "2026-09-30",
-      "allotmentDate": "2026-10-01",
-      "refundDate": null,
-      "listingDate": "2026-10-06",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 16,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "19/10/2026, 10:36:07 am",
-        "history": [
-          {
-            "date": "30 Sept",
-            "premium": 10
-          },
-          {
-            "date": "1 Oct",
-            "premium": 7
-          },
-          {
-            "date": "2 Oct",
-            "premium": 11
-          },
-          {
-            "date": "3 Oct",
-            "premium": 13
-          },
-          {
-            "date": "4 Oct",
-            "premium": 15
-          },
-          {
-            "date": "5 Oct",
-            "premium": 18
-          },
-          {
-            "date": "6 Oct",
-            "premium": 16
-          },
-          {
-            "date": "7 Oct",
-            "premium": 16
-          },
-          {
-            "date": "8 Oct",
-            "premium": 16
-          },
-          {
-            "date": "9 Oct",
-            "premium": 16
-          },
-          {
-            "date": "10 Oct",
-            "premium": 16
-          },
-          {
-            "date": "11 Oct",
-            "premium": 16
-          },
-          {
-            "date": "12 Oct",
-            "premium": 16
-          },
-          {
-            "date": "13 Oct",
-            "premium": 16
-          },
-          {
-            "date": "14 Oct",
-            "premium": 16
-          },
-          {
-            "date": "15 Oct",
-            "premium": 16
-          },
-          {
-            "date": "16 Oct",
-            "premium": 16
-          },
-          {
-            "date": "17 Oct",
-            "premium": 16
-          },
-          {
-            "date": "18 Oct",
-            "premium": 16
-          },
-          {
-            "date": "19 Oct",
-            "premium": 16
-          }
-        ]
-      },
-      "subscription": {
-        "total": 23.41
-      }
-    },
-    {
-      "id": "shahinvestorshome",
-      "name": "Shah Investor's Home",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 167,
-      "lotSize": 85,
-      "issueSizeCr": 90.17,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-28",
-      "closeDate": "2026-09-30",
-      "allotmentDate": "2026-10-01",
-      "refundDate": null,
-      "listingDate": "2026-10-06",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 17,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "19/10/2026, 10:36:07 am",
-        "history": [
-          {
-            "date": "1 Oct",
-            "premium": 13
-          },
-          {
-            "date": "2 Oct",
-            "premium": 15.25
-          },
-          {
-            "date": "3 Oct",
-            "premium": 15.5
-          },
-          {
-            "date": "4 Oct",
-            "premium": 17
-          },
-          {
-            "date": "5 Oct",
-            "premium": 17
-          },
-          {
-            "date": "6 Oct",
-            "premium": 17
-          },
-          {
-            "date": "7 Oct",
-            "premium": 17
-          },
-          {
-            "date": "8 Oct",
-            "premium": 17
-          },
-          {
-            "date": "9 Oct",
-            "premium": 17
-          },
-          {
-            "date": "10 Oct",
-            "premium": 17
-          },
-          {
-            "date": "11 Oct",
-            "premium": 17
-          },
-          {
-            "date": "12 Oct",
-            "premium": 17
-          },
-          {
-            "date": "13 Oct",
-            "premium": 17
-          },
-          {
-            "date": "14 Oct",
-            "premium": 17
-          },
-          {
-            "date": "15 Oct",
-            "premium": 17
-          },
-          {
-            "date": "16 Oct",
-            "premium": 17
-          },
-          {
-            "date": "17 Oct",
-            "premium": 17
-          },
-          {
-            "date": "18 Oct",
-            "premium": 17
-          },
-          {
-            "date": "19 Oct",
-            "premium": 17
-          }
-        ]
-      },
-      "subscription": {
-        "total": 38.12
       }
     }
   ]
