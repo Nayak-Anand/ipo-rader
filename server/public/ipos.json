@@ -1,59 +1,6 @@
 {
-  "updatedAt": "2026-11-20T17:07:44.792Z",
+  "updatedAt": "2026-11-21T07:35:04.259Z",
   "ipos": [
-    {
-      "id": "crystalcp",
-      "name": "Crystal Crop Protection Limited",
-      "symbol": "CRYSTALCP",
-      "board": "MAINBOARD",
-      "status": "OPEN",
-      "priceMin": 259,
-      "priceMax": 272,
-      "lotSize": 55,
-      "issueSizeCr": 331.03,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-11-18",
-      "closeDate": "2026-11-20",
-      "allotmentDate": "2026-11-23",
-      "refundDate": null,
-      "listingDate": "2026-11-26",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 14.5,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
-        "history": [
-          {
-            "date": "17 Nov",
-            "premium": 19
-          },
-          {
-            "date": "18 Nov",
-            "premium": 18
-          },
-          {
-            "date": "19 Nov",
-            "premium": 17
-          },
-          {
-            "date": "20 Nov",
-            "premium": 14.5
-          }
-        ]
-      },
-      "subscription": {
-        "total": 10.06
-      }
-    },
     {
       "id": "mahacoal",
       "name": "Mahanadi Coalfields Limited",
@@ -80,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 0.75,
+        "premium": 0.7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "18 Nov",
@@ -96,6 +43,10 @@
           {
             "date": "20 Nov",
             "premium": 0.75
+          },
+          {
+            "date": "21 Nov",
+            "premium": 0.7
           }
         ]
       },
@@ -132,7 +83,7 @@
         "premium": 67,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "17 Nov",
@@ -148,6 +99,10 @@
           },
           {
             "date": "20 Nov",
+            "premium": 67
+          },
+          {
+            "date": "21 Nov",
             "premium": 67
           }
         ]
@@ -241,7 +196,7 @@
         "premium": 12,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "19 Nov",
@@ -250,10 +205,55 @@
           {
             "date": "20 Nov",
             "premium": 12
+          },
+          {
+            "date": "21 Nov",
+            "premium": 12
           }
         ]
       },
       "subscription": null
+    },
+    {
+      "id": "crystalcropprotection",
+      "name": "Crystal Crop Protection",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "CLOSED",
+      "priceMin": null,
+      "priceMax": 272,
+      "lotSize": 55,
+      "issueSizeCr": 455.49,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-11-18",
+      "closeDate": "2026-11-20",
+      "allotmentDate": "2026-11-23",
+      "refundDate": null,
+      "listingDate": "2026-11-26",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 14,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "21/11/2026, 1:05:04 pm",
+        "history": [
+          {
+            "date": "21 Nov",
+            "premium": 14
+          }
+        ]
+      },
+      "subscription": {
+        "total": 17.68
+      }
     },
     {
       "id": "antalaindustries",
@@ -314,7 +314,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "5 Nov",
@@ -379,6 +379,10 @@
           {
             "date": "20 Nov",
             "premium": 1
+          },
+          {
+            "date": "21 Nov",
+            "premium": 1
           }
         ]
       },
@@ -415,7 +419,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "28 Oct",
@@ -512,6 +516,10 @@
           {
             "date": "20 Nov",
             "premium": 8
+          },
+          {
+            "date": "21 Nov",
+            "premium": 8
           }
         ]
       },
@@ -548,7 +556,7 @@
         "premium": 27,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -617,6 +625,10 @@
           {
             "date": "20 Nov",
             "premium": 27
+          },
+          {
+            "date": "21 Nov",
+            "premium": 27
           }
         ]
       },
@@ -653,7 +665,7 @@
         "premium": 105,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -722,6 +734,10 @@
           {
             "date": "20 Nov",
             "premium": 105
+          },
+          {
+            "date": "21 Nov",
+            "premium": 105
           }
         ]
       },
@@ -788,7 +804,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -857,6 +873,10 @@
           {
             "date": "20 Nov",
             "premium": 8
+          },
+          {
+            "date": "21 Nov",
+            "premium": 8
           }
         ]
       },
@@ -893,7 +913,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "1 Nov",
@@ -974,6 +994,10 @@
           {
             "date": "20 Nov",
             "premium": 11
+          },
+          {
+            "date": "21 Nov",
+            "premium": 11
           }
         ]
       },
@@ -1010,7 +1034,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -1099,6 +1123,10 @@
           {
             "date": "20 Nov",
             "premium": 4
+          },
+          {
+            "date": "21 Nov",
+            "premium": 4
           }
         ]
       },
@@ -1135,7 +1163,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "27 Oct",
@@ -1236,6 +1264,10 @@
           {
             "date": "20 Nov",
             "premium": 1
+          },
+          {
+            "date": "21 Nov",
+            "premium": 1
           }
         ]
       },
@@ -1302,7 +1334,7 @@
         "premium": 15.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -1387,6 +1419,10 @@
           {
             "date": "20 Nov",
             "premium": 15.5
+          },
+          {
+            "date": "21 Nov",
+            "premium": 15.5
           }
         ]
       },
@@ -1423,7 +1459,7 @@
         "premium": 69,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -1508,6 +1544,10 @@
           {
             "date": "20 Nov",
             "premium": 69
+          },
+          {
+            "date": "21 Nov",
+            "premium": 69
           }
         ]
       },
@@ -1544,7 +1584,7 @@
         "premium": 54,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -1633,6 +1673,10 @@
           {
             "date": "20 Nov",
             "premium": 54
+          },
+          {
+            "date": "21 Nov",
+            "premium": 54
           }
         ]
       },
@@ -1699,7 +1743,7 @@
         "premium": 250,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -1808,6 +1852,10 @@
           {
             "date": "20 Nov",
             "premium": 250
+          },
+          {
+            "date": "21 Nov",
+            "premium": 250
           }
         ]
       },
@@ -1844,7 +1892,7 @@
         "premium": 13,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "25 Oct",
@@ -1953,6 +2001,10 @@
           {
             "date": "20 Nov",
             "premium": 13
+          },
+          {
+            "date": "21 Nov",
+            "premium": 13
           }
         ]
       },
@@ -1989,7 +2041,7 @@
         "premium": 66,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "20/11/2026, 10:37:44 pm",
+        "updatedAt": "21/11/2026, 1:05:04 pm",
         "history": [
           {
             "date": "21 Oct",
@@ -2113,6 +2165,10 @@
           },
           {
             "date": "20 Nov",
+            "premium": 66
+          },
+          {
+            "date": "21 Nov",
             "premium": 66
           }
         ]
@@ -4617,276 +4673,6 @@
       },
       "subscription": {
         "total": 1.79
-      }
-    },
-    {
-      "id": "blackopalconsultants",
-      "name": "Black Opal Consultants",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 197,
-      "lotSize": 600,
-      "issueSizeCr": 55.08,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-29",
-      "closeDate": "2026-10-01",
-      "allotmentDate": "2026-10-05",
-      "refundDate": null,
-      "listingDate": "2026-10-07",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 9,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "7/10/2026, 2:37:55 am",
-        "history": [
-          {
-            "date": "30 Sept",
-            "premium": 35
-          },
-          {
-            "date": "1 Oct",
-            "premium": 52
-          },
-          {
-            "date": "2 Oct",
-            "premium": 78
-          },
-          {
-            "date": "3 Oct",
-            "premium": 95
-          },
-          {
-            "date": "4 Oct",
-            "premium": 100
-          },
-          {
-            "date": "5 Oct",
-            "premium": 85
-          },
-          {
-            "date": "6 Oct",
-            "premium": 24
-          },
-          {
-            "date": "7 Oct",
-            "premium": 9
-          }
-        ]
-      },
-      "subscription": {
-        "total": 73.8
-      }
-    },
-    {
-      "id": "vanselectroengineerings",
-      "name": "Vans Electroengineerings",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 118,
-      "lotSize": 1200,
-      "issueSizeCr": 33.98,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-29",
-      "closeDate": "2026-10-01",
-      "allotmentDate": "2026-10-05",
-      "refundDate": null,
-      "listingDate": "2026-10-07",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 103,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "21/10/2026, 11:03:18 pm",
-        "history": [
-          {
-            "date": "26 Sept",
-            "premium": 45
-          },
-          {
-            "date": "27 Sept",
-            "premium": 45
-          },
-          {
-            "date": "28 Sept",
-            "premium": 45
-          },
-          {
-            "date": "29 Sept",
-            "premium": 70
-          },
-          {
-            "date": "30 Sept",
-            "premium": 85
-          },
-          {
-            "date": "1 Oct",
-            "premium": 70
-          },
-          {
-            "date": "2 Oct",
-            "premium": 70
-          },
-          {
-            "date": "3 Oct",
-            "premium": 70
-          },
-          {
-            "date": "4 Oct",
-            "premium": 70
-          },
-          {
-            "date": "5 Oct",
-            "premium": 70
-          },
-          {
-            "date": "6 Oct",
-            "premium": 103
-          },
-          {
-            "date": "7 Oct",
-            "premium": 103
-          },
-          {
-            "date": "8 Oct",
-            "premium": 103
-          },
-          {
-            "date": "9 Oct",
-            "premium": 103
-          },
-          {
-            "date": "10 Oct",
-            "premium": 103
-          },
-          {
-            "date": "11 Oct",
-            "premium": 103
-          },
-          {
-            "date": "12 Oct",
-            "premium": 103
-          },
-          {
-            "date": "13 Oct",
-            "premium": 103
-          },
-          {
-            "date": "14 Oct",
-            "premium": 103
-          },
-          {
-            "date": "15 Oct",
-            "premium": 103
-          },
-          {
-            "date": "16 Oct",
-            "premium": 103
-          },
-          {
-            "date": "17 Oct",
-            "premium": 103
-          },
-          {
-            "date": "18 Oct",
-            "premium": 103
-          },
-          {
-            "date": "19 Oct",
-            "premium": 103
-          },
-          {
-            "date": "20 Oct",
-            "premium": 103
-          },
-          {
-            "date": "21 Oct",
-            "premium": 103
-          }
-        ]
-      },
-      "subscription": {
-        "total": 628.73
-      }
-    },
-    {
-      "id": "papadmaljiagrofoods",
-      "name": "Papadmalji Agro Foods",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 72,
-      "lotSize": 1600,
-      "issueSizeCr": 20.18,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-29",
-      "closeDate": "2026-10-01",
-      "allotmentDate": "2026-10-05",
-      "refundDate": null,
-      "listingDate": "2026-10-07",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": null,
-      "subscription": {
-        "total": 2.54
-      }
-    },
-    {
-      "id": "greenasiaimpex",
-      "name": "Green Asia Impex",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 89,
-      "lotSize": 1600,
-      "issueSizeCr": 59.34,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-09-24",
-      "closeDate": "2026-10-01",
-      "allotmentDate": "2026-10-05",
-      "refundDate": null,
-      "listingDate": "2026-10-07",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": null,
-      "subscription": {
-        "total": 1.04
       }
     }
   ]
