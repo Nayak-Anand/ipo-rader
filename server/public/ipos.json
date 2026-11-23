@@ -1,132 +1,6 @@
 {
-  "updatedAt": "2026-11-23T08:00:13.082Z",
+  "updatedAt": "2026-11-23T20:27:47.628Z",
   "ipos": [
-    {
-      "id": "mahacoal",
-      "name": "Mahanadi Coalfields Limited",
-      "symbol": "MAHACOAL",
-      "board": "MAINBOARD",
-      "status": "OPEN",
-      "priceMin": 129,
-      "priceMax": 136,
-      "lotSize": 110,
-      "issueSizeCr": 6705.73,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-11-19",
-      "closeDate": "2026-11-23",
-      "allotmentDate": "2026-11-25",
-      "refundDate": null,
-      "listingDate": "2026-11-27",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 0.4,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
-        "history": [
-          {
-            "date": "18 Nov",
-            "premium": 3.1
-          },
-          {
-            "date": "19 Nov",
-            "premium": 1.8
-          },
-          {
-            "date": "20 Nov",
-            "premium": 0.75
-          },
-          {
-            "date": "21 Nov",
-            "premium": 0.7
-          },
-          {
-            "date": "22 Nov",
-            "premium": 0.7
-          },
-          {
-            "date": "23 Nov",
-            "premium": 0.4
-          }
-        ]
-      },
-      "subscription": {
-        "total": 0.21
-      }
-    },
-    {
-      "id": "watrana",
-      "name": "Watrana Rentals Limited",
-      "symbol": "WATRANA",
-      "board": "SME",
-      "status": "OPEN",
-      "priceMin": 232,
-      "priceMax": 245,
-      "lotSize": 600,
-      "issueSizeCr": 86.14,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-11-19",
-      "closeDate": "2026-11-23",
-      "allotmentDate": "2026-11-25",
-      "refundDate": null,
-      "listingDate": "2026-11-27",
-      "registrar": null,
-      "exchange": "NSE",
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 40,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
-        "history": [
-          {
-            "date": "17 Nov",
-            "premium": 25
-          },
-          {
-            "date": "18 Nov",
-            "premium": 60
-          },
-          {
-            "date": "19 Nov",
-            "premium": 67
-          },
-          {
-            "date": "20 Nov",
-            "premium": 67
-          },
-          {
-            "date": "21 Nov",
-            "premium": 65
-          },
-          {
-            "date": "22 Nov",
-            "premium": 55
-          },
-          {
-            "date": "23 Nov",
-            "premium": 40
-          }
-        ]
-      },
-      "subscription": {
-        "total": 56.04
-      }
-    },
     {
       "id": "shreesidhi",
       "name": "Shree Siddhivinayak Greentech Industries Limited",
@@ -153,14 +27,57 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 5,
+        "premium": 10,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "23 Nov",
             "premium": 5
+          },
+          {
+            "date": "24 Nov",
+            "premium": 10
+          }
+        ]
+      },
+      "subscription": null
+    },
+    {
+      "id": "foodlink",
+      "name": "Foodlink F&B Holdings (India) Limited",
+      "symbol": "FOODLINK",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": 181,
+      "priceMax": 191,
+      "lotSize": 78,
+      "issueSizeCr": 371.36,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-11-26",
+      "closeDate": "2026-11-30",
+      "allotmentDate": "2026-12-01",
+      "refundDate": null,
+      "listingDate": "2026-12-03",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 15,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "24/11/2026, 1:57:47 am",
+        "history": [
+          {
+            "date": "24 Nov",
+            "premium": 15
           }
         ]
       },
@@ -195,7 +112,7 @@
         "premium": 23,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "22 Nov",
@@ -203,6 +120,10 @@
           },
           {
             "date": "23 Nov",
+            "premium": 23
+          },
+          {
+            "date": "24 Nov",
             "premium": 23
           }
         ]
@@ -238,10 +159,14 @@
         "premium": 20,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "23 Nov",
+            "premium": 20
+          },
+          {
+            "date": "24 Nov",
             "premium": 20
           }
         ]
@@ -273,7 +198,18 @@
       "financials": [],
       "valuation": null,
       "listingPrice": null,
-      "gmp": null,
+      "gmp": {
+        "premium": 21.5,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "24/11/2026, 1:57:47 am",
+        "history": [
+          {
+            "date": "24 Nov",
+            "premium": 21.5
+          }
+        ]
+      },
       "subscription": null
     },
     {
@@ -305,22 +241,22 @@
       "subscription": null
     },
     {
-      "id": "foodlinkfbholdings",
-      "name": "Foodlink F&B Holdings",
+      "id": "watranarentals",
+      "name": "Watrana Rentals",
       "symbol": "",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
+      "board": "SME",
+      "status": "OPEN",
       "priceMin": null,
-      "priceMax": 191,
-      "lotSize": 78,
-      "issueSizeCr": 360.76,
+      "priceMax": 245,
+      "lotSize": 600,
+      "issueSizeCr": 120.1,
       "freshIssueCr": null,
       "ofsCr": null,
-      "openDate": "2026-11-26",
-      "closeDate": "2026-11-30",
-      "allotmentDate": "2026-12-01",
+      "openDate": "2026-11-19",
+      "closeDate": "2026-11-23",
+      "allotmentDate": "2026-11-25",
       "refundDate": null,
-      "listingDate": "2026-12-03",
+      "listingDate": "2026-11-27",
       "registrar": null,
       "exchange": null,
       "about": null,
@@ -330,34 +266,50 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 12,
+        "premium": 40,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
-            "date": "19 Nov",
-            "premium": 12
-          },
-          {
-            "date": "20 Nov",
-            "premium": 12
-          },
-          {
-            "date": "21 Nov",
-            "premium": 12
-          },
-          {
-            "date": "22 Nov",
-            "premium": 12
-          },
-          {
-            "date": "23 Nov",
-            "premium": 12
+            "date": "24 Nov",
+            "premium": 40
           }
         ]
       },
-      "subscription": null
+      "subscription": {
+        "total": 150.48
+      }
+    },
+    {
+      "id": "mahanadicoalfields",
+      "name": "Mahanadi Coalfields",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "OPEN",
+      "priceMin": null,
+      "priceMax": 136,
+      "lotSize": 110,
+      "issueSizeCr": 8981.12,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-11-19",
+      "closeDate": "2026-11-23",
+      "allotmentDate": "2026-11-25",
+      "refundDate": null,
+      "listingDate": "2026-11-27",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": {
+        "total": 1.52
+      }
     },
     {
       "id": "crystalcropprotection",
@@ -385,10 +337,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 14.5,
+        "premium": 14,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "21 Nov",
@@ -401,6 +353,10 @@
           {
             "date": "23 Nov",
             "premium": 14.5
+          },
+          {
+            "date": "24 Nov",
+            "premium": 14
           }
         ]
       },
@@ -467,7 +423,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "5 Nov",
@@ -544,6 +500,10 @@
           {
             "date": "23 Nov",
             "premium": 1
+          },
+          {
+            "date": "24 Nov",
+            "premium": 1
           }
         ]
       },
@@ -580,7 +540,7 @@
         "premium": 27,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "4 Nov",
@@ -661,6 +621,10 @@
           {
             "date": "23 Nov",
             "premium": 27
+          },
+          {
+            "date": "24 Nov",
+            "premium": 27
           }
         ]
       },
@@ -697,7 +661,7 @@
         "premium": 105,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "4 Nov",
@@ -778,6 +742,10 @@
           {
             "date": "23 Nov",
             "premium": 105
+          },
+          {
+            "date": "24 Nov",
+            "premium": 105
           }
         ]
       },
@@ -844,7 +812,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "28 Oct",
@@ -953,6 +921,10 @@
           {
             "date": "23 Nov",
             "premium": 8
+          },
+          {
+            "date": "24 Nov",
+            "premium": 8
           }
         ]
       },
@@ -989,7 +961,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "4 Nov",
@@ -1070,6 +1042,10 @@
           {
             "date": "23 Nov",
             "premium": 8
+          },
+          {
+            "date": "24 Nov",
+            "premium": 8
           }
         ]
       },
@@ -1106,7 +1082,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "30 Oct",
@@ -1207,6 +1183,10 @@
           {
             "date": "23 Nov",
             "premium": 4
+          },
+          {
+            "date": "24 Nov",
+            "premium": 4
           }
         ]
       },
@@ -1243,7 +1223,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "27 Oct",
@@ -1356,6 +1336,10 @@
           {
             "date": "23 Nov",
             "premium": 1
+          },
+          {
+            "date": "24 Nov",
+            "premium": 1
           }
         ]
       },
@@ -1392,7 +1376,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "1 Nov",
@@ -1485,6 +1469,10 @@
           {
             "date": "23 Nov",
             "premium": 11
+          },
+          {
+            "date": "24 Nov",
+            "premium": 11
           }
         ]
       },
@@ -1521,7 +1509,7 @@
         "premium": 69,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "31 Oct",
@@ -1618,6 +1606,10 @@
           {
             "date": "23 Nov",
             "premium": 69
+          },
+          {
+            "date": "24 Nov",
+            "premium": 69
           }
         ]
       },
@@ -1684,7 +1676,7 @@
         "premium": 15.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "31 Oct",
@@ -1781,6 +1773,10 @@
           {
             "date": "23 Nov",
             "premium": 15.5
+          },
+          {
+            "date": "24 Nov",
+            "premium": 15.5
           }
         ]
       },
@@ -1817,7 +1813,7 @@
         "premium": 54,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "30 Oct",
@@ -1918,6 +1914,10 @@
           {
             "date": "23 Nov",
             "premium": 54
+          },
+          {
+            "date": "24 Nov",
+            "premium": 54
           }
         ]
       },
@@ -1984,7 +1984,7 @@
         "premium": 250,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "23/11/2026, 1:30:13 pm",
+        "updatedAt": "24/11/2026, 1:57:47 am",
         "history": [
           {
             "date": "25 Oct",
@@ -2104,6 +2104,10 @@
           },
           {
             "date": "23 Nov",
+            "premium": 250
+          },
+          {
+            "date": "24 Nov",
             "premium": 250
           }
         ]
