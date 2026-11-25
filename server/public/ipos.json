@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:45:26.141Z",
+  "updatedAt": "2026-11-25T08:59:09.503Z",
   "ipos": [
     {
       "id": "shreesidhi",
@@ -30,7 +30,7 @@
         "premium": 20,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "23 Nov",
@@ -46,7 +46,9 @@
           }
         ]
       },
-      "subscription": null
+      "subscription": {
+        "total": 0.35
+      }
     },
     {
       "id": "foodlink",
@@ -74,10 +76,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 21,
+        "premium": 27,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "24 Nov",
@@ -85,7 +87,46 @@
           },
           {
             "date": "25 Nov",
-            "premium": 21
+            "premium": 27
+          }
+        ]
+      },
+      "subscription": null
+    },
+    {
+      "id": "airpro",
+      "name": "Airpro Technology India Limited",
+      "symbol": "AIRPRO",
+      "board": "SME",
+      "status": "UPCOMING",
+      "priceMin": 99,
+      "priceMax": 99,
+      "lotSize": 1200,
+      "issueSizeCr": 35.64,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-11-27",
+      "closeDate": "2026-12-01",
+      "allotmentDate": "2026-12-02",
+      "refundDate": null,
+      "listingDate": "2026-12-04",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 4,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "history": [
+          {
+            "date": "25 Nov",
+            "premium": 4
           }
         ]
       },
@@ -98,9 +139,9 @@
       "board": "MAINBOARD",
       "status": "UPCOMING",
       "priceMin": null,
-      "priceMax": 0,
-      "lotSize": null,
-      "issueSizeCr": null,
+      "priceMax": 65,
+      "lotSize": 225,
+      "issueSizeCr": 175.5,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-12-02",
@@ -117,10 +158,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 23,
+        "premium": 21,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "22 Nov",
@@ -136,7 +177,7 @@
           },
           {
             "date": "25 Nov",
-            "premium": 23
+            "premium": 21
           }
         ]
       },
@@ -168,10 +209,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 18,
+        "premium": 24,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "23 Nov",
@@ -183,7 +224,7 @@
           },
           {
             "date": "25 Nov",
-            "premium": 18
+            "premium": 24
           }
         ]
       },
@@ -218,7 +259,7 @@
         "premium": 21.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "24 Nov",
@@ -242,34 +283,6 @@
       "priceMax": null,
       "lotSize": null,
       "issueSizeCr": null,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-11-27",
-      "closeDate": "2026-12-01",
-      "allotmentDate": "2026-12-02",
-      "refundDate": null,
-      "listingDate": "2026-12-04",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": null,
-      "subscription": null
-    },
-    {
-      "id": "airprotechnology",
-      "name": "Airpro Technology",
-      "symbol": "",
-      "board": "SME",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 99,
-      "lotSize": 1200,
-      "issueSizeCr": 35.64,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-11-27",
@@ -314,10 +327,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 40,
+        "premium": 41,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "24 Nov",
@@ -325,7 +338,7 @@
           },
           {
             "date": "25 Nov",
-            "premium": 40
+            "premium": 41
           }
         ]
       },
@@ -389,10 +402,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 19,
+        "premium": 18,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "21 Nov",
@@ -412,7 +425,7 @@
           },
           {
             "date": "25 Nov",
-            "premium": 19
+            "premium": 18
           }
         ]
       },
@@ -479,7 +492,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "5 Nov",
@@ -630,7 +643,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "28 Oct",
@@ -783,7 +796,7 @@
         "premium": 27,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -908,7 +921,7 @@
         "premium": 105,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -1033,7 +1046,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -1158,7 +1171,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "27 Oct",
@@ -1315,7 +1328,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -1460,7 +1473,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "1 Nov",
@@ -1597,7 +1610,7 @@
         "premium": 69,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -1738,7 +1751,7 @@
         "premium": 15.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -1909,7 +1922,7 @@
         "premium": 54,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:15:26 am",
+        "updatedAt": "25/11/2026, 2:29:09 pm",
         "history": [
           {
             "date": "30 Oct",
