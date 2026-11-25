@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T08:59:09.503Z",
+  "updatedAt": "2026-11-25T20:03:27.373Z",
   "ipos": [
     {
       "id": "shreesidhi",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 20,
+        "premium": 25,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "23 Nov",
@@ -43,11 +43,15 @@
           {
             "date": "25 Nov",
             "premium": 20
+          },
+          {
+            "date": "26 Nov",
+            "premium": 25
           }
         ]
       },
       "subscription": {
-        "total": 0.35
+        "total": 0.38
       }
     },
     {
@@ -55,11 +59,11 @@
       "name": "Foodlink F&B Holdings (India) Limited",
       "symbol": "FOODLINK",
       "board": "MAINBOARD",
-      "status": "UPCOMING",
+      "status": "OPEN",
       "priceMin": 181,
       "priceMax": 191,
       "lotSize": 78,
-      "issueSizeCr": 371.36,
+      "issueSizeCr": 200.05,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-11-26",
@@ -76,10 +80,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 27,
+        "premium": 18,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "24 Nov",
@@ -88,10 +92,16 @@
           {
             "date": "25 Nov",
             "premium": 27
+          },
+          {
+            "date": "26 Nov",
+            "premium": 18
           }
         ]
       },
-      "subscription": null
+      "subscription": {
+        "total": 0
+      }
     },
     {
       "id": "airpro",
@@ -122,10 +132,14 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "25 Nov",
+            "premium": 4
+          },
+          {
+            "date": "26 Nov",
             "premium": 4
           }
         ]
@@ -133,63 +147,12 @@
       "subscription": null
     },
     {
-      "id": "monomarkengineering",
-      "name": "Monomark Engineering",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 65,
-      "lotSize": 225,
-      "issueSizeCr": 175.5,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-12-02",
-      "closeDate": "2026-12-04",
-      "allotmentDate": "2026-12-07",
-      "refundDate": null,
-      "listingDate": "2026-12-09",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 21,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
-        "history": [
-          {
-            "date": "22 Nov",
-            "premium": 23
-          },
-          {
-            "date": "23 Nov",
-            "premium": 23
-          },
-          {
-            "date": "24 Nov",
-            "premium": 23
-          },
-          {
-            "date": "25 Nov",
-            "premium": 21
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "ajpackaging",
-      "name": "A J Packaging",
-      "symbol": "",
+      "id": "ajpack",
+      "name": "A J Packaging Limited",
+      "symbol": "AJPACK",
       "board": "SME",
       "status": "UPCOMING",
-      "priceMin": null,
+      "priceMin": 175,
       "priceMax": 180,
       "lotSize": 800,
       "issueSizeCr": 54,
@@ -201,7 +164,7 @@
       "refundDate": null,
       "listingDate": "2026-12-08",
       "registrar": null,
-      "exchange": null,
+      "exchange": "NSE",
       "about": null,
       "strengths": [],
       "risks": [],
@@ -212,19 +175,50 @@
         "premium": 24,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
-            "date": "23 Nov",
-            "premium": 20
-          },
-          {
-            "date": "24 Nov",
-            "premium": 20
-          },
-          {
-            "date": "25 Nov",
+            "date": "26 Nov",
             "premium": 24
+          }
+        ]
+      },
+      "subscription": null
+    },
+    {
+      "id": "monomark",
+      "name": "Monomark Engineering (India) Limited",
+      "symbol": "MONOMARK",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": 60,
+      "priceMax": 65,
+      "lotSize": 225,
+      "issueSizeCr": 175.5,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-12-02",
+      "closeDate": "2026-12-04",
+      "allotmentDate": "2026-12-07",
+      "refundDate": null,
+      "listingDate": "2026-12-09",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 21,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "26/11/2026, 1:33:27 am",
+        "history": [
+          {
+            "date": "26 Nov",
+            "premium": 21
           }
         ]
       },
@@ -256,10 +250,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 21.5,
+        "premium": 27,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "24 Nov",
@@ -268,37 +262,13 @@
           {
             "date": "25 Nov",
             "premium": 21.5
+          },
+          {
+            "date": "26 Nov",
+            "premium": 27
           }
         ]
       },
-      "subscription": null
-    },
-    {
-      "id": "integrismedtech",
-      "name": "Integris Medtech",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": null,
-      "lotSize": null,
-      "issueSizeCr": null,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-11-27",
-      "closeDate": "2026-12-01",
-      "allotmentDate": "2026-12-02",
-      "refundDate": null,
-      "listingDate": "2026-12-04",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": null,
       "subscription": null
     },
     {
@@ -327,10 +297,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 41,
+        "premium": 22,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "24 Nov",
@@ -339,6 +309,10 @@
           {
             "date": "25 Nov",
             "premium": 41
+          },
+          {
+            "date": "26 Nov",
+            "premium": 22
           }
         ]
       },
@@ -402,10 +376,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 18,
+        "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "21 Nov",
@@ -426,6 +400,10 @@
           {
             "date": "25 Nov",
             "premium": 18
+          },
+          {
+            "date": "26 Nov",
+            "premium": 17
           }
         ]
       },
@@ -492,7 +470,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "5 Nov",
@@ -577,6 +555,10 @@
           {
             "date": "25 Nov",
             "premium": 1
+          },
+          {
+            "date": "26 Nov",
+            "premium": 1
           }
         ]
       },
@@ -643,7 +625,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "28 Oct",
@@ -760,6 +742,10 @@
           {
             "date": "25 Nov",
             "premium": 8
+          },
+          {
+            "date": "26 Nov",
+            "premium": 8
           }
         ]
       },
@@ -796,7 +782,7 @@
         "premium": 27,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "4 Nov",
@@ -885,6 +871,10 @@
           {
             "date": "25 Nov",
             "premium": 27
+          },
+          {
+            "date": "26 Nov",
+            "premium": 27
           }
         ]
       },
@@ -921,7 +911,7 @@
         "premium": 105,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "4 Nov",
@@ -1010,6 +1000,10 @@
           {
             "date": "25 Nov",
             "premium": 105
+          },
+          {
+            "date": "26 Nov",
+            "premium": 105
           }
         ]
       },
@@ -1046,7 +1040,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "4 Nov",
@@ -1135,6 +1129,10 @@
           {
             "date": "25 Nov",
             "premium": 8
+          },
+          {
+            "date": "26 Nov",
+            "premium": 8
           }
         ]
       },
@@ -1171,7 +1169,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "27 Oct",
@@ -1292,6 +1290,10 @@
           {
             "date": "25 Nov",
             "premium": 1
+          },
+          {
+            "date": "26 Nov",
+            "premium": 1
           }
         ]
       },
@@ -1328,7 +1330,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "30 Oct",
@@ -1437,6 +1439,10 @@
           {
             "date": "25 Nov",
             "premium": 4
+          },
+          {
+            "date": "26 Nov",
+            "premium": 4
           }
         ]
       },
@@ -1473,7 +1479,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "1 Nov",
@@ -1574,6 +1580,10 @@
           {
             "date": "25 Nov",
             "premium": 11
+          },
+          {
+            "date": "26 Nov",
+            "premium": 11
           }
         ]
       },
@@ -1610,7 +1620,7 @@
         "premium": 69,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "31 Oct",
@@ -1715,6 +1725,10 @@
           {
             "date": "25 Nov",
             "premium": 69
+          },
+          {
+            "date": "26 Nov",
+            "premium": 69
           }
         ]
       },
@@ -1751,7 +1765,7 @@
         "premium": 15.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "31 Oct",
@@ -1856,6 +1870,10 @@
           {
             "date": "25 Nov",
             "premium": 15.5
+          },
+          {
+            "date": "26 Nov",
+            "premium": 15.5
           }
         ]
       },
@@ -1922,7 +1940,7 @@
         "premium": 54,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "25/11/2026, 2:29:09 pm",
+        "updatedAt": "26/11/2026, 1:33:27 am",
         "history": [
           {
             "date": "30 Oct",
@@ -2031,6 +2049,10 @@
           {
             "date": "25 Nov",
             "premium": 54
+          },
+          {
+            "date": "26 Nov",
+            "premium": 54
           }
         ]
       },
@@ -2067,6 +2089,34 @@
       "subscription": {
         "total": 5.44
       }
+    },
+    {
+      "id": "integrismedtech",
+      "name": "Integris Medtech",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": null,
+      "lotSize": null,
+      "issueSizeCr": null,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-11-27",
+      "closeDate": "2026-12-01",
+      "allotmentDate": "2026-12-02",
+      "refundDate": null,
+      "listingDate": "2026-12-04",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": null
     },
     {
       "id": "jioplatforms",
