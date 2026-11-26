@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T08:45:41.583Z",
+  "updatedAt": "2026-11-26T19:45:10.012Z",
   "ipos": [
     {
       "id": "shreesidhi",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 18,
+        "premium": 2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "23 Nov",
@@ -47,11 +47,15 @@
           {
             "date": "26 Nov",
             "premium": 18
+          },
+          {
+            "date": "27 Nov",
+            "premium": 2
           }
         ]
       },
       "subscription": {
-        "total": 0.98
+        "total": 1.24
       }
     },
     {
@@ -80,10 +84,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 14,
+        "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "24 Nov",
@@ -96,11 +100,15 @@
           {
             "date": "26 Nov",
             "premium": 14
+          },
+          {
+            "date": "27 Nov",
+            "premium": 7
           }
         ]
       },
       "subscription": {
-        "total": 0.25
+        "total": 0.87
       }
     },
     {
@@ -108,7 +116,7 @@
       "name": "Airpro Technology India Limited",
       "symbol": "AIRPRO",
       "board": "SME",
-      "status": "UPCOMING",
+      "status": "OPEN",
       "priceMin": 99,
       "priceMax": 99,
       "lotSize": 1200,
@@ -129,10 +137,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 2,
+        "premium": 3,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "25 Nov",
@@ -141,6 +149,10 @@
           {
             "date": "26 Nov",
             "premium": 2
+          },
+          {
+            "date": "27 Nov",
+            "premium": 3
           }
         ]
       },
@@ -175,10 +187,14 @@
         "premium": 27,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "26 Nov",
+            "premium": 27
+          },
+          {
+            "date": "27 Nov",
             "premium": 27
           }
         ]
@@ -214,10 +230,14 @@
         "premium": 24,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "26 Nov",
+            "premium": 24
+          },
+          {
+            "date": "27 Nov",
             "premium": 24
           }
         ]
@@ -253,64 +273,19 @@
         "premium": 24,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "26 Nov",
+            "premium": 24
+          },
+          {
+            "date": "27 Nov",
             "premium": 24
           }
         ]
       },
       "subscription": null
-    },
-    {
-      "id": "watranarentals",
-      "name": "Watrana Rentals",
-      "symbol": "",
-      "board": "SME",
-      "status": "CLOSED",
-      "priceMin": null,
-      "priceMax": 245,
-      "lotSize": 600,
-      "issueSizeCr": 120.1,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-11-19",
-      "closeDate": "2026-11-23",
-      "allotmentDate": "2026-11-25",
-      "refundDate": null,
-      "listingDate": "2026-11-27",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 22,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
-        "history": [
-          {
-            "date": "24 Nov",
-            "premium": 40
-          },
-          {
-            "date": "25 Nov",
-            "premium": 41
-          },
-          {
-            "date": "26 Nov",
-            "premium": 22
-          }
-        ]
-      },
-      "subscription": {
-        "total": 150.48
-      }
     },
     {
       "id": "mahanadicoalfields",
@@ -338,19 +313,76 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 1,
+        "premium": 0.7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "26 Nov",
             "premium": 1
+          },
+          {
+            "date": "27 Nov",
+            "premium": 0.7
           }
         ]
       },
       "subscription": {
         "total": 1.52
+      }
+    },
+    {
+      "id": "watranarentals",
+      "name": "Watrana Rentals",
+      "symbol": "",
+      "board": "SME",
+      "status": "CLOSED",
+      "priceMin": null,
+      "priceMax": 245,
+      "lotSize": 600,
+      "issueSizeCr": 120.1,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-11-19",
+      "closeDate": "2026-11-23",
+      "allotmentDate": "2026-11-25",
+      "refundDate": null,
+      "listingDate": "2026-11-27",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 23,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "27/11/2026, 1:15:10 am",
+        "history": [
+          {
+            "date": "24 Nov",
+            "premium": 40
+          },
+          {
+            "date": "25 Nov",
+            "premium": 41
+          },
+          {
+            "date": "26 Nov",
+            "premium": 22
+          },
+          {
+            "date": "27 Nov",
+            "premium": 23
+          }
+        ]
+      },
+      "subscription": {
+        "total": 150.48
       }
     },
     {
@@ -382,7 +414,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "21 Nov",
@@ -406,6 +438,10 @@
           },
           {
             "date": "26 Nov",
+            "premium": 17
+          },
+          {
+            "date": "27 Nov",
             "premium": 17
           }
         ]
@@ -473,7 +509,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "5 Nov",
@@ -562,6 +598,10 @@
           {
             "date": "26 Nov",
             "premium": 1
+          },
+          {
+            "date": "27 Nov",
+            "premium": 1
           }
         ]
       },
@@ -628,7 +668,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "28 Oct",
@@ -749,6 +789,10 @@
           {
             "date": "26 Nov",
             "premium": 8
+          },
+          {
+            "date": "27 Nov",
+            "premium": 8
           }
         ]
       },
@@ -785,7 +829,7 @@
         "premium": 27,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "4 Nov",
@@ -878,6 +922,10 @@
           {
             "date": "26 Nov",
             "premium": 27
+          },
+          {
+            "date": "27 Nov",
+            "premium": 27
           }
         ]
       },
@@ -914,7 +962,7 @@
         "premium": 105,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "4 Nov",
@@ -1007,6 +1055,10 @@
           {
             "date": "26 Nov",
             "premium": 105
+          },
+          {
+            "date": "27 Nov",
+            "premium": 105
           }
         ]
       },
@@ -1043,7 +1095,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "4 Nov",
@@ -1136,11 +1188,168 @@
           {
             "date": "26 Nov",
             "premium": 8
+          },
+          {
+            "date": "27 Nov",
+            "premium": 8
           }
         ]
       },
       "subscription": {
         "total": 63.89
+      }
+    },
+    {
+      "id": "carverroboweld",
+      "name": "Carver Roboweld",
+      "symbol": "",
+      "board": "SME",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 80,
+      "lotSize": 1600,
+      "issueSizeCr": 28.29,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-28",
+      "closeDate": "2026-10-30",
+      "allotmentDate": "2026-11-02",
+      "refundDate": null,
+      "listingDate": "2026-11-04",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 4,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "27/11/2026, 1:15:10 am",
+        "history": [
+          {
+            "date": "30 Oct",
+            "premium": 5
+          },
+          {
+            "date": "31 Oct",
+            "premium": 5
+          },
+          {
+            "date": "1 Nov",
+            "premium": 5
+          },
+          {
+            "date": "2 Nov",
+            "premium": 5
+          },
+          {
+            "date": "3 Nov",
+            "premium": 4
+          },
+          {
+            "date": "4 Nov",
+            "premium": 4
+          },
+          {
+            "date": "5 Nov",
+            "premium": 4
+          },
+          {
+            "date": "6 Nov",
+            "premium": 4
+          },
+          {
+            "date": "7 Nov",
+            "premium": 4
+          },
+          {
+            "date": "8 Nov",
+            "premium": 4
+          },
+          {
+            "date": "9 Nov",
+            "premium": 4
+          },
+          {
+            "date": "10 Nov",
+            "premium": 4
+          },
+          {
+            "date": "11 Nov",
+            "premium": 4
+          },
+          {
+            "date": "12 Nov",
+            "premium": 4
+          },
+          {
+            "date": "13 Nov",
+            "premium": 4
+          },
+          {
+            "date": "14 Nov",
+            "premium": 4
+          },
+          {
+            "date": "15 Nov",
+            "premium": 4
+          },
+          {
+            "date": "16 Nov",
+            "premium": 4
+          },
+          {
+            "date": "17 Nov",
+            "premium": 4
+          },
+          {
+            "date": "18 Nov",
+            "premium": 4
+          },
+          {
+            "date": "19 Nov",
+            "premium": 4
+          },
+          {
+            "date": "20 Nov",
+            "premium": 4
+          },
+          {
+            "date": "21 Nov",
+            "premium": 4
+          },
+          {
+            "date": "22 Nov",
+            "premium": 4
+          },
+          {
+            "date": "23 Nov",
+            "premium": 4
+          },
+          {
+            "date": "24 Nov",
+            "premium": 4
+          },
+          {
+            "date": "25 Nov",
+            "premium": 4
+          },
+          {
+            "date": "26 Nov",
+            "premium": 4
+          },
+          {
+            "date": "27 Nov",
+            "premium": 4
+          }
+        ]
+      },
+      "subscription": {
+        "total": 25.8
       }
     },
     {
@@ -1172,7 +1381,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "27 Oct",
@@ -1297,160 +1506,15 @@
           {
             "date": "26 Nov",
             "premium": 1
+          },
+          {
+            "date": "27 Nov",
+            "premium": 1
           }
         ]
       },
       "subscription": {
         "total": 1.12
-      }
-    },
-    {
-      "id": "carverroboweld",
-      "name": "Carver Roboweld",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 80,
-      "lotSize": 1600,
-      "issueSizeCr": 28.29,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-28",
-      "closeDate": "2026-10-30",
-      "allotmentDate": "2026-11-02",
-      "refundDate": null,
-      "listingDate": "2026-11-04",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 4,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
-        "history": [
-          {
-            "date": "30 Oct",
-            "premium": 5
-          },
-          {
-            "date": "31 Oct",
-            "premium": 5
-          },
-          {
-            "date": "1 Nov",
-            "premium": 5
-          },
-          {
-            "date": "2 Nov",
-            "premium": 5
-          },
-          {
-            "date": "3 Nov",
-            "premium": 4
-          },
-          {
-            "date": "4 Nov",
-            "premium": 4
-          },
-          {
-            "date": "5 Nov",
-            "premium": 4
-          },
-          {
-            "date": "6 Nov",
-            "premium": 4
-          },
-          {
-            "date": "7 Nov",
-            "premium": 4
-          },
-          {
-            "date": "8 Nov",
-            "premium": 4
-          },
-          {
-            "date": "9 Nov",
-            "premium": 4
-          },
-          {
-            "date": "10 Nov",
-            "premium": 4
-          },
-          {
-            "date": "11 Nov",
-            "premium": 4
-          },
-          {
-            "date": "12 Nov",
-            "premium": 4
-          },
-          {
-            "date": "13 Nov",
-            "premium": 4
-          },
-          {
-            "date": "14 Nov",
-            "premium": 4
-          },
-          {
-            "date": "15 Nov",
-            "premium": 4
-          },
-          {
-            "date": "16 Nov",
-            "premium": 4
-          },
-          {
-            "date": "17 Nov",
-            "premium": 4
-          },
-          {
-            "date": "18 Nov",
-            "premium": 4
-          },
-          {
-            "date": "19 Nov",
-            "premium": 4
-          },
-          {
-            "date": "20 Nov",
-            "premium": 4
-          },
-          {
-            "date": "21 Nov",
-            "premium": 4
-          },
-          {
-            "date": "22 Nov",
-            "premium": 4
-          },
-          {
-            "date": "23 Nov",
-            "premium": 4
-          },
-          {
-            "date": "24 Nov",
-            "premium": 4
-          },
-          {
-            "date": "25 Nov",
-            "premium": 4
-          },
-          {
-            "date": "26 Nov",
-            "premium": 4
-          }
-        ]
-      },
-      "subscription": {
-        "total": 25.8
       }
     },
     {
@@ -1482,7 +1546,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "1 Nov",
@@ -1587,6 +1651,10 @@
           {
             "date": "26 Nov",
             "premium": 11
+          },
+          {
+            "date": "27 Nov",
+            "premium": 11
           }
         ]
       },
@@ -1623,7 +1691,7 @@
         "premium": 69,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "31 Oct",
@@ -1732,6 +1800,10 @@
           {
             "date": "26 Nov",
             "premium": 69
+          },
+          {
+            "date": "27 Nov",
+            "premium": 69
           }
         ]
       },
@@ -1768,7 +1840,7 @@
         "premium": 15.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "31 Oct",
@@ -1877,6 +1949,10 @@
           {
             "date": "26 Nov",
             "premium": 15.5
+          },
+          {
+            "date": "27 Nov",
+            "premium": 15.5
           }
         ]
       },
@@ -1943,7 +2019,7 @@
         "premium": 54,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "updatedAt": "27/11/2026, 1:15:10 am",
         "history": [
           {
             "date": "30 Oct",
@@ -2055,6 +2131,10 @@
           },
           {
             "date": "26 Nov",
+            "premium": 54
+          },
+          {
+            "date": "27 Nov",
             "premium": 54
           }
         ]
