@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T20:03:27.373Z",
+  "updatedAt": "2026-11-26T08:45:41.583Z",
   "ipos": [
     {
       "id": "shreesidhi",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 25,
+        "premium": 18,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "23 Nov",
@@ -46,12 +46,12 @@
           },
           {
             "date": "26 Nov",
-            "premium": 25
+            "premium": 18
           }
         ]
       },
       "subscription": {
-        "total": 0.38
+        "total": 0.98
       }
     },
     {
@@ -80,10 +80,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 18,
+        "premium": 14,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "24 Nov",
@@ -95,12 +95,12 @@
           },
           {
             "date": "26 Nov",
-            "premium": 18
+            "premium": 14
           }
         ]
       },
       "subscription": {
-        "total": 0
+        "total": 0.25
       }
     },
     {
@@ -129,10 +129,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 4,
+        "premium": 2,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "25 Nov",
@@ -140,7 +140,46 @@
           },
           {
             "date": "26 Nov",
-            "premium": 4
+            "premium": 2
+          }
+        ]
+      },
+      "subscription": null
+    },
+    {
+      "id": "matangi",
+      "name": "Matangi Rubber Limited",
+      "symbol": "MATANGI",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": 163,
+      "priceMax": 172,
+      "lotSize": 87,
+      "issueSizeCr": 125.16,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-12-01",
+      "closeDate": "2026-12-03",
+      "allotmentDate": "2026-12-04",
+      "refundDate": null,
+      "listingDate": "2026-12-08",
+      "registrar": null,
+      "exchange": "NSE",
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 27,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "history": [
+          {
+            "date": "26 Nov",
+            "premium": 27
           }
         ]
       },
@@ -175,7 +214,7 @@
         "premium": 24,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "26 Nov",
@@ -211,61 +250,14 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 21,
+        "premium": 24,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "26 Nov",
-            "premium": 21
-          }
-        ]
-      },
-      "subscription": null
-    },
-    {
-      "id": "matangirubber",
-      "name": "Matangi Rubber",
-      "symbol": "",
-      "board": "MAINBOARD",
-      "status": "UPCOMING",
-      "priceMin": null,
-      "priceMax": 172,
-      "lotSize": 87,
-      "issueSizeCr": 125.16,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-12-01",
-      "closeDate": "2026-12-03",
-      "allotmentDate": "2026-12-04",
-      "refundDate": null,
-      "listingDate": "2026-12-08",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 27,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
-        "history": [
-          {
-            "date": "24 Nov",
-            "premium": 21.5
-          },
-          {
-            "date": "25 Nov",
-            "premium": 21.5
-          },
-          {
-            "date": "26 Nov",
-            "premium": 27
+            "premium": 24
           }
         ]
       },
@@ -300,7 +292,7 @@
         "premium": 22,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "24 Nov",
@@ -345,7 +337,18 @@
       "financials": [],
       "valuation": null,
       "listingPrice": null,
-      "gmp": null,
+      "gmp": {
+        "premium": 1,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "26/11/2026, 2:15:41 pm",
+        "history": [
+          {
+            "date": "26 Nov",
+            "premium": 1
+          }
+        ]
+      },
       "subscription": {
         "total": 1.52
       }
@@ -355,11 +358,11 @@
       "name": "Crystal Crop Protection",
       "symbol": "",
       "board": "MAINBOARD",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 272,
       "lotSize": 55,
-      "issueSizeCr": 455.49,
+      "issueSizeCr": 455.72,
       "freshIssueCr": null,
       "ofsCr": null,
       "openDate": "2026-11-18",
@@ -379,7 +382,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "21 Nov",
@@ -470,7 +473,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "5 Nov",
@@ -625,7 +628,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "28 Oct",
@@ -782,7 +785,7 @@
         "premium": 27,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -911,7 +914,7 @@
         "premium": 105,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -1040,7 +1043,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -1169,7 +1172,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "27 Oct",
@@ -1330,7 +1333,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -1479,7 +1482,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "1 Nov",
@@ -1620,7 +1623,7 @@
         "premium": 69,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -1765,7 +1768,7 @@
         "premium": 15.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -1940,7 +1943,7 @@
         "premium": 54,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "26/11/2026, 1:33:27 am",
+        "updatedAt": "26/11/2026, 2:15:41 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -3871,155 +3874,6 @@
       },
       "subscription": {
         "total": 3.23
-      }
-    },
-    {
-      "id": "rkfashionaccessories",
-      "name": "R.K.Fashion Accessories",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 82,
-      "lotSize": 1600,
-      "issueSizeCr": 34.99,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-05",
-      "closeDate": "2026-10-07",
-      "allotmentDate": "2026-10-08",
-      "refundDate": null,
-      "listingDate": "2026-10-12",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 1.5,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "4/11/2026, 3:24:03 am",
-        "history": [
-          {
-            "date": "8 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "9 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "10 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "11 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "12 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "13 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "14 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "15 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "16 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "17 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "18 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "19 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "20 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "21 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "22 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "23 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "24 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "25 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "26 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "27 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "28 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "29 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "30 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "31 Oct",
-            "premium": 1.5
-          },
-          {
-            "date": "1 Nov",
-            "premium": 1.5
-          },
-          {
-            "date": "2 Nov",
-            "premium": 1.5
-          },
-          {
-            "date": "3 Nov",
-            "premium": 1.5
-          },
-          {
-            "date": "4 Nov",
-            "premium": 1.5
-          }
-        ]
-      },
-      "subscription": {
-        "total": 2.7
       }
     }
   ]
