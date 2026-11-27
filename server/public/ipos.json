@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T19:45:10.012Z",
+  "updatedAt": "2026-11-27T08:56:00.095Z",
   "ipos": [
     {
       "id": "shreesidhi",
@@ -27,10 +27,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 2,
+        "premium": 1.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "23 Nov",
@@ -50,12 +50,12 @@
           },
           {
             "date": "27 Nov",
-            "premium": 2
+            "premium": 1.5
           }
         ]
       },
       "subscription": {
-        "total": 1.24
+        "total": 1.59
       }
     },
     {
@@ -84,10 +84,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 7,
+        "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "24 Nov",
@@ -103,12 +103,12 @@
           },
           {
             "date": "27 Nov",
-            "premium": 7
+            "premium": 4
           }
         ]
       },
       "subscription": {
-        "total": 0.87
+        "total": 1.06
       }
     },
     {
@@ -140,7 +140,7 @@
         "premium": 3,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "25 Nov",
@@ -156,7 +156,9 @@
           }
         ]
       },
-      "subscription": null
+      "subscription": {
+        "total": 0.53
+      }
     },
     {
       "id": "matangi",
@@ -184,10 +186,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 27,
+        "premium": 31,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "26 Nov",
@@ -195,7 +197,7 @@
           },
           {
             "date": "27 Nov",
-            "premium": 27
+            "premium": 31
           }
         ]
       },
@@ -230,7 +232,7 @@
         "premium": 24,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "26 Nov",
@@ -270,10 +272,10 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 24,
+        "premium": 20,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "26 Nov",
@@ -281,29 +283,57 @@
           },
           {
             "date": "27 Nov",
-            "premium": 24
+            "premium": 20
           }
         ]
       },
       "subscription": null
     },
     {
-      "id": "mahanadicoalfields",
-      "name": "Mahanadi Coalfields",
+      "id": "vishwasrefoilsconsumer",
+      "name": "Vishwas Refoils & Consumer",
       "symbol": "",
-      "board": "MAINBOARD",
-      "status": "CLOSED",
+      "board": "SME",
+      "status": "UPCOMING",
       "priceMin": null,
-      "priceMax": 136,
-      "lotSize": 110,
-      "issueSizeCr": 8981.12,
+      "priceMax": 90,
+      "lotSize": 1600,
+      "issueSizeCr": 25.78,
       "freshIssueCr": null,
       "ofsCr": null,
-      "openDate": "2026-11-19",
-      "closeDate": "2026-11-23",
-      "allotmentDate": "2026-11-25",
+      "openDate": "2026-12-03",
+      "closeDate": "2026-12-07",
+      "allotmentDate": "2026-12-08",
       "refundDate": null,
-      "listingDate": "2026-11-27",
+      "listingDate": "2026-12-10",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": null
+    },
+    {
+      "id": "swarababyproducts",
+      "name": "Swara Baby Products",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "UPCOMING",
+      "priceMin": null,
+      "priceMax": 111,
+      "lotSize": 135,
+      "issueSizeCr": 799.88,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-12-02",
+      "closeDate": "2026-12-04",
+      "allotmentDate": "2026-12-07",
+      "refundDate": null,
+      "listingDate": "2026-12-09",
       "registrar": null,
       "exchange": null,
       "about": null,
@@ -313,31 +343,25 @@
       "valuation": null,
       "listingPrice": null,
       "gmp": {
-        "premium": 0.7,
+        "premium": 7,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
-            "date": "26 Nov",
-            "premium": 1
-          },
-          {
             "date": "27 Nov",
-            "premium": 0.7
+            "premium": 7
           }
         ]
       },
-      "subscription": {
-        "total": 1.52
-      }
+      "subscription": null
     },
     {
       "id": "watranarentals",
       "name": "Watrana Rentals",
       "symbol": "",
       "board": "SME",
-      "status": "CLOSED",
+      "status": "LISTED",
       "priceMin": null,
       "priceMax": 245,
       "lotSize": 600,
@@ -361,7 +385,7 @@
         "premium": 23,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "24 Nov",
@@ -383,6 +407,51 @@
       },
       "subscription": {
         "total": 150.48
+      }
+    },
+    {
+      "id": "mahanadicoalfields",
+      "name": "Mahanadi Coalfields",
+      "symbol": "",
+      "board": "MAINBOARD",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 136,
+      "lotSize": 110,
+      "issueSizeCr": 8981.12,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-11-19",
+      "closeDate": "2026-11-23",
+      "allotmentDate": "2026-11-25",
+      "refundDate": null,
+      "listingDate": "2026-11-27",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 0.7,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "27/11/2026, 2:26:00 pm",
+        "history": [
+          {
+            "date": "26 Nov",
+            "premium": 1
+          },
+          {
+            "date": "27 Nov",
+            "premium": 0.7
+          }
+        ]
+      },
+      "subscription": {
+        "total": 1.52
       }
     },
     {
@@ -414,7 +483,7 @@
         "premium": 17,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "21 Nov",
@@ -509,7 +578,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "5 Nov",
@@ -640,6 +709,272 @@
       }
     },
     {
+      "id": "maxwellengineeringsolutions",
+      "name": "Maxwell Engineering Solutions",
+      "symbol": "",
+      "board": "SME",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 158,
+      "lotSize": 800,
+      "issueSizeCr": 57.64,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-30",
+      "closeDate": "2026-11-03",
+      "allotmentDate": "2026-11-04",
+      "refundDate": null,
+      "listingDate": "2026-11-06",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 105,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "27/11/2026, 2:26:00 pm",
+        "history": [
+          {
+            "date": "4 Nov",
+            "premium": 100
+          },
+          {
+            "date": "5 Nov",
+            "premium": 105
+          },
+          {
+            "date": "6 Nov",
+            "premium": 105
+          },
+          {
+            "date": "7 Nov",
+            "premium": 105
+          },
+          {
+            "date": "8 Nov",
+            "premium": 105
+          },
+          {
+            "date": "9 Nov",
+            "premium": 105
+          },
+          {
+            "date": "10 Nov",
+            "premium": 105
+          },
+          {
+            "date": "11 Nov",
+            "premium": 105
+          },
+          {
+            "date": "12 Nov",
+            "premium": 105
+          },
+          {
+            "date": "13 Nov",
+            "premium": 105
+          },
+          {
+            "date": "14 Nov",
+            "premium": 105
+          },
+          {
+            "date": "15 Nov",
+            "premium": 105
+          },
+          {
+            "date": "16 Nov",
+            "premium": 105
+          },
+          {
+            "date": "17 Nov",
+            "premium": 105
+          },
+          {
+            "date": "18 Nov",
+            "premium": 105
+          },
+          {
+            "date": "19 Nov",
+            "premium": 105
+          },
+          {
+            "date": "20 Nov",
+            "premium": 105
+          },
+          {
+            "date": "21 Nov",
+            "premium": 105
+          },
+          {
+            "date": "22 Nov",
+            "premium": 105
+          },
+          {
+            "date": "23 Nov",
+            "premium": 105
+          },
+          {
+            "date": "24 Nov",
+            "premium": 105
+          },
+          {
+            "date": "25 Nov",
+            "premium": 105
+          },
+          {
+            "date": "26 Nov",
+            "premium": 105
+          },
+          {
+            "date": "27 Nov",
+            "premium": 105
+          }
+        ]
+      },
+      "subscription": {
+        "total": 536.8
+      }
+    },
+    {
+      "id": "hgs",
+      "name": "HGS (India)",
+      "symbol": "",
+      "board": "SME",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 120,
+      "lotSize": 1200,
+      "issueSizeCr": 34.56,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-30",
+      "closeDate": "2026-11-03",
+      "allotmentDate": "2026-11-04",
+      "refundDate": null,
+      "listingDate": "2026-11-06",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": {
+        "premium": 27,
+        "kostak": null,
+        "subjectToSauda": null,
+        "updatedAt": "27/11/2026, 2:26:00 pm",
+        "history": [
+          {
+            "date": "4 Nov",
+            "premium": 23
+          },
+          {
+            "date": "5 Nov",
+            "premium": 32
+          },
+          {
+            "date": "6 Nov",
+            "premium": 27
+          },
+          {
+            "date": "7 Nov",
+            "premium": 27
+          },
+          {
+            "date": "8 Nov",
+            "premium": 27
+          },
+          {
+            "date": "9 Nov",
+            "premium": 27
+          },
+          {
+            "date": "10 Nov",
+            "premium": 27
+          },
+          {
+            "date": "11 Nov",
+            "premium": 27
+          },
+          {
+            "date": "12 Nov",
+            "premium": 27
+          },
+          {
+            "date": "13 Nov",
+            "premium": 27
+          },
+          {
+            "date": "14 Nov",
+            "premium": 27
+          },
+          {
+            "date": "15 Nov",
+            "premium": 27
+          },
+          {
+            "date": "16 Nov",
+            "premium": 27
+          },
+          {
+            "date": "17 Nov",
+            "premium": 27
+          },
+          {
+            "date": "18 Nov",
+            "premium": 27
+          },
+          {
+            "date": "19 Nov",
+            "premium": 27
+          },
+          {
+            "date": "20 Nov",
+            "premium": 27
+          },
+          {
+            "date": "21 Nov",
+            "premium": 27
+          },
+          {
+            "date": "22 Nov",
+            "premium": 27
+          },
+          {
+            "date": "23 Nov",
+            "premium": 27
+          },
+          {
+            "date": "24 Nov",
+            "premium": 27
+          },
+          {
+            "date": "25 Nov",
+            "premium": 27
+          },
+          {
+            "date": "26 Nov",
+            "premium": 27
+          },
+          {
+            "date": "27 Nov",
+            "premium": 27
+          }
+        ]
+      },
+      "subscription": {
+        "total": 248.58
+      }
+    },
+    {
       "id": "johnsoncabelectricals",
       "name": "Johnsoncab Electricals",
       "symbol": "",
@@ -668,7 +1003,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "28 Oct",
@@ -801,272 +1136,6 @@
       }
     },
     {
-      "id": "hgs",
-      "name": "HGS (India)",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 120,
-      "lotSize": 1200,
-      "issueSizeCr": 34.56,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-30",
-      "closeDate": "2026-11-03",
-      "allotmentDate": "2026-11-04",
-      "refundDate": null,
-      "listingDate": "2026-11-06",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 27,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
-        "history": [
-          {
-            "date": "4 Nov",
-            "premium": 23
-          },
-          {
-            "date": "5 Nov",
-            "premium": 32
-          },
-          {
-            "date": "6 Nov",
-            "premium": 27
-          },
-          {
-            "date": "7 Nov",
-            "premium": 27
-          },
-          {
-            "date": "8 Nov",
-            "premium": 27
-          },
-          {
-            "date": "9 Nov",
-            "premium": 27
-          },
-          {
-            "date": "10 Nov",
-            "premium": 27
-          },
-          {
-            "date": "11 Nov",
-            "premium": 27
-          },
-          {
-            "date": "12 Nov",
-            "premium": 27
-          },
-          {
-            "date": "13 Nov",
-            "premium": 27
-          },
-          {
-            "date": "14 Nov",
-            "premium": 27
-          },
-          {
-            "date": "15 Nov",
-            "premium": 27
-          },
-          {
-            "date": "16 Nov",
-            "premium": 27
-          },
-          {
-            "date": "17 Nov",
-            "premium": 27
-          },
-          {
-            "date": "18 Nov",
-            "premium": 27
-          },
-          {
-            "date": "19 Nov",
-            "premium": 27
-          },
-          {
-            "date": "20 Nov",
-            "premium": 27
-          },
-          {
-            "date": "21 Nov",
-            "premium": 27
-          },
-          {
-            "date": "22 Nov",
-            "premium": 27
-          },
-          {
-            "date": "23 Nov",
-            "premium": 27
-          },
-          {
-            "date": "24 Nov",
-            "premium": 27
-          },
-          {
-            "date": "25 Nov",
-            "premium": 27
-          },
-          {
-            "date": "26 Nov",
-            "premium": 27
-          },
-          {
-            "date": "27 Nov",
-            "premium": 27
-          }
-        ]
-      },
-      "subscription": {
-        "total": 248.58
-      }
-    },
-    {
-      "id": "maxwellengineeringsolutions",
-      "name": "Maxwell Engineering Solutions",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 158,
-      "lotSize": 800,
-      "issueSizeCr": 57.64,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-30",
-      "closeDate": "2026-11-03",
-      "allotmentDate": "2026-11-04",
-      "refundDate": null,
-      "listingDate": "2026-11-06",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": {
-        "premium": 105,
-        "kostak": null,
-        "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
-        "history": [
-          {
-            "date": "4 Nov",
-            "premium": 100
-          },
-          {
-            "date": "5 Nov",
-            "premium": 105
-          },
-          {
-            "date": "6 Nov",
-            "premium": 105
-          },
-          {
-            "date": "7 Nov",
-            "premium": 105
-          },
-          {
-            "date": "8 Nov",
-            "premium": 105
-          },
-          {
-            "date": "9 Nov",
-            "premium": 105
-          },
-          {
-            "date": "10 Nov",
-            "premium": 105
-          },
-          {
-            "date": "11 Nov",
-            "premium": 105
-          },
-          {
-            "date": "12 Nov",
-            "premium": 105
-          },
-          {
-            "date": "13 Nov",
-            "premium": 105
-          },
-          {
-            "date": "14 Nov",
-            "premium": 105
-          },
-          {
-            "date": "15 Nov",
-            "premium": 105
-          },
-          {
-            "date": "16 Nov",
-            "premium": 105
-          },
-          {
-            "date": "17 Nov",
-            "premium": 105
-          },
-          {
-            "date": "18 Nov",
-            "premium": 105
-          },
-          {
-            "date": "19 Nov",
-            "premium": 105
-          },
-          {
-            "date": "20 Nov",
-            "premium": 105
-          },
-          {
-            "date": "21 Nov",
-            "premium": 105
-          },
-          {
-            "date": "22 Nov",
-            "premium": 105
-          },
-          {
-            "date": "23 Nov",
-            "premium": 105
-          },
-          {
-            "date": "24 Nov",
-            "premium": 105
-          },
-          {
-            "date": "25 Nov",
-            "premium": 105
-          },
-          {
-            "date": "26 Nov",
-            "premium": 105
-          },
-          {
-            "date": "27 Nov",
-            "premium": 105
-          }
-        ]
-      },
-      "subscription": {
-        "total": 536.8
-      }
-    },
-    {
       "id": "bombaycoatedandspecialsteels",
       "name": "Bombay Coated and Special Steels",
       "symbol": "",
@@ -1095,7 +1164,7 @@
         "premium": 8,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "4 Nov",
@@ -1228,7 +1297,7 @@
         "premium": 4,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "30 Oct",
@@ -1381,7 +1450,7 @@
         "premium": 1,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "27 Oct",
@@ -1546,7 +1615,7 @@
         "premium": 11,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "1 Nov",
@@ -1691,7 +1760,7 @@
         "premium": 69,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -1812,6 +1881,36 @@
       }
     },
     {
+      "id": "wisconindustries",
+      "name": "Wiscon Industries",
+      "symbol": "",
+      "board": "SME",
+      "status": "LISTED",
+      "priceMin": null,
+      "priceMax": 204,
+      "lotSize": 600,
+      "issueSizeCr": 110,
+      "freshIssueCr": null,
+      "ofsCr": null,
+      "openDate": "2026-10-27",
+      "closeDate": "2026-10-29",
+      "allotmentDate": "2026-10-30",
+      "refundDate": null,
+      "listingDate": "2026-11-03",
+      "registrar": null,
+      "exchange": null,
+      "about": null,
+      "strengths": [],
+      "risks": [],
+      "financials": [],
+      "valuation": null,
+      "listingPrice": null,
+      "gmp": null,
+      "subscription": {
+        "total": 1.17
+      }
+    },
+    {
       "id": "sfcenvironmentaltechnologies",
       "name": "SFC Environmental Technologies",
       "symbol": "",
@@ -1840,7 +1939,7 @@
         "premium": 15.5,
         "kostak": null,
         "subjectToSauda": null,
-        "updatedAt": "27/11/2026, 1:15:10 am",
+        "updatedAt": "27/11/2026, 2:26:00 pm",
         "history": [
           {
             "date": "31 Oct",
@@ -1958,36 +2057,6 @@
       },
       "subscription": {
         "total": 9.47
-      }
-    },
-    {
-      "id": "wisconindustries",
-      "name": "Wiscon Industries",
-      "symbol": "",
-      "board": "SME",
-      "status": "LISTED",
-      "priceMin": null,
-      "priceMax": 204,
-      "lotSize": 600,
-      "issueSizeCr": 110,
-      "freshIssueCr": null,
-      "ofsCr": null,
-      "openDate": "2026-10-27",
-      "closeDate": "2026-10-29",
-      "allotmentDate": "2026-10-30",
-      "refundDate": null,
-      "listingDate": "2026-11-03",
-      "registrar": null,
-      "exchange": null,
-      "about": null,
-      "strengths": [],
-      "risks": [],
-      "financials": [],
-      "valuation": null,
-      "listingPrice": null,
-      "gmp": null,
-      "subscription": {
-        "total": 1.17
       }
     },
     {
